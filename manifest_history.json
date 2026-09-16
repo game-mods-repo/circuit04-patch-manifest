@@ -1,5 +1,5 @@
 {
-  "latest_patch": "0.1.4.7.1",
+  "latest_patch": "0.1.4.8",
   "history": [
     {
       "version": "0.1.4.1",
@@ -120,6 +120,28 @@
         "scripts/hud_poly_inspector.gd",
         "main.tscn",
         "scenes/hud.tscn"
+      ]
+    },
+    {
+      "version": "0.1.4.8",
+      "date": "2026-09-16 05:04:00 UTC",
+      "description": "Добавлена текстура труб, исправлен оверрайд remap и обновлена сцена main.tscn",
+      "files_count": 14,
+      "files": [
+        "res://main.tscn",
+        "res://materials/conduits/mat_industrial_pipe.tres",
+        "res://materials/conduits/mat_corrugated_hose.tres",
+        "res://materials/conduits/mat_dynamic_cable.tres",
+        "res://prefabs/conduits/heavy_pipe_conduit.tscn",
+        "res://prefabs/conduits/flexible_hose.tscn",
+        "res://prefabs/conduits/dynamic_cable_interactive.tscn",
+        "res://scripts/conduit/conduit_system_3d.gd",
+        "res://scripts/conduit/conduit_point_3d.gd",
+        "res://scripts/conduit/conduit_mesh_builder.gd",
+        "res://scripts/conduit/conduit_physics_chain.gd",
+        "res://scripts/conduit/conduit_waypoint.gd",
+        "res://scripts/conduit/conduit_interactive_plug.gd",
+        "res://textures/industrial_pipe_albedo.png"
       ]
     }
   ]
