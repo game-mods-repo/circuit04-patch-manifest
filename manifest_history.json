@@ -1,0 +1,21 @@
+{
+  "latest_patch": "0.1.4.3",
+  "history": [
+    {
+      "version": "0.1.4.1",
+      "date": "2026-09-16",
+      "description": "Incremental console command update",
+      "files": [
+        "scripts/console/commands/cmd_version.gd"
+      ]
+    },
+    {
+      "version": "0.1.4.3",
+      "date": "2026-09-16",
+      "description": "Incremental test patch with cmd_bibo.gd",
+      "files": [
+        "scripts/console/commands/cmd_bibo.gd"
+      ]
+    }
+  ]
+}
