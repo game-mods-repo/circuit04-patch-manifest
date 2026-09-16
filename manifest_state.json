@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-16T10:34:19.442337Z",
-  "latest_patch": "0.1.5.2.5",
+  "last_updated": "2026-09-16T10:38:09.875895Z",
+  "latest_patch": "0.1.5.2.6",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -191,10 +191,10 @@
       "updated_at": "2026-09-16T04:41:17.610560Z"
     },
     "main.tscn": {
-      "sha256": "9c0b418fc4a005e3961a62c3e8093e18baf754eca6396ff8660393813e648f6d",
-      "size": 66690,
-      "version": "0.1.5.2.4",
-      "updated_at": "2026-09-16T10:30:00.180768Z"
+      "sha256": "6c5d01253a801f3e6203951a8a16877ef341c8c51933f2502448da58e0c04eac",
+      "size": 67008,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.871081Z"
     },
     "player/player.tscn": {
       "sha256": "20649638790acc6f67d633c137de20e480de19ce02f7097b1f649d48b7c19e90",
@@ -2103,6 +2103,90 @@
       "size": 20,
       "version": "0.1.5.2.5",
       "updated_at": "2026-09-16T10:34:19.442335Z"
+    },
+    "models/typhoeus__arknights_endfield_0.png": {
+      "sha256": "9a25dd05bee5b0fa412ebba598802e7ec5e54a9ec1e83ea0dea72d13cab6aeaf",
+      "size": 73612,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.868849Z"
+    },
+    "models/typhoeus__arknights_endfield_1.png": {
+      "sha256": "3de9a8a52986a13740be2f1f072527d567cf4abb63c8316fd968b8871bb9e130",
+      "size": 1057691,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.869548Z"
+    },
+    "models/typhoeus__arknights_endfield_2.png": {
+      "sha256": "971a7a0f27c23b680b41f97829b4d7ad22c8b664f796fa89776367d43424f7a9",
+      "size": 1012541,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.870176Z"
+    },
+    "models/typhoeus__arknights_endfield_3.png": {
+      "sha256": "6024953518e68c38212738f372bfb7143604d63a87915b6a66de1810cd5849bc",
+      "size": 278183,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.870382Z"
+    },
+    "models/typhoeus__arknights_endfield_4.png": {
+      "sha256": "9590291c8202d288a7a3fbc72787030388fba9408f2847ddb0c774e0e97d8f53",
+      "size": 187590,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.870531Z"
+    },
+    "models/typhoeus__arknights_endfield_5.png": {
+      "sha256": "30c0769b39fc0a19bb9c0a17e8994ea9c5ea19d866fce8f4ad7aaa7d47aa4f21",
+      "size": 752268,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.870994Z"
+    },
+    "models/typhoeus__arknights_endfield.glb": {
+      "sha256": "35fe9a21b2ba6d3edae54318f1c138fefd676d24cf316dc82d63e487d6a1db5e",
+      "size": 7677264,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.875552Z"
+    },
+    "models/typhoeus__arknights_endfield.glb.import": {
+      "sha256": "686c8a0112dd75d6928f9eddca1c3bae309ce9b4d30a104acd9ff2ee41760b1b",
+      "size": 1206,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.875623Z"
+    },
+    "models/typhoeus__arknights_endfield_0.png.import": {
+      "sha256": "e1975fe6f63d9eacc9c224d0a3aaa8990af93facafc377b304944563a6f01cca",
+      "size": 1344,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.875673Z"
+    },
+    "models/typhoeus__arknights_endfield_1.png.import": {
+      "sha256": "6c1072667eae2ddb4d93b17362f8debeb75450eec7b6b7e372a37c87e677a511",
+      "size": 1343,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.875719Z"
+    },
+    "models/typhoeus__arknights_endfield_2.png.import": {
+      "sha256": "f127e0d4766c68b94b8e62f196313726cbc17438e5b51ea77c0b7540207a9c6e",
+      "size": 1344,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.875763Z"
+    },
+    "models/typhoeus__arknights_endfield_3.png.import": {
+      "sha256": "49e1d052dd8c51da67edf3307733735a00b0af622baf8e06229af8294d78c6af",
+      "size": 1343,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.875807Z"
+    },
+    "models/typhoeus__arknights_endfield_4.png.import": {
+      "sha256": "25d3bde5e3dca72fe11415da3d68b7d7136f9c57b8bf21d228ad00032f10dcaa",
+      "size": 1344,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.875850Z"
+    },
+    "models/typhoeus__arknights_endfield_5.png.import": {
+      "sha256": "be68c5395b74de1e2d7018b309eb6802a61cddaf4729220f99598ab46f40e2e2",
+      "size": 1343,
+      "version": "0.1.5.2.6",
+      "updated_at": "2026-09-16T10:38:09.875893Z"
     }
   }
 }
