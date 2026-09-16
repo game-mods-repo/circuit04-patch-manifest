@@ -1,5 +1,5 @@
 {
-  "latest_patch": "0.1.5.2.5",
+  "latest_patch": "0.1.5.2.6",
   "history": [
     {
       "version": "0.1.4.1",
@@ -535,6 +535,29 @@
         "scripts/hud_poly_inspector.gd.uid",
         "scripts/patch_loader.gd.uid",
         "test_parse.gd.uid"
+      ]
+    },
+    {
+      "version": "0.1.5.2.6",
+      "date": "2026-09-16 10:38:12 UTC",
+      "description": "аниме тянка",
+      "files_count": 15,
+      "files": [
+        "models/typhoeus__arknights_endfield_0.png",
+        "models/typhoeus__arknights_endfield_1.png",
+        "models/typhoeus__arknights_endfield_2.png",
+        "models/typhoeus__arknights_endfield_3.png",
+        "models/typhoeus__arknights_endfield_4.png",
+        "models/typhoeus__arknights_endfield_5.png",
+        "main.tscn",
+        "models/typhoeus__arknights_endfield.glb",
+        "models/typhoeus__arknights_endfield.glb.import",
+        "models/typhoeus__arknights_endfield_0.png.import",
+        "models/typhoeus__arknights_endfield_1.png.import",
+        "models/typhoeus__arknights_endfield_2.png.import",
+        "models/typhoeus__arknights_endfield_3.png.import",
+        "models/typhoeus__arknights_endfield_4.png.import",
+        "models/typhoeus__arknights_endfield_5.png.import"
       ]
     }
   ]
