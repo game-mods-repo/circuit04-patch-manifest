@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-16T10:30:00.180776Z",
-  "latest_patch": "0.1.5.2.4",
+  "last_updated": "2026-09-16T10:34:19.442337Z",
+  "latest_patch": "0.1.5.2.5",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -873,6 +873,1236 @@
       "size": 2196,
       "version": "0.1.5.2.3",
       "updated_at": "2026-09-16T10:28:21.808065Z"
+    },
+    "audio/oxygen/airlock_alarm_beep.wav.import": {
+      "sha256": "d1b20f38bbc7f7ae46d93b16d5e7c5f6ddd3cd0de4270259544590aa687cacb4",
+      "size": 525,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.422663Z"
+    },
+    "audio/oxygen/airlock_depressurize.wav.import": {
+      "sha256": "65d9cb84d7ed324cfb216ae04dc0c36c6f843aa878857f5c450935c9365d06c9",
+      "size": 531,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.422726Z"
+    },
+    "audio/oxygen/airlock_pressurize.wav.import": {
+      "sha256": "644267063db03b772d8d431912f14f32d59b8e2d91139028ba38018e8a86acf6",
+      "size": 525,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.422776Z"
+    },
+    "audio/oxygen/co2_suction_loop.wav.import": {
+      "sha256": "ccba2ab6c6fea7d6508b6aa43a608c15d279234bfc955b0848688c20da919606",
+      "size": 519,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.422823Z"
+    },
+    "audio/oxygen/oxygen_fan_loop.wav.import": {
+      "sha256": "4007ea37674a56f21f3b76d29f0944583e3b8841fc0c645fe10e9d1ffdb45d86",
+      "size": 516,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.422869Z"
+    },
+    "audio/oxygen/suit_equip.wav.import": {
+      "sha256": "093ed53d80a010f02e58617a62402a5eb7c2df1be4b1cf9950a8142444cfa4fe",
+      "size": 501,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.422914Z"
+    },
+    "audio/oxygen/suit_unequip.wav.import": {
+      "sha256": "5dd4ae5882eb18cbdca32e81dec10178168a948b5c477ec90e5f4b2cfaae8b58",
+      "size": 507,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.422958Z"
+    },
+    "models/oxygen/co2_intake.glb": {
+      "sha256": "df407ad85d0ec448f77ccf88157ac927346d7671c7aa689c9ce7a4115c18a5ab",
+      "size": 9194644,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428321Z"
+    },
+    "models/oxygen/co2_intake.glb.import": {
+      "sha256": "2df04ede3a82eae37d65fed6efd8ff6be8355cd6447d7b3e1b0a918fea026d33",
+      "size": 1158,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428379Z"
+    },
+    "models/oxygen/co2_intake_ai_rotor_albedo.png.import": {
+      "sha256": "f814e07f37a542c24cbfef30536ddf935bb49deb2ab8eab231e6844bb7d376a4",
+      "size": 1331,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428426Z"
+    },
+    "models/oxygen/co2_intake_co2_canister_albedo.png.import": {
+      "sha256": "a3ffed4a8744ab69a8aa355fbbb82c314b6f5151deec693d97f6054423b420a3",
+      "size": 1351,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428473Z"
+    },
+    "models/oxygen/co2_intake_co2_canister_metallic-co2_canister_roughness.png.import": {
+      "sha256": "1322718d6006fd89aef324b7bbe7be6a9b7f0b15b4bfaf5e09b9e36097e1df99",
+      "size": 1476,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428519Z"
+    },
+    "models/oxygen/co2_intake_co2_canister_normal.png.import": {
+      "sha256": "225fafe78974d4543a8c8556a2e3a1358841c450acc1adfa15604d6809483157",
+      "size": 1404,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428563Z"
+    },
+    "models/oxygen/co2_intake_co2_ctrl_body_albedo.png.import": {
+      "sha256": "15c62866f3c9742f70cf3ac384d82acc7d87f065f59764622745a6b1d303573b",
+      "size": 1355,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428609Z"
+    },
+    "models/oxygen/co2_intake_co2_ctrl_body_metallic-co2_ctrl_body_roughness.png.import": {
+      "sha256": "777ffc224cf63b6f3963db54be2712929c72d7bd764e7216db2351819af0e494",
+      "size": 1486,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428655Z"
+    },
+    "models/oxygen/co2_intake_co2_ctrl_body_normal.png.import": {
+      "sha256": "e34a4ac55f16dd7915dfd2b150cb1739640d665d5a0a6e6aed80d500162c372e",
+      "size": 1410,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428701Z"
+    },
+    "models/oxygen/co2_intake_co2_front_panel_albedo.png.import": {
+      "sha256": "dbbeb65c40230cfbe2d38e7fb59a34d618b88be37bb2de9622e125dbd9f40f86",
+      "size": 1366,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428745Z"
+    },
+    "models/oxygen/co2_intake_co2_front_panel_metallic-co2_front_panel_roughness.png.import": {
+      "sha256": "055fc091c75cda95a45a09687c82373b2b5d35112b1d1904ca17f15a0d254305",
+      "size": 1505,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428791Z"
+    },
+    "models/oxygen/co2_intake_co2_front_panel_normal.png.import": {
+      "sha256": "d82d979bd2cb1d4e45dd43e3e925b902158d27ff075e56f699478612b19532c8",
+      "size": 1423,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428836Z"
+    },
+    "models/oxygen/co2_intake_co2_grill_albedo.png.import": {
+      "sha256": "59c49e1f162bc00480068b5e03cb901bae0244b11a7a78174fe8ef5707d9de1a",
+      "size": 1336,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428882Z"
+    },
+    "models/oxygen/co2_intake_co2_grill_metallic-co2_grill_roughness.png.import": {
+      "sha256": "3ef2e0e4eee6860cdf1e2eedefa523a232e49bf24972d6f860860b4cabd41eb4",
+      "size": 1445,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428929Z"
+    },
+    "models/oxygen/co2_intake_co2_grill_normal.png.import": {
+      "sha256": "5d1512eb0eb3fb910afccea247cda6eb00385cf92420f7e9b1b58fb902ee9f03",
+      "size": 1387,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.428973Z"
+    },
+    "models/oxygen/co2_intake_co2_housing_sides_albedo.png.import": {
+      "sha256": "b3198c6004b757b75ebf1f5ab4c3528e1ccc1a25640f6952b543ab8374dc4bbc",
+      "size": 1375,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.429018Z"
+    },
+    "models/oxygen/co2_intake_co2_housing_sides_metallic-co2_housing_sides_roughness.png.import": {
+      "sha256": "05fb8db0fa0b337f0e747c4134acffacd58c0334cf0a34a7307ed9a19ea506b7",
+      "size": 1526,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.429063Z"
+    },
+    "models/oxygen/co2_intake_co2_housing_sides_normal.png.import": {
+      "sha256": "1e3bab00651c7d13d19fe27ed497878020a2b01c22869df9d92487abaa6ee8c7",
+      "size": 1434,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.429118Z"
+    },
+    "models/oxygen/co2_intake_co2_turbine_metallic-co2_turbine_roughness.png.import": {
+      "sha256": "4084fbeb598ddddd269fa28936cbac8363b143519e7f0659e8e4cd15062e57a6",
+      "size": 1466,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.429164Z"
+    },
+    "models/oxygen/co2_intake_co2_turbine_normal.png.import": {
+      "sha256": "482610f4f12df8ae8b35ecb68e5c8e1f51bcfb1c4609e5316267f2c707af9f4f",
+      "size": 1399,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.429212Z"
+    },
+    "models/oxygen/oxygen_fan.glb": {
+      "sha256": "943aa8ad7bb97d277a4216b8a87a1cd30b5d9d22ef2f067e5654dc916e93e197",
+      "size": 8915584,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.434434Z"
+    },
+    "models/oxygen/oxygen_fan.glb.import": {
+      "sha256": "4de398afa4631b1650828cdf7762a2b3e06c90739f6eec731fbc6be936df569b",
+      "size": 1159,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.434502Z"
+    },
+    "models/oxygen/oxygen_fan_ai_housing_albedo.png.import": {
+      "sha256": "b2d082f88da3b2d7e45b9e347df2990937a85174ab864ca7f0297309e75f9c59",
+      "size": 1341,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.434552Z"
+    },
+    "models/oxygen/oxygen_fan_ai_rotor_albedo.png.import": {
+      "sha256": "b34e17e8dd14d0857331f285f0a02a567b4a15ee6258031c7f6aef4f8dc76d10",
+      "size": 1331,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.434610Z"
+    },
+    "models/oxygen/oxygen_fan_grill_albedo.png.import": {
+      "sha256": "6fa49b0678554ba69db56d7d264bed4bb785f42b29b51fd36a3c58e965286f1d",
+      "size": 1316,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.434658Z"
+    },
+    "models/oxygen/oxygen_fan_grill_metallic-grill_roughness.png.import": {
+      "sha256": "e85f31465dee36802b9c09b6d23ab1557da2572184ccb0389d4a069c02d63c0c",
+      "size": 1406,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.434706Z"
+    },
+    "models/oxygen/oxygen_fan_grill_normal.png.import": {
+      "sha256": "c035a3c08c08d701543fd4560adf4320eddf16af987c50c30158dff5fb1834b8",
+      "size": 1363,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.434749Z"
+    },
+    "models/oxygen/oxygen_fan_housing_metallic-housing_roughness.png.import": {
+      "sha256": "58e54851645729929c02a0b4cd30dfbd2451a4ce4a5b8b735f2fb5c6597f9d9d",
+      "size": 1425,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.434794Z"
+    },
+    "models/oxygen/oxygen_fan_housing_normal.png.import": {
+      "sha256": "8eec51fc3bb40fd37e4c7dac5b95f16602207df0c5a710aa9d5240f85c4ae74a",
+      "size": 1375,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.434838Z"
+    },
+    "models/oxygen/oxygen_fan_rotor_metallic-rotor_roughness.png.import": {
+      "sha256": "6a4e3ecea47c61615f73a3c91566cb51c7525b86b22cf04000ad552e3018d10c",
+      "size": 1406,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.434883Z"
+    },
+    "models/oxygen/oxygen_fan_rotor_normal.png.import": {
+      "sha256": "3f48c22c1a723d813f64451991090d3a7112f907f871e4ee580aae540324725e",
+      "size": 1363,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.434927Z"
+    },
+    "models/oxygen/textures_co2_intake/ai_canister_metal.png.import": {
+      "sha256": "228501e75fbc8400d604c25cd79e99a75e6803b8c34550c2bf7a6f9790f00614",
+      "size": 780,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.434973Z"
+    },
+    "models/oxygen/textures_co2_intake/ai_yellow_metal.png.import": {
+      "sha256": "a57a45338538a5d749b5d5f6e225368cb58b82c233b8ef986853b7e45238f414",
+      "size": 777,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435018Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_canister_albedo.png.import": {
+      "sha256": "f8f619bef2f118309b9d09ab44d0e285e10173960e50d3206fa34914fb9538f2",
+      "size": 995,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435063Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_canister_metallic.png.import": {
+      "sha256": "1e934cd8da1eac6a3a2eede1083a7991b22c0e01980ee9e1073d07d44241e690",
+      "size": 1001,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435108Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_canister_normal.png.import": {
+      "sha256": "65e08e2f8927f752fa99827b84d346908b832885afc59ab54b61edcd20309e4c",
+      "size": 995,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435151Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_canister_roughness.png.import": {
+      "sha256": "a0948bcffb5280b1389236db8457b8e6e02b079c917623d679c9436b7897becc",
+      "size": 1004,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435195Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_control_box_albedo.png.import": {
+      "sha256": "83d7d8a22baceedbb0831cd88147d4dff00afb2c41e0341d98b1e4013e0762ff",
+      "size": 1003,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435237Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_control_box_metallic.png.import": {
+      "sha256": "f86dd8c374a385c67a37595fb6f56131ae901eefd40e005ac40fe77cd3d672a3",
+      "size": 1010,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435280Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_control_box_normal.png.import": {
+      "sha256": "d4c26afe603c6dae9b0628fbce5c6248ac09d8a15415255a5ce5e31eb9b919ae",
+      "size": 1004,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435325Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_control_box_roughness.png.import": {
+      "sha256": "a58ee29bc51672089f63387e9c2cf440ee74b550badd9bcd13e998247f7e908c",
+      "size": 1012,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435368Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_ctrl_body_albedo.png.import": {
+      "sha256": "3dfcdbb6bcfbef75dfa0d3a76de520e4d70a1c0b46ee50924bee315234ebc1e7",
+      "size": 998,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435411Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_ctrl_body_metallic.png.import": {
+      "sha256": "37c3bb73ac363fb6809f995407d00657fa232d09476c71399132eea3fbd19a62",
+      "size": 1004,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435454Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_ctrl_body_normal.png.import": {
+      "sha256": "4bfe25e2eb72527b470ed1dbe92ea17110a5cf82b340ade91cb68d37f0e38340",
+      "size": 998,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435496Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_ctrl_body_roughness.png.import": {
+      "sha256": "2def46cbbee2f1c07ee25f97eb815131064fe706f1abf440ce3d40f38455f5dd",
+      "size": 1007,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435538Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_front_panel_albedo.png.import": {
+      "sha256": "b47f39e6d8ebe649b9679c7b30164b7018479f3bc1fdf589ed196b78ef75c2f4",
+      "size": 1004,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435584Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_front_panel_metallic.png.import": {
+      "sha256": "cfd000f31be60516b8205ae7eafb2078bc66228de593e40d9aae08969cc44170",
+      "size": 1010,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435630Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_front_panel_normal.png.import": {
+      "sha256": "68245e69ec99b768f2b3ac5f2c7404ac3a9f999048f747477212732d314e4e7a",
+      "size": 1004,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435672Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_front_panel_roughness.png.import": {
+      "sha256": "31a3402d55ddc915fab54e945f416b3079328981a9e3cf75191ca9610019120f",
+      "size": 1013,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435715Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_gauge_albedo.png.import": {
+      "sha256": "3d75cf7167906138408d20a913822f594ba88b9f6ae422e2d32e057ce7f7da6c",
+      "size": 986,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435759Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_gauge_metallic.png.import": {
+      "sha256": "4b75ad3a4b97ba9a24c61cb757a99d528c6d59ec25c675fd146ee32445df33cb",
+      "size": 991,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435802Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_gauge_normal.png.import": {
+      "sha256": "786321264c87f121d6cdf08ea38f1671edfae2e3eafe1d40cec7ea4d5e135a98",
+      "size": 986,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435844Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_gauge_roughness.png.import": {
+      "sha256": "06328d0a82af8f0935c4e2291a22c5d5a3b83a20cd8bfde4e3b26d776632a29e",
+      "size": 995,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435887Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_grill_albedo.png.import": {
+      "sha256": "fe6bd538d27841f01b55a425e360133c5acf7f2899dfbd61734a050440cd93cf",
+      "size": 986,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435929Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_grill_metallic.png.import": {
+      "sha256": "cd70f837b457c52d082dd70dd8032d5f95da9cd2dd56dc474f3fc2f73655be33",
+      "size": 992,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.435972Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_grill_normal.png.import": {
+      "sha256": "9a93264c7bc66d3e8096819e1d933b5b2a4c0228dbe518fd0701eff9f922f97a",
+      "size": 986,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436014Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_grill_roughness.png.import": {
+      "sha256": "7ac4dc5cc40b8339a744170fcba9185fa8c766582716755902a8c9d63e872850",
+      "size": 994,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436057Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_albedo.png.import": {
+      "sha256": "23991e171447aaf03d8cb446711e47621c9f6d9d06d579884a08c96812ab187a",
+      "size": 989,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436112Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_metallic.png.import": {
+      "sha256": "83a8ffc69da9e2cbd8aff0a7096c2dba5863e12b6fdb532e8503ff5cafef8307",
+      "size": 998,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436156Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_normal.png.import": {
+      "sha256": "39bf285f7b22a2925fc0f7ef4084181809f50ae5f8d0e05a26b3f82ec4fa0883",
+      "size": 991,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436198Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_roughness.png.import": {
+      "sha256": "350f7a4c95406ebebae7029e25683036dc10e568c85e4050ca52cf21216ff9d2",
+      "size": 1001,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436240Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_sides_albedo.png.import": {
+      "sha256": "8905f1a1a7d957c71c93c01902186d7243e5a1e0d345b4bb57c69142c9d8ff64",
+      "size": 1010,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436283Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_sides_metallic.png.import": {
+      "sha256": "d4e8e673ff9029eee939e8d365997f535deec4bf6cdacd0e216857bfe56a96f9",
+      "size": 1016,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436326Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_sides_normal.png.import": {
+      "sha256": "2426fed17ecb1b8872fbb16b2cdb14faaeddeeac840d24ddbfc59b0e87c2f421",
+      "size": 1010,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436368Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_sides_roughness.png.import": {
+      "sha256": "fe6efcaa491a4096741e47e87c6f7a6b0f9d3147fba3c8257c78b6f5dfbc3b14",
+      "size": 1019,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436412Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_turbine_metallic.png.import": {
+      "sha256": "c0de74042edcccb5943a4d0ab9ba9ed38f0dd706d7466a4360d703e298f995fb",
+      "size": 998,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436454Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_turbine_normal.png.import": {
+      "sha256": "f5dfaf447a93eac938d4943093c3e731f4bc9943b993dfcfdeefec90a858bc36",
+      "size": 992,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436497Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_turbine_roughness.png.import": {
+      "sha256": "33c5e70a564ec74b0da5a88d03aaa475d19adda33ef4bf5bf509efed18aee1d1",
+      "size": 1001,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436539Z"
+    },
+    "models/oxygen/textures_co2_intake/textures_manifest.json": {
+      "sha256": "7959d8613c2531109f797b89f76844ac53d4b390736441b728cbe56e0bb826c1",
+      "size": 3338,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436601Z"
+    },
+    "models/oxygen/textures_oxygen_fan/ai_housing_albedo.png.import": {
+      "sha256": "4808c7d21a493147dea4e62cc0f98aaab0d0093d1f1cd78d1c9ead8f6303accb",
+      "size": 780,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436647Z"
+    },
+    "models/oxygen/textures_oxygen_fan/ai_rotor_albedo.png.import": {
+      "sha256": "5452acc6fe0bf73775f8ed80fe85b9eccfef7a972e235a8e2c5cf9ba841fb586",
+      "size": 778,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436690Z"
+    },
+    "models/oxygen/textures_oxygen_fan/grill_albedo.png.import": {
+      "sha256": "ce0245d6d01466788e1b82836a0e92afbab83bfec2a56059ca0e92a8cf81cfbe",
+      "size": 974,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436733Z"
+    },
+    "models/oxygen/textures_oxygen_fan/grill_metallic.png.import": {
+      "sha256": "d29a77ea7f738285aa61142ee361fddb3fd6546a5b32542169237b4fa02e9def",
+      "size": 980,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436776Z"
+    },
+    "models/oxygen/textures_oxygen_fan/grill_normal.png.import": {
+      "sha256": "0b3f26162ea959beb0d342f25af88d42b31408c14281367e0eaa3cb4b4ca927d",
+      "size": 973,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436819Z"
+    },
+    "models/oxygen/textures_oxygen_fan/grill_roughness.png.import": {
+      "sha256": "740c3f148fa7a3bfb17f438bc4d44d246c072e7e2e4040414a89c302b27900a7",
+      "size": 983,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436861Z"
+    },
+    "models/oxygen/textures_oxygen_fan/housing_albedo.png.import": {
+      "sha256": "d670b130f64741c9db63bbe977a103b79d9b92bec85918d9a3b93fe8cc28e3c8",
+      "size": 980,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436903Z"
+    },
+    "models/oxygen/textures_oxygen_fan/housing_metallic.png.import": {
+      "sha256": "59c31051abf5b924a43ac355e88ca669ac8e68039d0b26f08b58f6ff2e75375a",
+      "size": 986,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436946Z"
+    },
+    "models/oxygen/textures_oxygen_fan/housing_normal.png.import": {
+      "sha256": "0455aa348f0c267abc7534d18e87113e55ed10e64f713c91023e52ad2968f39c",
+      "size": 980,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.436989Z"
+    },
+    "models/oxygen/textures_oxygen_fan/housing_roughness.png.import": {
+      "sha256": "4ad5386b147bf0639bbba799b4944de0dcef9cfb1099cfd6d68f0e7556173eba",
+      "size": 989,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437032Z"
+    },
+    "models/oxygen/textures_oxygen_fan/rotor_albedo.png.import": {
+      "sha256": "30bff76dc8734a6c14b5db596f98a3e945b3425fc0b87f8f1d241b33a759e641",
+      "size": 974,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437081Z"
+    },
+    "models/oxygen/textures_oxygen_fan/rotor_metallic.png.import": {
+      "sha256": "a5df74d4684f7343b0984a611e8401a677ce2580458bbbe96934f9d23eafa1ff",
+      "size": 980,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437124Z"
+    },
+    "models/oxygen/textures_oxygen_fan/rotor_normal.png.import": {
+      "sha256": "59443cacec40fbb9d4868e2628c615c70ae0991678965393b2ee3787582c166b",
+      "size": 974,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437166Z"
+    },
+    "models/oxygen/textures_oxygen_fan/rotor_roughness.png.import": {
+      "sha256": "fb9ed17743537de856949a262ba9f2329a2a36e79701dd8d6b4c33b211a6b00d",
+      "size": 983,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437209Z"
+    },
+    "models/oxygen/textures_oxygen_fan/textures_manifest.json": {
+      "sha256": "bb8586d962ad2f23d9db3d463953181cfd52100890440fb942c90cafcd6d15d1",
+      "size": 1354,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437253Z"
+    },
+    "project.godot": {
+      "sha256": "949cd99579c42d6b8c8f5f809a78308f9fd007e92638a560f7478f2cbed59ab9",
+      "size": 1424,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437301Z"
+    },
+    "scripts/generate_map.py": {
+      "sha256": "cdb0fa05701c94bd917d9dec3db9307c7414209bd1766150e71cf0fcb935cfe2",
+      "size": 14989,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437356Z"
+    },
+    "scripts/generate_oxygen_sfx.py": {
+      "sha256": "45ffbd6317a890f451d9c005dc3eb9524cdb8fb48720f6cfe9fa78c79f36e3e3",
+      "size": 6639,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437403Z"
+    },
+    "test_version_cmd.py": {
+      "sha256": "d27aac4038a83b7e02eb3bdd703a7d967a92ed09f51712d16edb018e6196e2db",
+      "size": 657,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437447Z"
+    },
+    "textures/ChatGPT Image 16 сент. 2026 г., 11_52_04.png.import": {
+      "sha256": "a73c5d5eef945dd2f762c35a150250940c4236a6cfdaf4c16622da08d00f404c",
+      "size": 1354,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437494Z"
+    },
+    "textures/ChatGPT Image 16 сент. 2026 г., 12_13_55.png.import": {
+      "sha256": "869c4c199644c2a385d2e594910fd1de22d09fb48913c4c33ec77bb189d53500",
+      "size": 1354,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437540Z"
+    },
+    "textures/industrial_pipe_albedo.png.import": {
+      "sha256": "fb45cc0892934ce441e38df48fddabfa553a830157470f4cddac33246e190886",
+      "size": 1239,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437600Z"
+    },
+    "AGENTS.md": {
+      "sha256": "962dce72e902ef952b7569823f5fa403f36a465f218b827ba959de586fc6f434",
+      "size": 13709,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437657Z"
+    },
+    "ARCHITECTURE.md": {
+      "sha256": "3b1e3637a5c3ebb65419f62cb00045b098aa99f70efdb529ac67c4356f3700ad",
+      "size": 7163,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437702Z"
+    },
+    "BUGFIX.md": {
+      "sha256": "b638de5656f248433e50c1e7e0a28dbc3fcd1012d6295354eb51e79d0f553aab",
+      "size": 10675,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437749Z"
+    },
+    "CODEBASE.annotations.yml": {
+      "sha256": "1f77d98cf92e057f37384d0bc0841874639b06b1d46a6ea34174e941ec5e586f",
+      "size": 150941,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.437872Z"
+    },
+    "CODEBASE.index.md": {
+      "sha256": "fccb9f1de34f7127a5cee6f4566baf0422a5cd2fb8225fa3892e137c3bf504ac",
+      "size": 202223,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438029Z"
+    },
+    "LAUNCHER_GUIDE.md": {
+      "sha256": "ecfa942be75563882e94f572a971cbb8b89cc47276f0e1f8caffa87f8969f424",
+      "size": 3816,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438074Z"
+    },
+    "export_presets.cfg": {
+      "sha256": "fc055914a9702a9d1101ac2b7604fb354bc5748b33a7684245af1dc46df674e6",
+      "size": 10337,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438120Z"
+    },
+    "launch_launcher.bat": {
+      "sha256": "a29377205d8837d3d934a044550c014fbebebfe8453486c66d8a5a55fa34c083",
+      "size": 243,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438161Z"
+    },
+    "launch_patch_uploader.bat": {
+      "sha256": "0a7dba27fbcf82ed302512d73ee0b4139779771e6afca24c7d9e4e6b120c48ac",
+      "size": 428,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438203Z"
+    },
+    "test_parse.gd": {
+      "sha256": "60707afafb029a9599961e98b39d4fb51f7eddcda03d0da7497deb8b0453c1f5",
+      "size": 160,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438243Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_0.png.import": {
+      "sha256": "f3fb418e60599be47c73b779cc2d195d30efc4412990d58a2b12cdb062f77e21",
+      "size": 1044,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438297Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_1.png.import": {
+      "sha256": "0c35b8c2615774095806816f0e0495bc18796f52d1e6101c93e468ccf31e6bcb",
+      "size": 1043,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438339Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_10.png.import": {
+      "sha256": "5aff60892954c5d7ff9097f75e073668483fdee4ef3aac91865480619efba9da",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438381Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_11.png.import": {
+      "sha256": "128e4e48865d1c0ebc1eb55036815b80cd89903237ad47d57d66d1a673c6241a",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438423Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_12.png.import": {
+      "sha256": "9a6dadace1eed893ea7ba051337f85829a6eaa9d0c2143a19f764d8fcc19c256",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438464Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_13.png.import": {
+      "sha256": "9d7b5d59f20c3eff48ad47ab967bd9fb5fecac6cd8203d7bcbcc9464dcf5eb48",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438504Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_14.png.import": {
+      "sha256": "fbce9e16c4f9edc60dd097895ebfb7c20761de54ade8c4efa80b432df66c531f",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438545Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_15.png.import": {
+      "sha256": "d23bd527de78c1538654e3550ee2a400f697ac865280d937b42ebbad6429b242",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438593Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_16.png.import": {
+      "sha256": "84d92636d0fa2d607b632080f7be403a2c6bbc8122a3bc66792e4aa36ef4484e",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438636Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_17.png.import": {
+      "sha256": "1b612d6c0bdba7e4adf3b0c2016fd24ccd96582367db3e65376552eeee1a3e24",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438678Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_18.png.import": {
+      "sha256": "2b11d314c729a2c139117501678a113885d0af05b6622dc6be83d87120f553c8",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438719Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_19.png.import": {
+      "sha256": "17e65ccaaab732c365a856bae68b1801385f7eeca263fdd08faecd7af34c19f8",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438767Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_2.png.import": {
+      "sha256": "5c74fa7fd213dc6de437a4eeb64e6b5fd6e77c02b192f9d778d3b007b70514de",
+      "size": 1044,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438809Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_20.png.import": {
+      "sha256": "a2c634a3aee5bdcb8646e0fdf1d706a1ee7886429e8289e471b3472641dbe90b",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438850Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_21.png.import": {
+      "sha256": "fa18e360b9717762d4472db52cc69ae04bb7ecc50899c333d7e4d74b42c09aa1",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438890Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_22.png.import": {
+      "sha256": "79c09282d908b5878e5ebf642b8b2fa001a4b064092a77448fb99f09b3f7b893",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438931Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_23.png.import": {
+      "sha256": "fbf578001932385947a0df6760ddcc0e603b01e68443e7e33e1a4e112b9b543b",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.438971Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_24.png.import": {
+      "sha256": "061f60994062155f42c16635d5b419375fe6f7b7b00a3e68e76551f161a60a8f",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439013Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_25.png.import": {
+      "sha256": "80e85201fd616e06defdbc04a0682ec894ef3960e46d200850d0ef8a4656a3b3",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439054Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_26.png.import": {
+      "sha256": "6c46976877fa97395b0adac184f03438f0a19b918a9db8058b42a52f5a67a87d",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439095Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_27.png.import": {
+      "sha256": "073f8d622a1e928ed28fcac44a36188ae1933ec55d6cd09330fdea0925bee5a2",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439136Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_28.png.import": {
+      "sha256": "dd9fd304f25481342d02ef31f90b6608eb6edb1cbb500e3ce0ed8b0c35aa29f1",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439178Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_29.png.import": {
+      "sha256": "b82295d4c1014d80d2bbcbd178f2b80943c5b553c11baa2a674a461f2992bbc9",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439229Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_3.png.import": {
+      "sha256": "80f9ad2d77f580cd7a674cef0d89a097a0ab3e1482cb299770049066140de72f",
+      "size": 1044,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439271Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_30.png.import": {
+      "sha256": "8c7f423a5b282fbaa1a889b29739693b8717032348b23e026332e64b02e1ce1f",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439312Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_31.png.import": {
+      "sha256": "5f49df069d3759b68f24de8b87d576d4e7d3a6682daac480284c5880d9b66e56",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439352Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_32.png.import": {
+      "sha256": "ad99a7b476196e7260fa82622dbdb0cd187d51498d58ed4bb066ef15c9ec2421",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439393Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_33.png.import": {
+      "sha256": "6a77fe1fc83cbb7fa99dd739e75561b52a60669104eb28e75e22fc989cf486c4",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439434Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_34.png.import": {
+      "sha256": "ecfd7cdc8ffb73eb346c816185d602d0256bd4a6f00280ceea4344d200b79d94",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439476Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_35.png.import": {
+      "sha256": "e66048faceb3bfb5d90c80dfae1ca7a1dc144ad149c6ec56c5a5497cbbe3cdf6",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439530Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_36.png.import": {
+      "sha256": "68035e933429c351c6d2f0862e264ed81067e3978658cd140bc39943d150a7c6",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439571Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_37.png.import": {
+      "sha256": "7f9dc9139da611e9c6e0d97b1bca3c97702ebaacfbf732660a8dec829165d95e",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439617Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_38.png.import": {
+      "sha256": "54df2bfce66d40304bfee8c5f697a1402c72392248b727d886007c0353b37565",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439659Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_39.png.import": {
+      "sha256": "b3aab9163519c4cd2ea80e8e3096461b628219c38e06a8fa5f042a3f88899eaf",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439705Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_4.png.import": {
+      "sha256": "81e67c6dfe8b540dbf6081d755ecb7efb9b2b4766748b587440a8765d2caeef5",
+      "size": 1044,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439747Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_40.png.import": {
+      "sha256": "33aaa0a57a268b8c4f3f125af4ab686521724e74904df507ced2af4aab98dc3e",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439787Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_41.png.import": {
+      "sha256": "f8b41a18291c365eb8a9a7aa5c95eb4d18739f0f0602206c6156b6d6a50cd9e8",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439834Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_42.png.import": {
+      "sha256": "e0b9121e21044b7096aaa23dee1e660aca39935ed95eb11c1e2569bf80985d14",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439881Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_43.png.import": {
+      "sha256": "88074892aa0535fa0a58888bd22b078ce54281f467d1926b08e98350e191d7cd",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439922Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_44.png.import": {
+      "sha256": "54ff92a95ac33511abb04c956ca1c86edc9dd0c97c33c96500920d03d06c886e",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.439962Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_45.png.import": {
+      "sha256": "51e93d44dc9da37835380fb8d8f65bb531084856079467e2bf262d8189da5cff",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440003Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_46.png.import": {
+      "sha256": "189b5f44ba4971fb56f9edfea515180d8de0e264368fc1f22dcaade4b5d9cb65",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440042Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_47.png.import": {
+      "sha256": "5e49e7f1c12a66263d406d19509a1b0c067a3908bfd10f6b76caa17e1dfa3cc5",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440083Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_48.png.import": {
+      "sha256": "45f092e63a96016b1e4d7953398de799cef717929b21a91f8a0f3f54621c34c9",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440123Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_49.png.import": {
+      "sha256": "458ff01f790a5d3a0344fe1c151e5f7a286ef5255ccb56818c2d38b8b1d58e0d",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440171Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_5.png.import": {
+      "sha256": "5b37cee6ebffb61b581ab9ca53523dd9ea458ccb37839b3d185ec9792beb057d",
+      "size": 1044,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440212Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_50.png.import": {
+      "sha256": "629641f2a329d16c667ea32c1a4306778dd6106f7f24266553240c20e1d7009b",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440252Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_51.png.import": {
+      "sha256": "d033879144bd570548b7a1d5989dc23e846faef64e1bb60fafc0f22c576871af",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440294Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_52.png.import": {
+      "sha256": "a7ba61d267641c91c08d2f132a46300e6cfca50c0e46d378c6813196ed0e185f",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440334Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_53.png.import": {
+      "sha256": "fe6e3fab8a4bf1892946e681e024487d558324801aa355d1f11d77b069d75006",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440375Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_54.png.import": {
+      "sha256": "bc2d5f0348e61bd1c902d864c4bfae6521c41e3c5ac5085a929fb1e55739b1c4",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440416Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_55.png.import": {
+      "sha256": "0393e2398ee6d2935119c33493e170c0625cf7cf6d1f399d8b351d53209e4054",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440457Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_56.png.import": {
+      "sha256": "3d27bc8838d37da016e5cf7cd6ad5f931f90c5638685c9f9f8dffffa8756de02",
+      "size": 1045,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440497Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_57.png.import": {
+      "sha256": "bb4196cabba7252ae9d13766d4e028e849663fbe182a0cc40fbb7fd584e44078",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440537Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_58.png.import": {
+      "sha256": "4cb28a0876e2c396544db2bb0072a748917af4925828d7d51cfae74e611fbd4c",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440583Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_59.png.import": {
+      "sha256": "f4ef2b40b51358b7adc826637ed969821f27d8308f7f4d5d67af12e56afd517b",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440637Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_6.png.import": {
+      "sha256": "a72a0a5df8fa1199be852e42ca21db6754bb362b6da8aa489e5450c0a054efeb",
+      "size": 1044,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440679Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_60.png.import": {
+      "sha256": "d596a4d4079798ce8d1c761eb218551307c291efc74efd35221caf57eb905785",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440721Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_61.png.import": {
+      "sha256": "a9bf75b5c7345003e397f15fe56744060025b3d4ddb17d406bb5f97be47bf3eb",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440761Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_62.png.import": {
+      "sha256": "d55ca1fba56406712a0e6d93e61d9d753d900268d7f25561cdca45d4f4a0c131",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440803Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_63.png.import": {
+      "sha256": "4b1aa3391296dd5742247cf1074e6393f8d788f3ae585fec011fd5c380afbc4d",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440843Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_64.png.import": {
+      "sha256": "751c27448ba666c3cb0bac7daa1fb05f307ed4408f4aade3d9ce42aafe6c5258",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440884Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_65.png.import": {
+      "sha256": "a48e9092041e1ec8189697e2190f7c854efc9d501a6ca94891b405168073b04b",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440925Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_66.png.import": {
+      "sha256": "aaf78f0b59742a10c4a6afd8530742800040cb1a7f5feba69e4aa225744b5ccd",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.440966Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_67.png.import": {
+      "sha256": "ecacef5c9a7d526cb7fa98056103142396337d687cc9875070e9791aa8fe1411",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441007Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_68.png.import": {
+      "sha256": "9840db69b476698ec9a5bc1025ed6fb10c477d545919edf7eeca55cd6224f611",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441049Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_69.png.import": {
+      "sha256": "297b40679663bea582e30564815b9bda0b86a1ce3da6357cd5e66a45e4b642db",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441097Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_7.png.import": {
+      "sha256": "71910707411db4dd933229f229314ddc10c97f443a96efc92791c6f805fb525e",
+      "size": 1044,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441139Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_70.png.import": {
+      "sha256": "3379d58917673993d722704c8239c7e093ccb10e32da54f5dcbda12d7321cfa3",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441179Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_71.png.import": {
+      "sha256": "f6497b462fe5556a62e8b327ebd0bc6a275a7e0d91a37d837b53ca9ac1a61eae",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441220Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_72.png.import": {
+      "sha256": "94029297a0eda01546f74d9eea327794cb817add9c2d55fa9f8e7b50d9dde9d6",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441260Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_73.png.import": {
+      "sha256": "0a11a22ec624483901b041f7eaa04ee28e9e97bbfb971b6d16e21d35c4f59281",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441302Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_74.png.import": {
+      "sha256": "b58f986d4a54a0ff7744e7f18001b8c708cfe3768985f409a50414313c21c804",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441342Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_75.png.import": {
+      "sha256": "6d55cb791ab5f4e594cff7667d83cee332e8fb23251ae8714d731141e3dc219e",
+      "size": 1046,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441382Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_76.png.import": {
+      "sha256": "8cd7c2e3e6c0b564f3f626fbe9e1b2e149f1718839b723a6376842fb2c5fa2d5",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441423Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_77.png.import": {
+      "sha256": "7ff0b98686f029617fceb80739e045df7e54ecb9c35749a829f9d85cb884ed51",
+      "size": 1047,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441463Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_8.png.import": {
+      "sha256": "454026da05a2e777e0ba62f39d43b0c73a22d6219eaa14369b6b4477f7afa249",
+      "size": 1043,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441503Z"
+    },
+    "mods/maps/gm_apartment/gm_apartment_v2_9.png.import": {
+      "sha256": "4e71237ae06e72af9b0051fe7237a334b21e0bf1b3de6fe1090051fb2fc68287",
+      "size": 1044,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441550Z"
+    },
+    "player/components/player_spacesuit.gd.uid": {
+      "sha256": "fa942740b8fbf6d7aa25c112131112d1dadac70ba383faa193eae5a3e7168d99",
+      "size": 19,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441597Z"
+    },
+    "prefabs/oxygen/airlock_chamber_controller.gd.uid": {
+      "sha256": "458797b978a2eb87ea015116cb1e50f9627571c881a3fda26c85c12b5bacce62",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441640Z"
+    },
+    "prefabs/oxygen/airlock_scene_binder.gd.uid": {
+      "sha256": "8db1e1998bdf1a5d182ca2b896660e26ebd06f551faade80ed72d80445ca7752",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441681Z"
+    },
+    "prefabs/oxygen/airlock_terminal_button.gd.uid": {
+      "sha256": "cdb5faaf55a60b5dcda063ddb2faedfdadfeaf723d5094eb986d2b944b5beded",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441721Z"
+    },
+    "prefabs/oxygen/co2_intake.gd.uid": {
+      "sha256": "61fcb49d8c854585349f9a9dd9cf5a172dc86b12c2821227354e0676168b6315",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441761Z"
+    },
+    "prefabs/oxygen/oxygen_fan.gd.uid": {
+      "sha256": "4c2cc069ffc289f94600a488e4bee792a9c04f3f733f2abd28e359e19de64252",
+      "size": 19,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441801Z"
+    },
+    "prefabs/oxygen/spacesuit_locker.gd.uid": {
+      "sha256": "2962fa59dfa3135801eede03580eb4133976b1e7a84d007b43c45baf76941cfd",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441841Z"
+    },
+    "scripts/conduit/conduit_interactive_plug.gd.uid": {
+      "sha256": "037e665f9e36fb36b1bc3b24e77f80e7f300290a8b6ba6d003380aea3bffcda4",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441883Z"
+    },
+    "scripts/conduit/conduit_mesh_builder.gd.uid": {
+      "sha256": "efb40359ddb3f4e811bd933e095f4def5dd1c5701d9e8094f9b8ac538ac3ce76",
+      "size": 19,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441924Z"
+    },
+    "scripts/conduit/conduit_physics_chain.gd.uid": {
+      "sha256": "8527cf7a5fee47a93d6da0123a4311ad9475d581b4383e99119e6f9ebfa5fb72",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.441963Z"
+    },
+    "scripts/conduit/conduit_point_3d.gd.uid": {
+      "sha256": "f81b0e99c55afcb115912face453f320b155088aef7d99ceb94a3c2648cfa94e",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.442009Z"
+    },
+    "scripts/conduit/conduit_system_3d.gd.uid": {
+      "sha256": "29f1b85271e73cc8fb5e045059a6209934946260afa7d487d45e92c11fe29e4b",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.442054Z"
+    },
+    "scripts/conduit/conduit_waypoint.gd.uid": {
+      "sha256": "c329ae608933be8d861a5348e564b8883e26c65c39b2c49bc0d55483953f12fd",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.442094Z"
+    },
+    "scripts/console/commands/cmd_bibo.gd.uid": {
+      "sha256": "9af7ec1abbcb7f6cf73cd831a7365e21a8d7005aea401beeb8296bcbaf7ca0a5",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.442133Z"
+    },
+    "scripts/console/commands/cmd_showpoly.gd.uid": {
+      "sha256": "c0657d94ad6044303b256e64e790f17f38743de421f7bda3963b3aea64b79df5",
+      "size": 19,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.442173Z"
+    },
+    "scripts/console/entities/scene_entity_inspector.gd.uid": {
+      "sha256": "71ad3153959deba09314a34fdd4de272d4bfd8c79b798630feece90737210f99",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.442214Z"
+    },
+    "scripts/hud_poly_inspector.gd.uid": {
+      "sha256": "2b4ca28d086ab08d8081f6e15ec8674e856895816ceb07bd5c9b427bf8844b4b",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.442255Z"
+    },
+    "scripts/patch_loader.gd.uid": {
+      "sha256": "126b43bdb6c4d09a753784a3f8b06eed69cad190e76882aa6470889e9e4c04e1",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.442294Z"
+    },
+    "test_parse.gd.uid": {
+      "sha256": "f33ab52bfd0ea62bb75e4bc251ef8f42f39610e30f6d2b83a7a7e2aa578d8c1f",
+      "size": 20,
+      "version": "0.1.5.2.5",
+      "updated_at": "2026-09-16T10:34:19.442335Z"
     }
   }
 }
