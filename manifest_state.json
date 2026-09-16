@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-16T10:28:21.808068Z",
-  "latest_patch": "0.1.5.2.3",
+  "last_updated": "2026-09-16T10:30:00.180776Z",
+  "latest_patch": "0.1.5.2.4",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -191,10 +191,10 @@
       "updated_at": "2026-09-16T04:41:17.610560Z"
     },
     "main.tscn": {
-      "sha256": "fe0783390e2a41a7d5d4330c300c00eab58764c2cad1f3fbdb99fdcc4e9946e7",
-      "size": 65369,
-      "version": "0.1.5.2.3",
-      "updated_at": "2026-09-16T10:28:21.807831Z"
+      "sha256": "9c0b418fc4a005e3961a62c3e8093e18baf754eca6396ff8660393813e648f6d",
+      "size": 66690,
+      "version": "0.1.5.2.4",
+      "updated_at": "2026-09-16T10:30:00.180768Z"
     },
     "player/player.tscn": {
       "sha256": "20649638790acc6f67d633c137de20e480de19ce02f7097b1f649d48b7c19e90",
