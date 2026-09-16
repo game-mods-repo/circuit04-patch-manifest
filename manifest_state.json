@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-16T10:38:09.875895Z",
-  "latest_patch": "0.1.5.2.6",
+  "last_updated": "2026-09-16T12:53:18.995306Z",
+  "latest_patch": "0.1.5.2.8",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -1487,10 +1487,10 @@
       "updated_at": "2026-09-16T10:34:19.437872Z"
     },
     "CODEBASE.index.md": {
-      "sha256": "fccb9f1de34f7127a5cee6f4566baf0422a5cd2fb8225fa3892e137c3bf504ac",
-      "size": 202223,
-      "version": "0.1.5.2.5",
-      "updated_at": "2026-09-16T10:34:19.438029Z"
+      "sha256": "f1184a1884914d22b9849cbc54eb924e532772165532d211d7ae5f051ccde0b0",
+      "size": 202244,
+      "version": "0.1.5.2.8",
+      "updated_at": "2026-09-16T12:53:18.995302Z"
     },
     "LAUNCHER_GUIDE.md": {
       "sha256": "ecfa942be75563882e94f572a971cbb8b89cc47276f0e1f8caffa87f8969f424",
@@ -2187,6 +2187,30 @@
       "size": 1343,
       "version": "0.1.5.2.6",
       "updated_at": "2026-09-16T10:38:09.875893Z"
+    },
+    "scripts/console/commands/cmd_bind.gd": {
+      "sha256": "7ce6e564b50290a902a9707c0eb162849308b9593b92df4cd86d1ce96ba217a2",
+      "size": 3923,
+      "version": "0.1.5.2.8",
+      "updated_at": "2026-09-16T12:53:18.994978Z"
+    },
+    "scripts/console/commands/cmd_clear.gd": {
+      "sha256": "8ae6aee54ce30beda3be0d8f0b96b26052d84b5b19c269e516c0a2f91a5f5e11",
+      "size": 1425,
+      "version": "0.1.5.2.8",
+      "updated_at": "2026-09-16T12:53:18.995039Z"
+    },
+    "scripts/console/commands/cmd_do_not_type_this_command.gd": {
+      "sha256": "ffbbf7905812d34b439900831a0c057508fa96261ec3c7910907b2d6323f531b",
+      "size": 2156,
+      "version": "0.1.5.2.8",
+      "updated_at": "2026-09-16T12:53:18.995092Z"
+    },
+    ".map-dirty": {
+      "sha256": "7d76275da4d876095e9021b3fff7afbccf28e3ea83bce164917a0afe3e62b553",
+      "size": 13,
+      "version": "0.1.5.2.8",
+      "updated_at": "2026-09-16T12:53:18.995139Z"
     }
   }
 }
