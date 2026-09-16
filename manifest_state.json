@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-16T09:42:06.457030Z",
-  "latest_patch": "0.1.5.2.1",
+  "last_updated": "2026-09-16T10:03:38.453179Z",
+  "latest_patch": "0.1.5.2.2",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -77,10 +77,10 @@
       "updated_at": "2026-09-16T04:41:17.609610Z"
     },
     "player/player.gd": {
-      "sha256": "63dd5d9e2fa02369b74bdafb2af56893877b005020c5749cd38085998c6f1786",
-      "size": 24005,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.609668Z"
+      "sha256": "a165d742820a986d69cde91e2a60622afdd8e9543243350ff4e7799d50a50420",
+      "size": 24015,
+      "version": "0.1.5.2.2",
+      "updated_at": "2026-09-16T10:03:38.453169Z"
     },
     "scripts/conduit/conduit_interactive_plug.gd": {
       "sha256": "25299dbdeea43eca303f344e3dd96bac69d55dbbd0d077149a06c6cb8ffd27a0",
@@ -155,10 +155,10 @@
       "updated_at": "2026-09-16T05:17:48.944623Z"
     },
     "scripts/console/dev_console.gd": {
-      "sha256": "bb8110c0f50a1f12e1327a005c60002d8d26713d14448ab5f7e2debc97094780",
-      "size": 5217,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.610318Z"
+      "sha256": "f2c9a7840c13b6b3fc331f3cf658294a16d5bd166be7d3dfa524ab28af08c6b2",
+      "size": 5435,
+      "version": "0.1.5.2.2",
+      "updated_at": "2026-09-16T10:03:38.452816Z"
     },
     "scripts/console/entities/scene_entity_inspector.gd": {
       "sha256": "7157257125642a9b8a2c8c9c44dcea83e9786c78bbffd30f3d56cd93b9f5eccb",
@@ -255,6 +255,30 @@
       "size": 7478,
       "version": "0.1.5.2.1",
       "updated_at": "2026-09-16T09:42:06.456831Z"
+    },
+    "ui/console/dev_console_window.gd": {
+      "sha256": "c295e9b06fcbde8b5f6444ee6c5542531617794fd61e40c5786990a4f90c1c08",
+      "size": 15437,
+      "version": "0.1.5.2.2",
+      "updated_at": "2026-09-16T10:03:38.452894Z"
+    },
+    "ui/console/dev_console.tscn": {
+      "sha256": "5fa668bf695e62f131eb8aa7cb22ed617b5f1428d129eecff94ea1b4963b380b",
+      "size": 7225,
+      "version": "0.1.5.2.2",
+      "updated_at": "2026-09-16T10:03:38.452951Z"
+    },
+    "scripts/console/player_console_bridge.gd": {
+      "sha256": "809a8cce8d5aab32f0bcb214984a1648651ae542678d415ed2be4e6f5e360210",
+      "size": 11899,
+      "version": "0.1.5.2.2",
+      "updated_at": "2026-09-16T10:03:38.453007Z"
+    },
+    "player/components/player_stamina.gd": {
+      "sha256": "64788315894d6ebff32b9e503465e3d73d3299e7f0f280a9cc85b47a81b9210c",
+      "size": 1408,
+      "version": "0.1.5.2.2",
+      "updated_at": "2026-09-16T10:03:38.453056Z"
     }
   }
 }
