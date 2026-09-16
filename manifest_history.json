@@ -1,5 +1,5 @@
 {
-  "latest_patch": "0.1.4.8.1",
+  "latest_patch": "0.1.5.0",
   "history": [
     {
       "version": "0.1.4.1",
@@ -151,6 +151,30 @@
       "files_count": 1,
       "files": [
         "main.tscn"
+      ]
+    },
+    {
+      "version": "0.1.5.0",
+      "date": "2026-09-16 05:17:50 UTC",
+      "description": "Мастер-патч 0.1.5.0",
+      "files_count": 16,
+      "files": [
+        "res://main.tscn",
+        "res://materials/conduits/mat_industrial_pipe.tres",
+        "res://materials/conduits/mat_corrugated_hose.tres",
+        "res://materials/conduits/mat_dynamic_cable.tres",
+        "res://prefabs/conduits/heavy_pipe_conduit.tscn",
+        "res://prefabs/conduits/flexible_hose.tscn",
+        "res://prefabs/conduits/dynamic_cable_interactive.tscn",
+        "res://scripts/conduit/conduit_system_3d.gd",
+        "res://scripts/conduit/conduit_point_3d.gd",
+        "res://scripts/conduit/conduit_mesh_builder.gd",
+        "res://scripts/conduit/conduit_physics_chain.gd",
+        "res://scripts/conduit/conduit_waypoint.gd",
+        "res://scripts/conduit/conduit_interactive_plug.gd",
+        "res://textures/industrial_pipe_albedo.png",
+        "res://scripts/patch_loader.gd",
+        "res://scripts/console/commands/cmd_version.gd"
       ]
     }
   ]
