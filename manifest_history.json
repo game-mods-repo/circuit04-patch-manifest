@@ -1,5 +1,5 @@
 {
-  "latest_patch": "0.1.4.3",
+  "latest_patch": "0.1.4.5",
   "history": [
     {
       "version": "0.1.4.1",
@@ -15,6 +15,51 @@
       "description": "Incremental test patch with cmd_bibo.gd",
       "files": [
         "scripts/console/commands/cmd_bibo.gd"
+      ]
+    },
+    {
+      "version": "0.1.4.5",
+      "date": "2026-09-16 04:39:32 UTC",
+      "description": "Плановое обновление игровых ресурсов, префабов и скриптов взаимодействия.",
+      "files_count": 37,
+      "files": [
+        "materials/conduits/mat_corrugated_hose.tres",
+        "materials/conduits/mat_dynamic_cable.tres",
+        "materials/conduits/mat_industrial_pipe.tres",
+        "textures/ChatGPT Image 16 сент. 2026 г., 11_52_04.png",
+        "textures/ChatGPT Image 16 сент. 2026 г., 12_13_55.png",
+        "items/flashlight/flashlight_in_hand.gd",
+        "mods/spawner_tool/spawner_tool_in_hand.gd",
+        "mods_system/default_map_controller.gd",
+        "mods_system/ui/spawn_menu_hud.gd",
+        "player/components/player_body_collision.gd",
+        "player/components/player_config.gd",
+        "player/components/player_jump_gravity.gd",
+        "player/player.gd",
+        "scripts/conduit/conduit_interactive_plug.gd",
+        "scripts/conduit/conduit_mesh_builder.gd",
+        "scripts/conduit/conduit_physics_chain.gd",
+        "scripts/conduit/conduit_point_3d.gd",
+        "scripts/conduit/conduit_system_3d.gd",
+        "scripts/conduit/conduit_waypoint.gd",
+        "scripts/console/commands/cmd_bibo.gd",
+        "scripts/console/commands/cmd_entities.gd",
+        "scripts/console/commands/cmd_gravity.gd",
+        "scripts/console/commands/cmd_spawn.gd",
+        "scripts/console/commands/cmd_spawnlist.gd",
+        "scripts/console/commands/cmd_version.gd",
+        "scripts/console/dev_console.gd",
+        "scripts/console/entities/scene_entity_inspector.gd",
+        "scripts/patch_loader.gd",
+        "scripts/pause_menu.gd",
+        "update_system/update_manager.gd",
+        "items/flashlight/flashlight_in_hand.tscn",
+        "main.tscn",
+        "player/player.tscn",
+        "prefabs/conduits/dynamic_cable_interactive.tscn",
+        "prefabs/conduits/flexible_hose.tscn",
+        "prefabs/conduits/heavy_pipe_conduit.tscn",
+        "scenes/player.tscn"
       ]
     }
   ]
