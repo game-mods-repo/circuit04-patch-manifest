@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-16T10:03:38.453179Z",
-  "latest_patch": "0.1.5.2.2",
+  "last_updated": "2026-09-16T10:28:21.808068Z",
+  "latest_patch": "0.1.5.2.3",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -77,10 +77,10 @@
       "updated_at": "2026-09-16T04:41:17.609610Z"
     },
     "player/player.gd": {
-      "sha256": "a165d742820a986d69cde91e2a60622afdd8e9543243350ff4e7799d50a50420",
-      "size": 24015,
-      "version": "0.1.5.2.2",
-      "updated_at": "2026-09-16T10:03:38.453169Z"
+      "sha256": "6f27666b80e87b4d139d0cabff1568c253590a78896d975996b67bbcc59b455a",
+      "size": 24501,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807384Z"
     },
     "scripts/conduit/conduit_interactive_plug.gd": {
       "sha256": "25299dbdeea43eca303f344e3dd96bac69d55dbbd0d077149a06c6cb8ffd27a0",
@@ -191,10 +191,10 @@
       "updated_at": "2026-09-16T04:41:17.610560Z"
     },
     "main.tscn": {
-      "sha256": "6c81083aac877efe98ab04200cd85303902764cb949dba8a0f66b139c6ed09b9",
-      "size": 62792,
-      "version": "0.1.5.2.1",
-      "updated_at": "2026-09-16T09:42:06.457026Z"
+      "sha256": "fe0783390e2a41a7d5d4330c300c00eab58764c2cad1f3fbdb99fdcc4e9946e7",
+      "size": 65369,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807831Z"
     },
     "player/player.tscn": {
       "sha256": "20649638790acc6f67d633c137de20e480de19ce02f7097b1f649d48b7c19e90",
@@ -279,6 +279,600 @@
       "size": 1408,
       "version": "0.1.5.2.2",
       "updated_at": "2026-09-16T10:03:38.453056Z"
+    },
+    "audio/oxygen/airlock_alarm_beep.wav": {
+      "sha256": "7f28da46efb42d7f036a40fd41208ff3eff0362ba7583b58a9ef9dd62ee3d126",
+      "size": 70604,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.781164Z"
+    },
+    "audio/oxygen/airlock_depressurize.wav": {
+      "sha256": "72e45540fbb8b9e00d13cb832f64ed6142dc0b672a2492677747546cbb1d5041",
+      "size": 352844,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.781437Z"
+    },
+    "audio/oxygen/airlock_pressurize.wav": {
+      "sha256": "3b13cbd9a7794621d8ab64915077e33c69e57e0b7d04c2e71938a24a54cba6e9",
+      "size": 352844,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.781691Z"
+    },
+    "audio/oxygen/co2_suction_loop.wav": {
+      "sha256": "818a0c8bd38bf6957f810890259b451d4e9ca244508693938e847bc3532a251a",
+      "size": 264644,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.781897Z"
+    },
+    "audio/oxygen/oxygen_fan_loop.wav": {
+      "sha256": "9dd923039bc4294376cfdb81d670a535656ef6c86bb61f2eada789819576ee13",
+      "size": 264644,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.782097Z"
+    },
+    "audio/oxygen/suit_equip.wav": {
+      "sha256": "62986bc1f70dcf7354403a504c133e851a8d0513c002d27d53b63dc212c80fac",
+      "size": 105884,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.782203Z"
+    },
+    "audio/oxygen/suit_unequip.wav": {
+      "sha256": "c2ca8af0c9fe70e413eaf6c9c2f8e3e03bd8a604c747e8b64ea24ac985f95d65",
+      "size": 88244,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.782297Z"
+    },
+    "models/oxygen/co2_intake_ai_rotor_albedo.png": {
+      "sha256": "735ca0b603105c0393f4b27ef57b4650656e4042f0c16ba99f187b5556791d8c",
+      "size": 1933083,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.783464Z"
+    },
+    "models/oxygen/co2_intake_co2_canister_albedo.png": {
+      "sha256": "8d03e1628ad25b8a54afec132391336c3b5ecd5dbc31ed1818da2b7334d236b1",
+      "size": 42094,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.783541Z"
+    },
+    "models/oxygen/co2_intake_co2_canister_metallic-co2_canister_roughness.png": {
+      "sha256": "e8183bcf109527ed55de1c29bf051f93e987f28623e058b43e5c6ee7268a8988",
+      "size": 21144,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.783600Z"
+    },
+    "models/oxygen/co2_intake_co2_canister_normal.png": {
+      "sha256": "44bad0c8783ccead4ca1a60ceba51d305a026854e88e6a5c0ad8fb9c9965c2fa",
+      "size": 70291,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.783686Z"
+    },
+    "models/oxygen/co2_intake_co2_ctrl_body_albedo.png": {
+      "sha256": "1482a4d17632b21e2696db82631be6940cdbb30fbc774938a18cd2b180f03e69",
+      "size": 228239,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.783860Z"
+    },
+    "models/oxygen/co2_intake_co2_ctrl_body_metallic-co2_ctrl_body_roughness.png": {
+      "sha256": "a6bdbd1fbb4692776c7d342f41a5684cef6c94e9707ce140d1955d71bff3f3ed",
+      "size": 19408,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.783921Z"
+    },
+    "models/oxygen/co2_intake_co2_ctrl_body_normal.png": {
+      "sha256": "5863907b574a808f0219f63f426e62ff8dfab13125358b788647b4bd61d01150",
+      "size": 276753,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.784121Z"
+    },
+    "models/oxygen/co2_intake_co2_front_panel_albedo.png": {
+      "sha256": "b3205a56e6ca3dd134f048c3efbe22b888900017b72a440b69846f26bca188a1",
+      "size": 2042287,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.785340Z"
+    },
+    "models/oxygen/co2_intake_co2_front_panel_metallic-co2_front_panel_roughness.png": {
+      "sha256": "574c75d12c4508e3ec942dfb5b0a8ebfc46f53f5dbdc12c4cfcfeff2af9bbad5",
+      "size": 286895,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.785552Z"
+    },
+    "models/oxygen/co2_intake_co2_front_panel_normal.png": {
+      "sha256": "2ab0ea4b523bd4b7b355a0d67f916d28a227f175c684e6f1c814d2296a21b662",
+      "size": 1383598,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.786399Z"
+    },
+    "models/oxygen/co2_intake_co2_grill_albedo.png": {
+      "sha256": "c8e6606f7bae0d7dfa428fec4028fc2f2161763d79149f7aa1e6541f3ab59fd2",
+      "size": 214425,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.786569Z"
+    },
+    "models/oxygen/co2_intake_co2_grill_metallic-co2_grill_roughness.png": {
+      "sha256": "233c895bb26edc8d2eee05166164829a6df63d5bf24e385de555493bd8b887e9",
+      "size": 19591,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.786627Z"
+    },
+    "models/oxygen/co2_intake_co2_grill_normal.png": {
+      "sha256": "979a375b2d811154e26d5ac23a55ae76aa1cbe24781a9ed1eaf83be79ccd1970",
+      "size": 261879,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.786822Z"
+    },
+    "models/oxygen/co2_intake_co2_housing_sides_albedo.png": {
+      "sha256": "c54277bc67e5ec358f0ae0d0a08a5fc523bb13de2cb213c69132fc25b3872908",
+      "size": 223977,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.787002Z"
+    },
+    "models/oxygen/co2_intake_co2_housing_sides_metallic-co2_housing_sides_roughness.png": {
+      "sha256": "47f8bfd74cd908229865538be2302b945fab3a365de2765031e6a48c0198c184",
+      "size": 19481,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.787062Z"
+    },
+    "models/oxygen/co2_intake_co2_housing_sides_normal.png": {
+      "sha256": "4a26b5a3fe42f92e698a5638b7c9bcf5ede00c227e96ffd024ae344a11b1e450",
+      "size": 272919,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.787258Z"
+    },
+    "models/oxygen/co2_intake_co2_turbine_metallic-co2_turbine_roughness.png": {
+      "sha256": "0132610a4d973f9112684920af1d30d7e2fc448cce2adb1963966b0abd6da1d0",
+      "size": 125266,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.787372Z"
+    },
+    "models/oxygen/co2_intake_co2_turbine_normal.png": {
+      "sha256": "89b94622ab21eb7439e085bcaeb7923f6246b9d573a83505bc36d3313dfdc3c1",
+      "size": 1654639,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.788359Z"
+    },
+    "models/oxygen/oxygen_fan_ai_housing_albedo.png": {
+      "sha256": "328653fc8919c7cfb1dcd546fb8da86a855e5026963e0ae97f7988044886418a",
+      "size": 1840445,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.789456Z"
+    },
+    "models/oxygen/oxygen_fan_ai_rotor_albedo.png": {
+      "sha256": "735ca0b603105c0393f4b27ef57b4650656e4042f0c16ba99f187b5556791d8c",
+      "size": 1933083,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.790592Z"
+    },
+    "models/oxygen/oxygen_fan_grill_albedo.png": {
+      "sha256": "412f91290283b7cc6d94bf6aa2f3514a89a3c8e2d08e3e4f46a1832163f1e79b",
+      "size": 204557,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.790754Z"
+    },
+    "models/oxygen/oxygen_fan_grill_metallic-grill_roughness.png": {
+      "sha256": "30f5e93112e4e3d4e7bb3ca6b017fe3be644d0acfdc6b9324a669d519672179c",
+      "size": 19659,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.790811Z"
+    },
+    "models/oxygen/oxygen_fan_grill_normal.png": {
+      "sha256": "2236efae3baca4b6c679f0d74786280c2aa5520c7f3140cbb824b6ad6865e115",
+      "size": 322777,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.791034Z"
+    },
+    "models/oxygen/oxygen_fan_housing_metallic-housing_roughness.png": {
+      "sha256": "bc7f9d0819bbd9de3e691d3410c33813c782fe90e92642f8ab8af0341f8f20cc",
+      "size": 69956,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.791122Z"
+    },
+    "models/oxygen/oxygen_fan_housing_normal.png": {
+      "sha256": "35a61c8fc67594eb4b68c4e99d7dc790f7c78e113de7cd68e6c28ba7db31422b",
+      "size": 2016381,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.792290Z"
+    },
+    "models/oxygen/oxygen_fan_rotor_metallic-rotor_roughness.png": {
+      "sha256": "5813333c4a3d2eb769262383abc026b4ea9ec77ed599e5dc5c5bbb870403f03d",
+      "size": 125558,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.792408Z"
+    },
+    "models/oxygen/oxygen_fan_rotor_normal.png": {
+      "sha256": "b8f658e92c52dc483056e8c49256455d73ba9f5d3ca84462a9b98991c5f85bc8",
+      "size": 2329530,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.793764Z"
+    },
+    "models/oxygen/textures_co2_intake/ai_canister_metal.png": {
+      "sha256": "70e98372e3cc5e3a26aca82615ee06987f628dffb8ba2ff28c82b58f4ce471eb",
+      "size": 245736,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.793958Z"
+    },
+    "models/oxygen/textures_co2_intake/ai_yellow_metal.png": {
+      "sha256": "3b56d9bd6c4e71fa8c304b01f6788141512ad169df3f362d5816e86899524eba",
+      "size": 394095,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.794229Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_canister_albedo.png": {
+      "sha256": "8d03e1628ad25b8a54afec132391336c3b5ecd5dbc31ed1818da2b7334d236b1",
+      "size": 42094,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.794299Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_canister_metallic.png": {
+      "sha256": "8dcae1f35f6450950d77065a557895d770a32053101378c52895c5ff451b5405",
+      "size": 4577,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.794345Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_canister_normal.png": {
+      "sha256": "44bad0c8783ccead4ca1a60ceba51d305a026854e88e6a5c0ad8fb9c9965c2fa",
+      "size": 70291,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.794427Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_canister_roughness.png": {
+      "sha256": "ac81c7c9b45d64ac581dd2ef5186f3990f73f8edbd0bfe891ec582d57e0f2f21",
+      "size": 4624,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.794478Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_control_box_albedo.png": {
+      "sha256": "239b96b044ea20def7a88d36fefab3d71412e552e06dea0269b8fe251acf93d9",
+      "size": 32230,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.794546Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_control_box_metallic.png": {
+      "sha256": "839a998969ab62615b4129d99a5d7883a5a5b93efe75227f13c7020702afa23e",
+      "size": 6960,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.794594Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_control_box_normal.png": {
+      "sha256": "b993e09d48d69a8674f50e398ea0fd7de435cfcdd7cd4f0aa97197d51c67203b",
+      "size": 74651,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.794680Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_control_box_roughness.png": {
+      "sha256": "c720110afb5bb13b62fb8e5128a823685e9a7dacde310e515c3fe1a0f79280da",
+      "size": 9167,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.794731Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_ctrl_body_albedo.png": {
+      "sha256": "1482a4d17632b21e2696db82631be6940cdbb30fbc774938a18cd2b180f03e69",
+      "size": 228239,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.794904Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_ctrl_body_metallic.png": {
+      "sha256": "2dfa060647e2af2df9751016682b4176e9f47f4b29bb3d4b98425a3e743946bb",
+      "size": 3158,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.794954Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_ctrl_body_normal.png": {
+      "sha256": "5863907b574a808f0219f63f426e62ff8dfab13125358b788647b4bd61d01150",
+      "size": 276753,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.795152Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_ctrl_body_roughness.png": {
+      "sha256": "36976563dd395c63974038de20a15b8bbcf49165da7104c46f46f4636d229df7",
+      "size": 3957,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.795199Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_front_panel_albedo.png": {
+      "sha256": "b3205a56e6ca3dd134f048c3efbe22b888900017b72a440b69846f26bca188a1",
+      "size": 2042287,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.796405Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_front_panel_metallic.png": {
+      "sha256": "d7f9926888662ee40121f4907b8c60f073186563e497df24dd519e8a09c383c8",
+      "size": 95592,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.796518Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_front_panel_normal.png": {
+      "sha256": "2ab0ea4b523bd4b7b355a0d67f916d28a227f175c684e6f1c814d2296a21b662",
+      "size": 1383598,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.797357Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_front_panel_roughness.png": {
+      "sha256": "c6b421b824ac1d5194d111eedabdee058f696f9d5b3764a7d8f9f1a0572206e9",
+      "size": 77936,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.797452Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_gauge_albedo.png": {
+      "sha256": "c50c34a422649da7fae5b6f3262a78364553092ec49f3ace0810515e5889873c",
+      "size": 22493,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.797510Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_gauge_metallic.png": {
+      "sha256": "392dbfe53488a0eb7699d9146a8c1f7d42617426eb5ae4c954f667bf4fb94dda",
+      "size": 8983,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.797558Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_gauge_normal.png": {
+      "sha256": "7ae155d7ea90abb739067506d539351a722639380770d4acc2f4a1e33cf96357",
+      "size": 38250,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.797622Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_gauge_roughness.png": {
+      "sha256": "ce1b92cb2d1b5f5fa0b44ca9e2f6665bc05a6852180c5a9b7d184593526d4429",
+      "size": 11658,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.797672Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_grill_albedo.png": {
+      "sha256": "c8e6606f7bae0d7dfa428fec4028fc2f2161763d79149f7aa1e6541f3ab59fd2",
+      "size": 214425,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.797832Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_grill_metallic.png": {
+      "sha256": "2dfa060647e2af2df9751016682b4176e9f47f4b29bb3d4b98425a3e743946bb",
+      "size": 3158,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.797886Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_grill_normal.png": {
+      "sha256": "979a375b2d811154e26d5ac23a55ae76aa1cbe24781a9ed1eaf83be79ccd1970",
+      "size": 261879,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.798075Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_grill_roughness.png": {
+      "sha256": "9746641c4488b69b6a6aeab66f4ee02b4c0e3181802742a2d2dd0943758452df",
+      "size": 4031,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.798134Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_albedo.png": {
+      "sha256": "3b883c9c97f766fdeaef4d79a1020e5521a6c446e12d9a43764820286fafc136",
+      "size": 1990377,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.799287Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_metallic.png": {
+      "sha256": "5b5685cfcbee9c0b89ad61227f4f89c649a6396f09044d3b6b493f59fe79454a",
+      "size": 113255,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.799397Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_normal.png": {
+      "sha256": "5574b3fb72e8e52056f7019461837f39bad7d006527c630f7672edf5bea0a5c8",
+      "size": 2244321,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.800711Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_roughness.png": {
+      "sha256": "55c19e21f329cd4d9f010e0dd3a7ec2db5041adb9cebd7dc585a2d901763cc3d",
+      "size": 90764,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.800813Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_sides_albedo.png": {
+      "sha256": "c54277bc67e5ec358f0ae0d0a08a5fc523bb13de2cb213c69132fc25b3872908",
+      "size": 223977,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.800980Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_sides_metallic.png": {
+      "sha256": "2dfa060647e2af2df9751016682b4176e9f47f4b29bb3d4b98425a3e743946bb",
+      "size": 3158,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.801032Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_sides_normal.png": {
+      "sha256": "4a26b5a3fe42f92e698a5638b7c9bcf5ede00c227e96ffd024ae344a11b1e450",
+      "size": 272919,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.801228Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_housing_sides_roughness.png": {
+      "sha256": "cf9b29eee2c32b2662c45fff293add968c36cb1c62461245ed9c94d662155df9",
+      "size": 3987,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.801280Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_turbine_metallic.png": {
+      "sha256": "1b53ff0ab110e8a81b63e08032d83e72e6c8c1a8f065b1023f621512762f46dd",
+      "size": 27742,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.801339Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_turbine_normal.png": {
+      "sha256": "89b94622ab21eb7439e085bcaeb7923f6246b9d573a83505bc36d3313dfdc3c1",
+      "size": 1654639,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.802312Z"
+    },
+    "models/oxygen/textures_co2_intake/co2_turbine_roughness.png": {
+      "sha256": "c4d39655988ef1035a50be65bdfc3dc282452b738a45ab707120ea6ed68dcd1b",
+      "size": 49235,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.802389Z"
+    },
+    "models/oxygen/textures_oxygen_fan/ai_housing_albedo.png": {
+      "sha256": "2ac324b0e38f9721c9446ffe91932b6d592900949273031cbd470fe788e451cf",
+      "size": 979538,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.802969Z"
+    },
+    "models/oxygen/textures_oxygen_fan/ai_rotor_albedo.png": {
+      "sha256": "254b1459e80e8eeba555d351c50a6dcb3964c42c8f84c2f69069cb3ef5d3e4d8",
+      "size": 1107848,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.803637Z"
+    },
+    "models/oxygen/textures_oxygen_fan/grill_albedo.png": {
+      "sha256": "412f91290283b7cc6d94bf6aa2f3514a89a3c8e2d08e3e4f46a1832163f1e79b",
+      "size": 204557,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.803798Z"
+    },
+    "models/oxygen/textures_oxygen_fan/grill_metallic.png": {
+      "sha256": "2dfa060647e2af2df9751016682b4176e9f47f4b29bb3d4b98425a3e743946bb",
+      "size": 3158,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.803845Z"
+    },
+    "models/oxygen/textures_oxygen_fan/grill_normal.png": {
+      "sha256": "2236efae3baca4b6c679f0d74786280c2aa5520c7f3140cbb824b6ad6865e115",
+      "size": 322777,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.804069Z"
+    },
+    "models/oxygen/textures_oxygen_fan/grill_roughness.png": {
+      "sha256": "48a264eb9bfc88f2688733c2a6367c99557bcce801db8fa5bfbcd40970ad3e43",
+      "size": 4065,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.804129Z"
+    },
+    "models/oxygen/textures_oxygen_fan/housing_albedo.png": {
+      "sha256": "ab7ccb081e1142f042b5749ba1e9aa31b184a2601c9404a21c0aa8f9821de177",
+      "size": 227351,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.804299Z"
+    },
+    "models/oxygen/textures_oxygen_fan/housing_metallic.png": {
+      "sha256": "1431f0f4bcc1b6db0277982de1f9fb2bfaff334f6715df9cf54136e7a2b87a9e",
+      "size": 15317,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.804352Z"
+    },
+    "models/oxygen/textures_oxygen_fan/housing_normal.png": {
+      "sha256": "35a61c8fc67594eb4b68c4e99d7dc790f7c78e113de7cd68e6c28ba7db31422b",
+      "size": 2016381,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.805505Z"
+    },
+    "models/oxygen/textures_oxygen_fan/housing_roughness.png": {
+      "sha256": "cf7a8f719031f0b298bade9069a8269b8765d9d7a6da854018b87421c92950af",
+      "size": 26622,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.805569Z"
+    },
+    "models/oxygen/textures_oxygen_fan/rotor_albedo.png": {
+      "sha256": "d969440e7c8d291f0b15abc13db47fbfacb98777a79b6aaf86e9c53a2a2cb4f3",
+      "size": 227996,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.805736Z"
+    },
+    "models/oxygen/textures_oxygen_fan/rotor_metallic.png": {
+      "sha256": "1b53ff0ab110e8a81b63e08032d83e72e6c8c1a8f065b1023f621512762f46dd",
+      "size": 27742,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.805796Z"
+    },
+    "models/oxygen/textures_oxygen_fan/rotor_normal.png": {
+      "sha256": "b8f658e92c52dc483056e8c49256455d73ba9f5d3ca84462a9b98991c5f85bc8",
+      "size": 2329530,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807150Z"
+    },
+    "models/oxygen/textures_oxygen_fan/rotor_roughness.png": {
+      "sha256": "fd377f60dbdab9092145418833733fa7e11f71fdeeea33ce1e1d4e6520d7dfe3",
+      "size": 49235,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807230Z"
+    },
+    "player/components/player_heartbeat.gd": {
+      "sha256": "40c204885c23dcbb71d880dff853e8755324b39c28ac703c73ae20d81c0f7032",
+      "size": 1259,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807279Z"
+    },
+    "player/components/player_spacesuit.gd": {
+      "sha256": "f1909d95054eb7075bcb561ff3698969df6b3a322ee57a924761ad975cbca488",
+      "size": 2607,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807324Z"
+    },
+    "prefabs/oxygen/airlock_chamber_controller.gd": {
+      "sha256": "302b0803e7b8a83dc4ed15404c54d89ec70a9c210f95fe310103898585b80622",
+      "size": 5466,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807437Z"
+    },
+    "prefabs/oxygen/airlock_scene_binder.gd": {
+      "sha256": "c3bc82255c4ca7f08aba31486673e6b4ef908ee9b8d29b38069ca6a36e04fea3",
+      "size": 958,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807482Z"
+    },
+    "prefabs/oxygen/airlock_terminal_button.gd": {
+      "sha256": "52829ee915ee99a4031b372226b9ee228962eace5b62cede34a728df40bce9e3",
+      "size": 1308,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807526Z"
+    },
+    "prefabs/oxygen/co2_intake.gd": {
+      "sha256": "5506e2d3eab176fbe1f2ec7cf2514f3848d996be3a438c3046bd5811b6f3a684",
+      "size": 2677,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807572Z"
+    },
+    "prefabs/oxygen/oxygen_fan.gd": {
+      "sha256": "200f909104f3439c90a8002ef06a15a1078d323f9ddae9c37fa98cbbd1743ca3",
+      "size": 2652,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807628Z"
+    },
+    "prefabs/oxygen/spacesuit_locker.gd": {
+      "sha256": "1e01de98f709efb29f4f9c2be054cc82cbb9b01616ac2ad8b4cef08762c9a7a7",
+      "size": 2121,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807682Z"
+    },
+    "scripts/hud.gd": {
+      "sha256": "e0258031cbe8615a2090be5c526cb98669e37c4b8074d4cc15befe3b2a8eaa80",
+      "size": 9671,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807752Z"
+    },
+    "prefabs/oxygen/airlock_chamber.tscn": {
+      "sha256": "88e5b32e8a090cc24bf6e61e648ad4d82c142f9abbb311a275f6ad8d13019fc4",
+      "size": 1871,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807883Z"
+    },
+    "prefabs/oxygen/airlock_terminal_button.tscn": {
+      "sha256": "0cae8343b78ad58a730357c445654f1c1b24fc483b6cfe26672503563ed4b90a",
+      "size": 1593,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807930Z"
+    },
+    "prefabs/oxygen/co2_intake.tscn": {
+      "sha256": "03cfb770ec70246072aeba745edb10383d3f5d0820f7b045334b136a840b53e6",
+      "size": 374,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.807977Z"
+    },
+    "prefabs/oxygen/oxygen_fan.tscn": {
+      "sha256": "3e6217faad5c7b209447727956a4ad29821fff399db1075d378fae085b12a47b",
+      "size": 374,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.808020Z"
+    },
+    "prefabs/oxygen/spacesuit_locker.tscn": {
+      "sha256": "2e04a30c2068cb43534b01bf64f19a925fdeb08c6742189d2e51915755a8cd70",
+      "size": 2196,
+      "version": "0.1.5.2.3",
+      "updated_at": "2026-09-16T10:28:21.808065Z"
     }
   }
 }
