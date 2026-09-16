@@ -1,7 +1,230 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-16T12:00:00Z",
-  "latest_patch": "0.1.4.3",
+  "last_updated": "2026-09-16T04:39:31.446900Z",
+  "latest_patch": "0.1.4.5",
   "base_version": "0.1.3",
-  "files": {}
+  "files": {
+    "materials/conduits/mat_corrugated_hose.tres": {
+      "sha256": "f9ebc4fd07330f7a60f4c72fa696c324101e97302c1455aee48f6a229b9f08b3",
+      "size": 216,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.441644Z"
+    },
+    "materials/conduits/mat_dynamic_cable.tres": {
+      "sha256": "c4c5199da52c0906d64463fe4d6fbf9945b0021fdb46bc91b19e1a25d27dd79e",
+      "size": 200,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.441762Z"
+    },
+    "materials/conduits/mat_industrial_pipe.tres": {
+      "sha256": "c939b89f7f151eae8bfd260225a7aefd951c917b806e80544c8aa5d12b12ae59",
+      "size": 434,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.441846Z"
+    },
+    "textures/ChatGPT Image 16 сент. 2026 г., 11_52_04.png": {
+      "sha256": "535290b367597e65102741e75662954b54a49216f09c9688c0ab4e4fa9f92d5e",
+      "size": 2905485,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.443617Z"
+    },
+    "textures/ChatGPT Image 16 сент. 2026 г., 12_13_55.png": {
+      "sha256": "fc91966a5080d9ed668525934d2df4a18953e244fa900e6a3c90456e2c2b2940",
+      "size": 2828848,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445281Z"
+    },
+    "items/flashlight/flashlight_in_hand.gd": {
+      "sha256": "f5dec8caa3346d9c59fac026e3e173e2f5dbedcd91fddfc7012abc1cbfc41fdd",
+      "size": 3353,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445348Z"
+    },
+    "mods/spawner_tool/spawner_tool_in_hand.gd": {
+      "sha256": "ee5abfa86d47946e89d55dede49ce4994e9cbe9f6bd08137c2066268d6da2edc",
+      "size": 14179,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445408Z"
+    },
+    "mods_system/default_map_controller.gd": {
+      "sha256": "550057174327b5c922067f240007af9265d3e764084d44a777ec312cc96daf46",
+      "size": 16495,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445464Z"
+    },
+    "mods_system/ui/spawn_menu_hud.gd": {
+      "sha256": "d0213621bb5c0de07582fbbd0b9a21ff76ef60f15ce62e6a1475c2f4680bec4c",
+      "size": 15266,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445518Z"
+    },
+    "player/components/player_body_collision.gd": {
+      "sha256": "897be6b32347320a4fa7d859336f8984feffc27934828f703c10c0445eebfaf2",
+      "size": 932,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445565Z"
+    },
+    "player/components/player_config.gd": {
+      "sha256": "f9cff5bbb0c7a7d49d1bcf58cc6c4855524dc7f8cbedd34a94ae8a7655a49b65",
+      "size": 1974,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445612Z"
+    },
+    "player/components/player_jump_gravity.gd": {
+      "sha256": "d3d70c1e8a641d0bfd33e4126269b0efc72d2c0130d8ac288cefab9eac5514cc",
+      "size": 337,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445658Z"
+    },
+    "player/player.gd": {
+      "sha256": "63dd5d9e2fa02369b74bdafb2af56893877b005020c5749cd38085998c6f1786",
+      "size": 24005,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445716Z"
+    },
+    "scripts/conduit/conduit_interactive_plug.gd": {
+      "sha256": "25299dbdeea43eca303f344e3dd96bac69d55dbbd0d077149a06c6cb8ffd27a0",
+      "size": 4275,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445764Z"
+    },
+    "scripts/conduit/conduit_mesh_builder.gd": {
+      "sha256": "b58e0677893237f6f98fee3f6685b2abb1360a20ca8d89d7198da6c41ff31271",
+      "size": 8161,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445813Z"
+    },
+    "scripts/conduit/conduit_physics_chain.gd": {
+      "sha256": "b6357301c2c79d5c61e1cf5f677397bbd717295beb86c1ac143370558090ab80",
+      "size": 7533,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445860Z"
+    },
+    "scripts/conduit/conduit_point_3d.gd": {
+      "sha256": "51a8f884ebc8dbb4a5de449461475e871fc7d94c654a54e67f37fedc8266e4ea",
+      "size": 1632,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445912Z"
+    },
+    "scripts/conduit/conduit_system_3d.gd": {
+      "sha256": "33f9e573382f08950fff7c546ca005c4b514003798ba55b07dcd3ae1cfede429",
+      "size": 8521,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.445962Z"
+    },
+    "scripts/conduit/conduit_waypoint.gd": {
+      "sha256": "d069cdfe7ee32e79a76f3253c06e3ce1088db47325732abead8fc11118862072",
+      "size": 916,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446006Z"
+    },
+    "scripts/console/commands/cmd_bibo.gd": {
+      "sha256": "f0247b0ec346202670e82ff1162c3a5f93a8926c376d663348f4f083a8318da8",
+      "size": 692,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446050Z"
+    },
+    "scripts/console/commands/cmd_entities.gd": {
+      "sha256": "908b225c99509ed71f3bafc0004160818c0c15d89bea2fbf76fc69b08c2b937b",
+      "size": 3800,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446096Z"
+    },
+    "scripts/console/commands/cmd_gravity.gd": {
+      "sha256": "428124ec5aa6e45db9d03a3a8d65aa3efb48be276e127acb5211dbc070764990",
+      "size": 1445,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446140Z"
+    },
+    "scripts/console/commands/cmd_spawn.gd": {
+      "sha256": "b387cfce1059fd25bab95d82d92f4f75afb5749f4c16f830691eb38150957b0c",
+      "size": 11708,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446190Z"
+    },
+    "scripts/console/commands/cmd_spawnlist.gd": {
+      "sha256": "3ed711dffdfe2c08fb4ba1c9b2166acbb1693eeb6724b77501f27a68618de8fb",
+      "size": 2558,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446234Z"
+    },
+    "scripts/console/commands/cmd_version.gd": {
+      "sha256": "a0d4a57a6cee04f24ab8e71176ea2122ac3edb1ae83a37b4d2acfcadc286c766",
+      "size": 826,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446278Z"
+    },
+    "scripts/console/dev_console.gd": {
+      "sha256": "bb8110c0f50a1f12e1327a005c60002d8d26713d14448ab5f7e2debc97094780",
+      "size": 5217,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446326Z"
+    },
+    "scripts/console/entities/scene_entity_inspector.gd": {
+      "sha256": "7157257125642a9b8a2c8c9c44dcea83e9786c78bbffd30f3d56cd93b9f5eccb",
+      "size": 14625,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446379Z"
+    },
+    "scripts/patch_loader.gd": {
+      "sha256": "a8a257a0b6cf554fdd8f4ffb14ade76160caa3347923ef1ce741caab873e55e8",
+      "size": 879,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446423Z"
+    },
+    "scripts/pause_menu.gd": {
+      "sha256": "1c8a939e63b9777f2dbfd87da805eb42c4ede736c34a2c6eb10533213032a665",
+      "size": 22592,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446479Z"
+    },
+    "update_system/update_manager.gd": {
+      "sha256": "a5ff926b0241f3debc04b1c99bd8d3b7d76e1804104c0ad0f17c1288ba51fd9d",
+      "size": 5186,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446526Z"
+    },
+    "items/flashlight/flashlight_in_hand.tscn": {
+      "sha256": "da30d47ab5628342e17b0823a46d3f63c0bc1afdcaa805b57a0aa0ff5735d5c0",
+      "size": 2062,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446570Z"
+    },
+    "main.tscn": {
+      "sha256": "f178e86650c9e6ed3e5f4fef081bcd682901a69aca4236f437d9ed735adcfe26",
+      "size": 62792,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446646Z"
+    },
+    "player/player.tscn": {
+      "sha256": "20649638790acc6f67d633c137de20e480de19ce02f7097b1f649d48b7c19e90",
+      "size": 5283,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446698Z"
+    },
+    "prefabs/conduits/dynamic_cable_interactive.tscn": {
+      "sha256": "c8d8480f773f33aaa335b1ea21680292be7a0d73d870d2acc81860461b2d74fa",
+      "size": 1045,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446748Z"
+    },
+    "prefabs/conduits/flexible_hose.tscn": {
+      "sha256": "55a9db0885b373350dff93a00747607acd250d9e23adf83760905661121ed938",
+      "size": 1035,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446795Z"
+    },
+    "prefabs/conduits/heavy_pipe_conduit.tscn": {
+      "sha256": "d1d20e4d3964dded5a16ba10a0064306437da24a6aac1a1186286e6770d11562",
+      "size": 1005,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446842Z"
+    },
+    "scenes/player.tscn": {
+      "sha256": "c26ddc1151154c887a54af81463dd2a9899efe2fc2d4b4bf5a4b4fa7309d3ba7",
+      "size": 5251,
+      "version": "0.1.4.5",
+      "updated_at": "2026-09-16T04:39:31.446896Z"
+    }
+  }
 }
