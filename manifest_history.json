@@ -1,5 +1,5 @@
 {
-  "latest_patch": "0.1.4.6",
+  "latest_patch": "0.1.4.7.1",
   "history": [
     {
       "version": "0.1.4.1",
@@ -105,6 +105,21 @@
         "prefabs/conduits/flexible_hose.tscn",
         "prefabs/conduits/heavy_pipe_conduit.tscn",
         "scenes/player.tscn"
+      ]
+    },
+    {
+      "version": "0.1.4.7.1",
+      "date": "2026-09-16 04:59:59 UTC",
+      "description": "Плановое обновление игровых ресурсов, префабов и скриптов взаимодействия.",
+      "files_count": 7,
+      "files": [
+        "materials/conduits/mat_industrial_pipe.tres",
+        "textures/industrial_pipe_albedo.png",
+        "scripts/conduit/conduit_system_3d.gd",
+        "scripts/console/commands/cmd_showpoly.gd",
+        "scripts/hud_poly_inspector.gd",
+        "main.tscn",
+        "scenes/hud.tscn"
       ]
     }
   ]
