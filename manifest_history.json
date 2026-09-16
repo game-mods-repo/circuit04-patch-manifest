@@ -1,5 +1,5 @@
 {
-  "latest_patch": "0.1.5.0",
+  "latest_patch": "0.1.5.2.1",
   "history": [
     {
       "version": "0.1.4.1",
@@ -175,6 +175,19 @@
         "res://textures/industrial_pipe_albedo.png",
         "res://scripts/patch_loader.gd",
         "res://scripts/console/commands/cmd_version.gd"
+      ]
+    },
+    {
+      "version": "0.1.5.2.1",
+      "date": "2026-09-16 09:42:08 UTC",
+      "description": "Плановое обновление игровых ресурсов, префабов и скриптов взаимодействия.",
+      "files_count": 5,
+      "files": [
+        "scripts/conduit/conduit_system_3d.gd",
+        "scripts/console/console_command_registry.gd",
+        "scripts/patch_loader.gd",
+        "update_system/update_manager.gd",
+        "main.tscn"
       ]
     }
   ]
