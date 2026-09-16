@@ -1,5 +1,5 @@
 {
-  "latest_patch": "0.1.5.2.6",
+  "latest_patch": "0.1.5.2.8",
   "history": [
     {
       "version": "0.1.4.1",
@@ -558,6 +558,19 @@
         "models/typhoeus__arknights_endfield_3.png.import",
         "models/typhoeus__arknights_endfield_4.png.import",
         "models/typhoeus__arknights_endfield_5.png.import"
+      ]
+    },
+    {
+      "version": "0.1.5.2.8",
+      "date": "2026-09-16 12:53:21 UTC",
+      "description": "Исправление ошибок репликации физики, обновления коллизий и доработка консольных команд.",
+      "files_count": 5,
+      "files": [
+        "scripts/console/commands/cmd_bind.gd",
+        "scripts/console/commands/cmd_clear.gd",
+        "scripts/console/commands/cmd_do_not_type_this_command.gd",
+        ".map-dirty",
+        "CODEBASE.index.md"
       ]
     }
   ]
