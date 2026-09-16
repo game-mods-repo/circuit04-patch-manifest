@@ -1,5 +1,5 @@
 {
-  "latest_patch": "0.1.5.2.1",
+  "latest_patch": "0.1.5.2.2",
   "history": [
     {
       "version": "0.1.4.1",
@@ -189,6 +189,21 @@
         "update_system/update_manager.gd",
         "main.tscn"
       ]
+    },
+    {
+      "version": "0.1.5.2.2",
+      "date": "2026-09-16 10:03:40 UTC",
+      "description": "Хотфикс консоли разработчика в стиле Source Engine (закрытие по ~, фокус по клику, цепочка подсказок аргументов), блокировка noclip во время паузы и снижение расхода стамины в воздухе на 75%",
+      "files_count": 6,
+      "files": [
+        "scripts/console/dev_console.gd",
+        "ui/console/dev_console_window.gd",
+        "ui/console/dev_console.tscn",
+        "scripts/console/player_console_bridge.gd",
+        "player/components/player_stamina.gd",
+        "player/player.gd"
+      ],
+      "image_url": "https://github.com/game-mods-repo/mod-patches/releases/download/patch-0.1.5.2.2/banner_patch_0_1_5_2_2.png"
     }
   ]
 }
