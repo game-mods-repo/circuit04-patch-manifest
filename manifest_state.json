@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-16T12:53:18.995306Z",
-  "latest_patch": "0.1.5.2.8",
+  "last_updated": "2026-09-17T11:11:04.312713Z",
+  "latest_patch": "0.1.5.3.1",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -251,10 +251,10 @@
       "updated_at": "2026-09-16T04:59:57.496041Z"
     },
     "scripts/console/console_command_registry.gd": {
-      "sha256": "0f9ca9b2c6d031ec186d55dbc4fd95229a26573a2ce23b58e7f7e081bbaeafcc",
-      "size": 7478,
-      "version": "0.1.5.2.1",
-      "updated_at": "2026-09-16T09:42:06.456831Z"
+      "sha256": "37faf3f9e8f28dbbd21969f1f6125fd2d888d9a464212f678b2033c2f63a04d6",
+      "size": 9197,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301318Z"
     },
     "ui/console/dev_console_window.gd": {
       "sha256": "c295e9b06fcbde8b5f6444ee6c5542531617794fd61e40c5786990a4f90c1c08",
@@ -1481,16 +1481,16 @@
       "updated_at": "2026-09-16T10:34:19.437749Z"
     },
     "CODEBASE.annotations.yml": {
-      "sha256": "1f77d98cf92e057f37384d0bc0841874639b06b1d46a6ea34174e941ec5e586f",
-      "size": 150941,
-      "version": "0.1.5.2.5",
-      "updated_at": "2026-09-16T10:34:19.437872Z"
+      "sha256": "30397a3b91924d5f2eb1af767c5f29d4aef698ad4727e1a4c59388223ed8ca53",
+      "size": 158373,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311623Z"
     },
     "CODEBASE.index.md": {
-      "sha256": "f1184a1884914d22b9849cbc54eb924e532772165532d211d7ae5f051ccde0b0",
-      "size": 202244,
-      "version": "0.1.5.2.8",
-      "updated_at": "2026-09-16T12:53:18.995302Z"
+      "sha256": "393b1f93fd91ecdea51e74aac3797d0a6a6b4906b21f93b56fd7f3614b837203",
+      "size": 213216,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311782Z"
     },
     "LAUNCHER_GUIDE.md": {
       "sha256": "ecfa942be75563882e94f572a971cbb8b89cc47276f0e1f8caffa87f8969f424",
@@ -2207,10 +2207,814 @@
       "updated_at": "2026-09-16T12:53:18.995092Z"
     },
     ".map-dirty": {
-      "sha256": "7d76275da4d876095e9021b3fff7afbccf28e3ea83bce164917a0afe3e62b553",
+      "sha256": "49ac4b1ba2a3b57ddb59cb5253fca22c6ffbbc7423a7e484c2296719aadd818d",
       "size": 13,
-      "version": "0.1.5.2.8",
-      "updated_at": "2026-09-16T12:53:18.995139Z"
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301804Z"
+    },
+    "Godot/editor_settings-4.7.tres": {
+      "sha256": "2ea877d424d4d147c59179379570e8f2c64d23605e4e83f7bd65777c7c48ec18",
+      "size": 17673,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.284693Z"
+    },
+    "items/binoculars/assets/b04_binoculars_binoculars_albedo.png": {
+      "sha256": "49996ce729c7bf9badb7d2a914f6e64fe13cfe77b0d432cdd90c74b4110388c0",
+      "size": 563483,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.285081Z"
+    },
+    "items/binoculars/assets/binoculars_albedo.png": {
+      "sha256": "04e01f39105c835f97bfc60bcae79e15e02ab6a4a6f77863a8bf10c0930cd197",
+      "size": 132554,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.285212Z"
+    },
+    "items/binoculars/assets/binoculars_uv_gemini_input.png": {
+      "sha256": "7dedaffebe3d06b046dbb1dc3bd2b9b8dd24920c8ea948e6f2ee8773ae514d52",
+      "size": 234019,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.285396Z"
+    },
+    "items/binoculars/assets/binoculars_uv_layout.png": {
+      "sha256": "6ea001f520ef6f64a9ac534b8a5c06546fea769fcb1bbf7685101bc8f325756e",
+      "size": 70257,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.285486Z"
+    },
+    "items/binoculars/assets/godot_preview_front.png": {
+      "sha256": "f5f3fd6e050b959357f1562e39a275fc3ebd97e080ed9178c6c54d262bf70309",
+      "size": 114931,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.285595Z"
+    },
+    "items/binoculars/assets/godot_preview_iso.png": {
+      "sha256": "1996ecad480076499334e227c922c0e904ad60741756f96a302664c9ab313940",
+      "size": 97416,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.285696Z"
+    },
+    "items/binoculars/assets/render_closeup.png": {
+      "sha256": "78e9a5d250e20ac69ba7211fb3a79d5ccfbb260bb2cb1a039acd25c44a6d6b1b",
+      "size": 798284,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.286173Z"
+    },
+    "items/binoculars/assets/render_front.png": {
+      "sha256": "f12bc71b6101886528c2563800e6f660ab84f6e4a451b14a63173ad21a0c54b8",
+      "size": 768812,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.286634Z"
+    },
+    "items/binoculars/assets/render_iso.png": {
+      "sha256": "b0fce4f1dde0c97bfd4e47a5456e55bdd4afc858e237c372c56974769f3302df",
+      "size": 872124,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.287145Z"
+    },
+    "items/binoculars/concept_reference.png": {
+      "sha256": "02c86fac033bacc5d8c9a0d3fa0b0b1a74dca6260a7e21f6233a044be27c9cf7",
+      "size": 138127,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.287281Z"
+    },
+    "materials/water/water_surface_murky.tres": {
+      "sha256": "74e378d9391596a9c9de2d8f08645c7d9f00d802248b1e05764e317f494f1198",
+      "size": 1823,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.287335Z"
+    },
+    "materials/water/water_surface_ocean.tres": {
+      "sha256": "d97d7b5a58bc4f55909eefd5023dce8c1db23821e9c4bd54d4062db00c40af18",
+      "size": 1812,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.287384Z"
+    },
+    "materials/water/water_surface_pool.tres": {
+      "sha256": "dd88989e4a01ca0ea3837424ba974caaee107425c9551dd92f60e6115cf189ed",
+      "size": 1816,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.287442Z"
+    },
+    "materials/water/water_underwater_overlay.tres": {
+      "sha256": "14cc1c069387628658183427ec47b59413f3d11c5e1449423bc869117ad11bc7",
+      "size": 772,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.287509Z"
+    },
+    "prefabs/glass/assets/glass_crack_atlas.png": {
+      "sha256": "0b7c2d75946e188d1beada11d91f0efb04575a653a35e6766d835db5b9338b65",
+      "size": 1669248,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.288462Z"
+    },
+    "prefabs/glass/breakable_glass_material.tres": {
+      "sha256": "6f5e1898fc56cedc115bc936003a1490d6eb437d43804364e84deefa4e415fcf",
+      "size": 311,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.288515Z"
+    },
+    "prefabs/water/shots/01_pool_overview.png": {
+      "sha256": "1ac8ad3f57201279f9a79c438fcd7b5f5ebd5f0aa9e8b3f585922b91010e086b",
+      "size": 1661289,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.289483Z"
+    },
+    "prefabs/water/shots/02_pool_grazing_fresnel.png": {
+      "sha256": "1cf9619679ac462d6dbc4c1ddecebec12a0e334397987e252c4ced29ff9c0a06",
+      "size": 1707070,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.290571Z"
+    },
+    "prefabs/water/shots/03_pool_topdown.png": {
+      "sha256": "cd0c11c13f476123bedbf54c2d1f039164316e90db39e48156a43a8e0b485808",
+      "size": 2052561,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.291705Z"
+    },
+    "prefabs/water/shots/04_pool_underwater.png": {
+      "sha256": "da32c8aeba7b1dc39191c78438c98ede5fcba384072a862ee5efa8d2ddd55a95",
+      "size": 742493,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.292141Z"
+    },
+    "prefabs/water/shots/05_round_pool.png": {
+      "sha256": "41ef15373f11ed2457b76f726cbbc9b7a30234c29ed78e11bc95d95a542fb111",
+      "size": 1858301,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.293175Z"
+    },
+    "prefabs/water/shots/06_ocean_wide.png": {
+      "sha256": "fd675586e838a97e2cfe91c83ad746b212b1fd366978bc5a354c34491b887fad",
+      "size": 1402284,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.293985Z"
+    },
+    "prefabs/water/shots/07_ocean_grazing.png": {
+      "sha256": "8b3dad7648135d8416a024f2c5055d4980e389253870f7064de2f1051911b3da",
+      "size": 1343050,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.294770Z"
+    },
+    "prefabs/water/shots/08_shoreline_foam.png": {
+      "sha256": "6a35b365f534841bd4a9af2689dbdfc647ed60fcde9868f46eaccb98e191f7a2",
+      "size": 1693454,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.295704Z"
+    },
+    "prefabs/water/shots/debug_p1.png": {
+      "sha256": "4859901c744c955b19ea7a5b1d86910c07361037a08d82d387d177f9acdd9869",
+      "size": 1038337,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.296293Z"
+    },
+    "prefabs/water/shots/debug_p2.png": {
+      "sha256": "d0c9793844dc5611368dd1d973edadcdb4f1b268eb033ac376b07378dfa655ae",
+      "size": 980581,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.296853Z"
+    },
+    "prefabs/water/shots/debug_p3.png": {
+      "sha256": "d0c9793844dc5611368dd1d973edadcdb4f1b268eb033ac376b07378dfa655ae",
+      "size": 980581,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.297415Z"
+    },
+    "prefabs/water/shots/debug_probe.png": {
+      "sha256": "e70acdaab636dc87ab1c094358ae83a1b7420d201476b78600440448d1329ab7",
+      "size": 638725,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.297796Z"
+    },
+    "prefabs/water/shots/debug_t1.png": {
+      "sha256": "e84df52829db97256c12f5d25a3f4de87bd19aef8c14d85bceb001bca1631729",
+      "size": 693185,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.298203Z"
+    },
+    "prefabs/water/shots/debug_t2.png": {
+      "sha256": "e84df52829db97256c12f5d25a3f4de87bd19aef8c14d85bceb001bca1631729",
+      "size": 693185,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.298613Z"
+    },
+    "prefabs/water/shots/debug_t3.png": {
+      "sha256": "e84df52829db97256c12f5d25a3f4de87bd19aef8c14d85bceb001bca1631729",
+      "size": 693185,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.299022Z"
+    },
+    "prefabs/water/shots/debug_t4.png": {
+      "sha256": "9ba006377e640582d1f9b6d35ceb43df2c3aeeb6053054abf90e7f62c089a1f0",
+      "size": 695524,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.299504Z"
+    },
+    "prefabs/water/shots/debug_u1.png": {
+      "sha256": "46deeea72996d07d39a54fd555e9ef4de841232b78fe0fe4d6b3cdc81e459435",
+      "size": 643692,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.299913Z"
+    },
+    "prefabs/water/shots/debug_u2.png": {
+      "sha256": "80f4685e202dc301c52965dfcac5cbc1416f6790bcb87b881c87f71a914fa9a8",
+      "size": 647347,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.300307Z"
+    },
+    "items/binoculars/binocular_overlay.gd": {
+      "sha256": "59b2856eb7814463cb25e7ba955ad4d08fec5271ea5b3522e74d097eb3ac04d2",
+      "size": 1487,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.300392Z"
+    },
+    "items/binoculars/binoculars_in_hand.gd": {
+      "sha256": "85e101f9431867281d947b976289d7760929c2ac297693f6b7af341d14e0b807",
+      "size": 3632,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.300471Z"
+    },
+    "items/binoculars/binoculars_pickup.gd": {
+      "sha256": "85a18ed26771adc35e6f2af8de14db6796eb85731daa79ea407bb5ae1756d98b",
+      "size": 1596,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.300531Z"
+    },
+    "items/binoculars/capture_godot_previews.gd": {
+      "sha256": "1f899eadbbd438de07bb60574126dfc2b0ab10e963b659681d1881c9b2da98e3",
+      "size": 1828,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.300587Z"
+    },
+    "player/components/player_held_item_manager.gd": {
+      "sha256": "06f781119a2046d847f69a728c5092a10dfdaf46cb83e96844fac3613019c64e",
+      "size": 18115,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.300646Z"
+    },
+    "prefabs/furniture/cabinet.gd": {
+      "sha256": "d979341abb3e503e620766a8312968248a1ae3581b98acac96a6b3c82c1fbeea",
+      "size": 6622,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.300701Z"
+    },
+    "prefabs/furniture/cabinet_audio.gd": {
+      "sha256": "f0047118be7557b84eba417a11f3111c575351a4ba16690d3cb4a989c10e06f2",
+      "size": 1865,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.300752Z"
+    },
+    "prefabs/furniture/cabinet_hinge.gd": {
+      "sha256": "213d192ccbd314e222ac49026b081129febb47effdfdc7e0bc2446780ffe776e",
+      "size": 1236,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.300801Z"
+    },
+    "prefabs/glass/breakable_glass.gd": {
+      "sha256": "b60c0a9026761e5f304f757e7cadb90c314e4703bcddaad3227be3660227c059",
+      "size": 12076,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.300854Z"
+    },
+    "prefabs/water/water_body.gd": {
+      "sha256": "73e7929468e6b44e9af42a0e7af7624b92410c3b033d053c22f115ea00ff4583",
+      "size": 15805,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.300910Z"
+    },
+    "prefabs/water/water_debug_probe.gd": {
+      "sha256": "bb52749ed8ea1650ceceab83f9d25d56dfdfeff64ff8dfd2cca166f42440805c",
+      "size": 1640,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.300958Z"
+    },
+    "prefabs/water/water_demo_capture.gd": {
+      "sha256": "261ae5b998ad9c2b693bb7b582b2a76ef33d5878d58f39864a0c3139fc0d53be",
+      "size": 3728,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301007Z"
+    },
+    "prefabs/water/water_splash_emitter.gd": {
+      "sha256": "7d958f20d0ac03b1e00dd57eae6a7ef28b94f4a8cf38763222fdf1f7cbe4b26c",
+      "size": 5334,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301057Z"
+    },
+    "prefabs/water/water_underwater_overlay.gd": {
+      "sha256": "e14d990eb382f9f35e2de4c2beac0e4eb3f2269832b3fcc0366a2d8afeb2c447",
+      "size": 3102,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301105Z"
+    },
+    "prefabs/water/water_volume_detector.gd": {
+      "sha256": "026a4248fcab34947750a42522503fc6defb2c43193c3f9e9e5edc68c471f7d6",
+      "size": 11533,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301158Z"
+    },
+    "prefabs/water/water_wave_math.gd": {
+      "sha256": "8ad783795689f2bfb425ca4a349d7f10c8aa54e669f81118d94c6d5f0ed02170",
+      "size": 5125,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301208Z"
+    },
+    "scenes/test_place.gd": {
+      "sha256": "b195902dc42cf4f037a1c79a104a097aa3747691877a550efcb372d1b9a90afb",
+      "size": 2989,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301263Z"
+    },
+    "items/binoculars/binoculars_in_hand.tscn": {
+      "sha256": "d5e67f93dd2d68460345b88a4ba78e98846e88732ba501bebbb92bd0aec48ce3",
+      "size": 834,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301367Z"
+    },
+    "items/binoculars/binoculars_pickup.tscn": {
+      "sha256": "e16cc75946e11800335ad7da58c0dca018e2608e923ab8746d8f66c117fe87f8",
+      "size": 1573,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301415Z"
+    },
+    "prefabs/furniture/cabinet.tscn": {
+      "sha256": "564c733e41855f88e90e286e64a4b4e5c2935c97c61c859ba54380d8fe172358",
+      "size": 1975,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301463Z"
+    },
+    "prefabs/glass/breakable_glass.tscn": {
+      "sha256": "4bb2dd17463000474118880bf9dea9b13d60d22c95fbaae61163dddaabed383c",
+      "size": 1165,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301510Z"
+    },
+    "prefabs/water/water_demo.tscn": {
+      "sha256": "ca09a660f08087d65cfc78e20183135465996d409dbdc93196b19a101c3984c4",
+      "size": 3419,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301558Z"
+    },
+    "prefabs/water/water_ocean_csg.tscn": {
+      "sha256": "d451ddb3ee8d4fc0911e3a46c867a0022c27bab5a5eaf65e4cb85ba574c304fc",
+      "size": 1838,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301605Z"
+    },
+    "prefabs/water/water_pool_csg.tscn": {
+      "sha256": "55eafb5cdad497e0811cc672176ccee51ff951a0b0e7205984d21250fead5b67",
+      "size": 2305,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301652Z"
+    },
+    "prefabs/water/water_round_pool_csg.tscn": {
+      "sha256": "85475f97d05fabf2dd9de7416104a51a45776065410f78e09d91e498d0000565",
+      "size": 2428,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301701Z"
+    },
+    "scenes/test_place.tscn": {
+      "sha256": "d934b9895670783568b82147d1ecc94e6d95cbbff4b0a4310014549067ad8bbd",
+      "size": 12490,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301755Z"
+    },
+    ".tmp_diff.py": {
+      "sha256": "dac32fbdc203646d942abb229583e4c35936a6c0e17e29bf4591d5a167c8d10a",
+      "size": 866,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301851Z"
+    },
+    ".tmp_godot_version.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301895Z"
+    },
+    ".tmp_godot_version_err.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301936Z"
+    },
+    ".tmp_heads.py": {
+      "sha256": "e9998214ac306250b248c264851d6ca5a0184000f0c5a54e4797f9efc96f6d29",
+      "size": 909,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.301983Z"
+    },
+    ".tmp_missing.py": {
+      "sha256": "cb497fbf6d844913e196577fc640e0722e97dedaefbc95df3d6e875c4acccd0e",
+      "size": 476,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302029Z"
+    },
+    ".tmp_probe.txt": {
+      "sha256": "7d010f53ad09957a503058cf5d97135ecdac7d42a08846a9b90421ff810d9561",
+      "size": 18,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302074Z"
+    },
+    ".tmp_probe2.txt": {
+      "sha256": "9305c4cb3037d2be1fcc5aff7e5fa2ee2ac81922c666fe89179b73d13a3bc6f3",
+      "size": 17,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302119Z"
+    },
+    ".tmp_probe3.txt": {
+      "sha256": "3e9b3c256d8e4925cfc034945a5ae458bde9e4796e3691714800c635597f66b3",
+      "size": 797,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302165Z"
+    },
+    ".tmp_probe4.txt": {
+      "sha256": "172aa5bfd557bd876df80946912536ccbe11d85c4683c9c96e05549cde4ed76e",
+      "size": 114,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302212Z"
+    },
+    ".tmp_probe5.txt": {
+      "sha256": "03a8542aa4b6e53bd66f7b84439345df851188eabce5f7e9a268e5448ed4c16d",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302258Z"
+    },
+    ".tmp_probe6.txt": {
+      "sha256": "fbc92c2dd4153089a0452c80d537f7795b1698423d8b146f14df1b71387df70f",
+      "size": 19,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302303Z"
+    },
+    ".tmp_probe7.txt": {
+      "sha256": "39bf2e82335d311555999907a53ce70f4449c59207a6e5ca7f2f22c62481d5c2",
+      "size": 16,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302348Z"
+    },
+    ".tmp_probe8.txt": {
+      "sha256": "1514afc905008643d190c2e1636932f89ffcccf2b7690da11776f8488d87fa5e",
+      "size": 17,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302396Z"
+    },
+    ".tmp_probe9.txt": {
+      "sha256": "92250891136e97ccd441b88e460a7be22efacc94f1209e283b99be20566ac784",
+      "size": 10,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302439Z"
+    },
+    ".workbuddy-ai/diag.txt": {
+      "sha256": "94abeae64a5d25e61cd19cccdfdaa9ee8b775f59e21e767438c4f3e1adf96bfd",
+      "size": 41,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302484Z"
+    },
+    ".workbuddy-ai/envcheck.txt": {
+      "sha256": "2494ac3938a66e8620231056963fa1977d8710956ff660049173ce3c1da52cb8",
+      "size": 29,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302527Z"
+    },
+    ".workbuddy-ai/gemini_probe.py": {
+      "sha256": "a3b1acb764a46c247b83b07ce2a9559c13d9f79f1b9522f1ecf912d5ab434522",
+      "size": 1419,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302573Z"
+    },
+    ".workbuddy-ai/gemini_probe.txt": {
+      "sha256": "3a628c567e4a39d7bb9c83745da8e1d4880018bf5c0f42e47f5abb4a57213d96",
+      "size": 249,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302616Z"
+    },
+    ".workbuddy-ai/memcheck.txt": {
+      "sha256": "0b3ccdd99a13c6dc281ea115449353923a1f9ced5b6709c0d24819a0ad596009",
+      "size": 36,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302660Z"
+    },
+    ".workbuddy-ai/memory/2026-09-17.md": {
+      "sha256": "df56eac4d62b3354f456db476bd6256b65a8c17f18d16296b9c3af34b283cf53",
+      "size": 15819,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302712Z"
+    },
+    ".workbuddy-ai/probe3.py": {
+      "sha256": "c132297ad15835906c8b569e1ca1922c80743c8f071b6bf35db43176cd40633f",
+      "size": 495,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302757Z"
+    },
+    ".workbuddy-ai/probe_exit.txt": {
+      "sha256": "00219eb3472d22fad177cd4c21b3968777063d360e2df873f440fd1dc6704e87",
+      "size": 10,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302801Z"
+    },
+    ".workbuddy-ai/proxyvars.txt": {
+      "sha256": "4f84740bf4cc60f13c6c4579161c2b37c99b1ad66a26c1fd444f0698dfcaef15",
+      "size": 18,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302844Z"
+    },
+    ".workbuddy-ai/tprobe_summary.txt": {
+      "sha256": "6842b58985c37caf59bd5665ac7fc3af55b7398e17d886f4c85593ac55a2c7b3",
+      "size": 176,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.302888Z"
+    },
+    "Godot/app_userdata/Voxel Moon Landscape/vulkan/pipelines.forward_plus.nvidia_geforce_rtx_3070_laptop_gpu.cache": {
+      "sha256": "087e3460d7e8fa78dbe96b8499b7d708ab195abc9285c8512590bdca4da26065",
+      "size": 11374277,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.309130Z"
+    },
+    "items/binoculars/assets/b04_binoculars.blend": {
+      "sha256": "828f46bc7754502742f91f1c3359df9aff60da838544f3d68340c9871db977a0",
+      "size": 349775,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.309406Z"
+    },
+    "items/binoculars/assets/b04_binoculars.glb": {
+      "sha256": "47b9134a6b2ceed39e18bc9dc173c004ec33f823db1c4ceabe176de623f1929b",
+      "size": 1098200,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310034Z"
+    },
+    "items/binoculars/assets/b04_binoculars.glb.import": {
+      "sha256": "9009ac7ed091295b0138f220e371641febc65967e43e919649fb05b5e7e23887",
+      "size": 1181,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310089Z"
+    },
+    "items/binoculars/assets/b04_binoculars_binoculars_albedo.png.import": {
+      "sha256": "b866b79269ba01237dee5eff40ab7b4137f487f650d0561ba2ef1341f12cf9ab",
+      "size": 1370,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310141Z"
+    },
+    "items/binoculars/assets/binoculars_albedo.png.import": {
+      "sha256": "b5be1c553a5be9923dc627cdd6addfeae9f469ab99878934c874eb38e3a756df",
+      "size": 769,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310190Z"
+    },
+    "items/binoculars/assets/binoculars_uv_gemini_input.png.import": {
+      "sha256": "7e440f6a2ca86dcbacef8de4209c283d085c366e27ea53e92c3358373884d329",
+      "size": 1006,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310240Z"
+    },
+    "items/binoculars/assets/binoculars_uv_layout.png.import": {
+      "sha256": "285fed8fe07807beb9435f019060ff1aec658ae4ec41251cf5912b3c51de2b17",
+      "size": 987,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310288Z"
+    },
+    "items/binoculars/assets/godot_preview_front.png.import": {
+      "sha256": "3b8aef87d0b2c76364a6442da224ce4d501b15506f8104cb54915e6364e0ab71",
+      "size": 985,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310336Z"
+    },
+    "items/binoculars/assets/godot_preview_iso.png.import": {
+      "sha256": "4570d2bba30937eaa0ee1291a6f2dfb86eabce3cba7c2f77fd098f55e7b5aa94",
+      "size": 978,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310387Z"
+    },
+    "items/binoculars/assets/render_closeup.png.import": {
+      "sha256": "45091cfa035fb970c34c35658e3e041750737478c47656cb2532369674f38557",
+      "size": 970,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310436Z"
+    },
+    "items/binoculars/assets/render_front.png.import": {
+      "sha256": "f05975ad6d9f0dc091de01a4a5790f29dd467674a39c13c0e2b160c1e7e63c4d",
+      "size": 964,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310516Z"
+    },
+    "items/binoculars/assets/render_iso.png.import": {
+      "sha256": "23e95453a9145022fd05893b736c1660221bcd33071de1117da1d51713d952f9",
+      "size": 957,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310615Z"
+    },
+    "items/binoculars/build_binoculars.py": {
+      "sha256": "2e9cbd6eddfe698f5421450dd527b52ab1ee40c3113e1d7166bf31e4c5719fe0",
+      "size": 9470,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310685Z"
+    },
+    "items/binoculars/concept_reference.png.import": {
+      "sha256": "a9887be575abee569f199d84b3124c2ed0a7038d8ad9c5e7fab581a788cce7c0",
+      "size": 763,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310736Z"
+    },
+    "materials/water/water_surface.gdshader": {
+      "sha256": "9489a62a2c36e7c5601f6590d6d37d7e690141701daa3f98b72a98bfaf9f1b21",
+      "size": 18163,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310799Z"
+    },
+    "materials/water/water_underwater_overlay.gdshader": {
+      "sha256": "a71f49cb0d9bf97ce6a78a26da04f44a39f025a68d662d8c3e2b80cb201cc1e8",
+      "size": 4415,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310850Z"
+    },
+    "prefabs/glass/assets/glass_crack_atlas.png.import": {
+      "sha256": "a4c4cad96058f2c04df5a896563dbe08ea670d4000ff7e18fa6dfbbd0bfb628e",
+      "size": 976,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310899Z"
+    },
+    "prefabs/water/WATER.md": {
+      "sha256": "bdc4e5cecdec36a52d410b1fc573a7b48f7b104cf17de625f7943e94660087ab",
+      "size": 13511,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.310958Z"
+    },
+    "prefabs/water/shots/.gdignore": {
+      "sha256": "5cd6905a3d7847e305cb3592729df2c0453d48d2edbf958bde133e235b7c054e",
+      "size": 61,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311044Z"
+    },
+    "prefabs/water/shots/01_pool_overview.png.import": {
+      "sha256": "e51f0114a1bdd8b0f898b53846e962e8b3fb0f334b7b491a047b68923a4c4b63",
+      "size": 972,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311100Z"
+    },
+    "prefabs/water/shots/02_pool_grazing_fresnel.png.import": {
+      "sha256": "87be9ed5b5684cd04cd3586404ae0baad6c9ac8df2196fddeac89d643c877f81",
+      "size": 993,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311150Z"
+    },
+    "prefabs/water/shots/03_pool_topdown.png.import": {
+      "sha256": "64f075c7e8ac3c9606bc0e0bec4addc5c8000f6a9302aae40eb936ca96a4067b",
+      "size": 968,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311198Z"
+    },
+    "prefabs/water/shots/04_pool_underwater.png.import": {
+      "sha256": "09fc3c990f662bedd62d42c2c709adc11b0a785a3aae0cbb1b3a2b7dec621e0d",
+      "size": 978,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311246Z"
+    },
+    "prefabs/water/shots/05_round_pool.png.import": {
+      "sha256": "11380d05ad681bed801db40b2dc79e109fae02030577669118f1fd3b27461ba7",
+      "size": 962,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311301Z"
+    },
+    "prefabs/water/shots/06_ocean_wide.png.import": {
+      "sha256": "7b6a62b395a3b6d1a86a919ea870b83aef0c0deebdb4ce0f630be027d44ec52a",
+      "size": 963,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311349Z"
+    },
+    "prefabs/water/shots/07_ocean_grazing.png.import": {
+      "sha256": "c40664ee2daa5a56a19c348cd96159566ece34295bc8620cabebeb23d872f3a3",
+      "size": 972,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311398Z"
+    },
+    "prefabs/water/shots/08_shoreline_foam.png.import": {
+      "sha256": "ede096a52373786386484354c8d66073d9f0741c61e212e23e29f049303db654",
+      "size": 974,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311445Z"
+    },
+    ".tmp_water_render.bat": {
+      "sha256": "5edb61ad57440c8c6ab123abbafe82a0c9763cbd096212ad2c594f6889a4ecce",
+      "size": 278,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311494Z"
+    },
+    "install_pi_skills.bat": {
+      "sha256": "0a5cf77f4229a553d396edc932ce3d9877e7f86d0731ee578ecbcc3a7cbd4223",
+      "size": 1748,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311833Z"
+    },
+    "test_fix_registry.gd": {
+      "sha256": "5f95f5a4f92407fd8ef710b3bfccad7e04fba05d72cba4bae5ed1e86b8cc42e3",
+      "size": 371,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311880Z"
+    },
+    "items/binoculars/binocular_overlay.gd.uid": {
+      "sha256": "2c501671a50926902b206d001fd4b458da52a380969853340f35afb2cd26fa97",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311927Z"
+    },
+    "items/binoculars/binoculars_in_hand.gd.uid": {
+      "sha256": "9e6c8a0fcc34551249e5adddf45bd27ee76e269144297a8021a80b2b01041cc2",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.311974Z"
+    },
+    "items/binoculars/binoculars_pickup.gd.uid": {
+      "sha256": "6a52fa4b13acaa2371828f73ffee4de7cb5121e5c207aeff12e41f17b5f74e98",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312019Z"
+    },
+    "items/binoculars/capture_godot_previews.gd.uid": {
+      "sha256": "681c3df9a77ffd43eab9b5e855d97c13b8b0ffde8259a0254e557692b06915fd",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312065Z"
+    },
+    "materials/water/water_surface.gdshader.uid": {
+      "sha256": "0f355259497863c5a04bdbced5e863a24783b8a92e2086f1db776ca961549c40",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312112Z"
+    },
+    "materials/water/water_underwater_overlay.gdshader.uid": {
+      "sha256": "be04d658fa61215b36077438d0c8c3459af7e19a117e480eddac07e4c47a092d",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312158Z"
+    },
+    "prefabs/furniture/cabinet.gd.uid": {
+      "sha256": "3c91a6b483177a6ce11e045c59200e58566b624d8dce780e3f5dfd9b86c5d6cf",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312204Z"
+    },
+    "prefabs/furniture/cabinet_audio.gd.uid": {
+      "sha256": "e610c32b73aa5e60a2b0bef62cc1238525bc16db0891684a2b8b6f1be9301960",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312249Z"
+    },
+    "prefabs/furniture/cabinet_hinge.gd.uid": {
+      "sha256": "b45bec70fdf111adfcda38cf59cf78c929808859dce6ebbcdde250386c1949a1",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312294Z"
+    },
+    "prefabs/glass/breakable_glass.gd.uid": {
+      "sha256": "5eddd1e6fdd73d134b086245eda24067cd450490bc0b02f77556ac65085de2cb",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312339Z"
+    },
+    "prefabs/water/water_body.gd.uid": {
+      "sha256": "9baf1ea209c741f1df5ff064e40a965806d199e66f0b3f7555004eac858359c1",
+      "size": 19,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312385Z"
+    },
+    "prefabs/water/water_debug_probe.gd.uid": {
+      "sha256": "4922f8e9f13b72943f5a8edbff51ac598057c752ec66afde1b386fda087354d8",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312432Z"
+    },
+    "prefabs/water/water_demo_capture.gd.uid": {
+      "sha256": "46670c2353ad888374aed4497c75b191cec795931eb0451999c906f0624c2eaa",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312478Z"
+    },
+    "prefabs/water/water_splash_emitter.gd.uid": {
+      "sha256": "2aa89aea54e26facdf8fdb0f2253cfb4e810c02e4acd75981f7678826ee64f45",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312524Z"
+    },
+    "prefabs/water/water_underwater_overlay.gd.uid": {
+      "sha256": "7618207d5919e03ae112ae03b06c688404bedc68212f4fbee7776105ff5a5d7b",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312570Z"
+    },
+    "prefabs/water/water_volume_detector.gd.uid": {
+      "sha256": "502c0edf082f69548bcfb197735b680f61c7640be5ba508e9d047f9e14f0cb44",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312616Z"
+    },
+    "prefabs/water/water_wave_math.gd.uid": {
+      "sha256": "735ff6e06f2f997b74bf17548edd71d5b1bdc5633c49e5369a702979b78249af",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312662Z"
+    },
+    "test_fix_registry.gd.uid": {
+      "sha256": "e647a29d5ac6e6e1420394bb3b1d5b14a0171d65908bc8fe0fb8fe2ca1bc529d",
+      "size": 20,
+      "version": "0.1.5.3.1",
+      "updated_at": "2026-09-17T11:11:04.312710Z"
     }
   }
 }
