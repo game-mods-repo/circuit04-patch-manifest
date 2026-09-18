@@ -1,5 +1,5 @@
 {
-  "latest_patch": "0.1.5.5",
+  "latest_patch": "0.1.5.6",
   "history": [
     {
       "version": "0.1.4.1",
@@ -816,6 +816,18 @@
       "files_count": 3,
       "files": [
         "main.tscn",
+        "items/binoculars/assets/b04_binoculars.glb",
+        "models/typhoeus__arknights_endfield.glb"
+      ]
+    },
+    {
+      "version": "0.1.5.6",
+      "date": "2026-09-18 07:17:45 UTC",
+      "description": "Патч v0.1.5.6 со всеми скомпилированными моделями, биноклями и typhoeus.",
+      "files_count": 4,
+      "files": [
+        "main.tscn",
+        "scenes/test_place.tscn",
         "items/binoculars/assets/b04_binoculars.glb",
         "models/typhoeus__arknights_endfield.glb"
       ]
