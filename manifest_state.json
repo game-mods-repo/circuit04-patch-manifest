@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-17T11:11:04.312713Z",
-  "latest_patch": "0.1.5.3.1",
+  "last_updated": "2026-09-18T06:34:41.836558Z",
+  "latest_patch": "0.1.5.3.2",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -53,10 +53,10 @@
       "updated_at": "2026-09-16T04:41:17.609418Z"
     },
     "mods_system/ui/spawn_menu_hud.gd": {
-      "sha256": "d0213621bb5c0de07582fbbd0b9a21ff76ef60f15ce62e6a1475c2f4680bec4c",
-      "size": 15266,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.609470Z"
+      "sha256": "760bc93bad950c7a3f8e5b51723a18aee13e73f9765fa7d0343a415340978113",
+      "size": 15413,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.835621Z"
     },
     "player/components/player_body_collision.gd": {
       "sha256": "897be6b32347320a4fa7d859336f8984feffc27934828f703c10c0445eebfaf2",
@@ -193,8 +193,8 @@
     "main.tscn": {
       "sha256": "6c5d01253a801f3e6203951a8a16877ef341c8c51933f2502448da58e0c04eac",
       "size": 67008,
-      "version": "0.1.5.2.6",
-      "updated_at": "2026-09-16T10:38:09.871081Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.826839Z"
     },
     "player/player.tscn": {
       "sha256": "20649638790acc6f67d633c137de20e480de19ce02f7097b1f649d48b7c19e90",
@@ -253,8 +253,8 @@
     "scripts/console/console_command_registry.gd": {
       "sha256": "37faf3f9e8f28dbbd21969f1f6125fd2d888d9a464212f678b2033c2f63a04d6",
       "size": 9197,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301318Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.826950Z"
     },
     "ui/console/dev_console_window.gd": {
       "sha256": "c295e9b06fcbde8b5f6444ee6c5542531617794fd61e40c5786990a4f90c1c08",
@@ -2191,20 +2191,20 @@
     "scripts/console/commands/cmd_bind.gd": {
       "sha256": "7ce6e564b50290a902a9707c0eb162849308b9593b92df4cd86d1ce96ba217a2",
       "size": 3923,
-      "version": "0.1.5.2.8",
-      "updated_at": "2026-09-16T12:53:18.994978Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.827209Z"
     },
     "scripts/console/commands/cmd_clear.gd": {
       "sha256": "8ae6aee54ce30beda3be0d8f0b96b26052d84b5b19c269e516c0a2f91a5f5e11",
       "size": 1425,
-      "version": "0.1.5.2.8",
-      "updated_at": "2026-09-16T12:53:18.995039Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.827152Z"
     },
     "scripts/console/commands/cmd_do_not_type_this_command.gd": {
       "sha256": "ffbbf7905812d34b439900831a0c057508fa96261ec3c7910907b2d6323f531b",
       "size": 2156,
-      "version": "0.1.5.2.8",
-      "updated_at": "2026-09-16T12:53:18.995092Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.827268Z"
     },
     ".map-dirty": {
       "sha256": "49ac4b1ba2a3b57ddb59cb5253fca22c6ffbbc7423a7e484c2296719aadd818d",
@@ -2221,8 +2221,8 @@
     "items/binoculars/assets/b04_binoculars_binoculars_albedo.png": {
       "sha256": "49996ce729c7bf9badb7d2a914f6e64fe13cfe77b0d432cdd90c74b4110388c0",
       "size": 563483,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.285081Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829134Z"
     },
     "items/binoculars/assets/binoculars_albedo.png": {
       "sha256": "04e01f39105c835f97bfc60bcae79e15e02ab6a4a6f77863a8bf10c0930cd197",
@@ -2281,38 +2281,38 @@
     "materials/water/water_surface_murky.tres": {
       "sha256": "74e378d9391596a9c9de2d8f08645c7d9f00d802248b1e05764e317f494f1198",
       "size": 1823,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.287335Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829347Z"
     },
     "materials/water/water_surface_ocean.tres": {
       "sha256": "d97d7b5a58bc4f55909eefd5023dce8c1db23821e9c4bd54d4062db00c40af18",
       "size": 1812,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.287384Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829423Z"
     },
     "materials/water/water_surface_pool.tres": {
       "sha256": "dd88989e4a01ca0ea3837424ba974caaee107425c9551dd92f60e6115cf189ed",
       "size": 1816,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.287442Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829497Z"
     },
     "materials/water/water_underwater_overlay.tres": {
       "sha256": "14cc1c069387628658183427ec47b59413f3d11c5e1449423bc869117ad11bc7",
       "size": 772,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.287509Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829607Z"
     },
     "prefabs/glass/assets/glass_crack_atlas.png": {
       "sha256": "0b7c2d75946e188d1beada11d91f0efb04575a653a35e6766d835db5b9338b65",
       "size": 1669248,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.288462Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.831782Z"
     },
     "prefabs/glass/breakable_glass_material.tres": {
       "sha256": "6f5e1898fc56cedc115bc936003a1490d6eb437d43804364e84deefa4e415fcf",
       "size": 311,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.288515Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.830297Z"
     },
     "prefabs/water/shots/01_pool_overview.png": {
       "sha256": "1ac8ad3f57201279f9a79c438fcd7b5f5ebd5f0aa9e8b3f585922b91010e086b",
@@ -2425,68 +2425,68 @@
     "items/binoculars/binocular_overlay.gd": {
       "sha256": "59b2856eb7814463cb25e7ba955ad4d08fec5271ea5b3522e74d097eb3ac04d2",
       "size": 1487,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.300392Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.827321Z"
     },
     "items/binoculars/binoculars_in_hand.gd": {
       "sha256": "85e101f9431867281d947b976289d7760929c2ac297693f6b7af341d14e0b807",
       "size": 3632,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.300471Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.827379Z"
     },
     "items/binoculars/binoculars_pickup.gd": {
       "sha256": "85a18ed26771adc35e6f2af8de14db6796eb85731daa79ea407bb5ae1756d98b",
       "size": 1596,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.300531Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.827483Z"
     },
     "items/binoculars/capture_godot_previews.gd": {
       "sha256": "1f899eadbbd438de07bb60574126dfc2b0ab10e963b659681d1881c9b2da98e3",
       "size": 1828,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.300587Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.827593Z"
     },
     "player/components/player_held_item_manager.gd": {
-      "sha256": "06f781119a2046d847f69a728c5092a10dfdaf46cb83e96844fac3613019c64e",
-      "size": 18115,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.300646Z"
+      "sha256": "20fedc24421353131602aa74fe2ab0a36fd0e20fc013b8fd5790d270488315e8",
+      "size": 18280,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829668Z"
     },
     "prefabs/furniture/cabinet.gd": {
       "sha256": "d979341abb3e503e620766a8312968248a1ae3581b98acac96a6b3c82c1fbeea",
       "size": 6622,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.300701Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829723Z"
     },
     "prefabs/furniture/cabinet_audio.gd": {
       "sha256": "f0047118be7557b84eba417a11f3111c575351a4ba16690d3cb4a989c10e06f2",
       "size": 1865,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.300752Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829836Z"
     },
     "prefabs/furniture/cabinet_hinge.gd": {
       "sha256": "213d192ccbd314e222ac49026b081129febb47effdfdc7e0bc2446780ffe776e",
       "size": 1236,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.300801Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829919Z"
     },
     "prefabs/glass/breakable_glass.gd": {
       "sha256": "b60c0a9026761e5f304f757e7cadb90c314e4703bcddaad3227be3660227c059",
       "size": 12076,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.300854Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.830026Z"
     },
     "prefabs/water/water_body.gd": {
       "sha256": "73e7929468e6b44e9af42a0e7af7624b92410c3b033d053c22f115ea00ff4583",
       "size": 15805,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.300910Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.832012Z"
     },
     "prefabs/water/water_debug_probe.gd": {
       "sha256": "bb52749ed8ea1650ceceab83f9d25d56dfdfeff64ff8dfd2cca166f42440805c",
       "size": 1640,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.300958Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.832123Z"
     },
     "prefabs/water/water_demo_capture.gd": {
       "sha256": "261ae5b998ad9c2b693bb7b582b2a76ef33d5878d58f39864a0c3139fc0d53be",
@@ -2497,86 +2497,86 @@
     "prefabs/water/water_splash_emitter.gd": {
       "sha256": "7d958f20d0ac03b1e00dd57eae6a7ef28b94f4a8cf38763222fdf1f7cbe4b26c",
       "size": 5334,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301057Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.832503Z"
     },
     "prefabs/water/water_underwater_overlay.gd": {
       "sha256": "e14d990eb382f9f35e2de4c2beac0e4eb3f2269832b3fcc0366a2d8afeb2c447",
       "size": 3102,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301105Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.832599Z"
     },
     "prefabs/water/water_volume_detector.gd": {
       "sha256": "026a4248fcab34947750a42522503fc6defb2c43193c3f9e9e5edc68c471f7d6",
       "size": 11533,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301158Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.832688Z"
     },
     "prefabs/water/water_wave_math.gd": {
       "sha256": "8ad783795689f2bfb425ca4a349d7f10c8aa54e669f81118d94c6d5f0ed02170",
       "size": 5125,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301208Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.832772Z"
     },
     "scenes/test_place.gd": {
       "sha256": "b195902dc42cf4f037a1c79a104a097aa3747691877a550efcb372d1b9a90afb",
       "size": 2989,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301263Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.832862Z"
     },
     "items/binoculars/binoculars_in_hand.tscn": {
       "sha256": "d5e67f93dd2d68460345b88a4ba78e98846e88732ba501bebbb92bd0aec48ce3",
       "size": 834,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301367Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.827430Z"
     },
     "items/binoculars/binoculars_pickup.tscn": {
       "sha256": "e16cc75946e11800335ad7da58c0dca018e2608e923ab8746d8f66c117fe87f8",
       "size": 1573,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301415Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.827538Z"
     },
     "prefabs/furniture/cabinet.tscn": {
       "sha256": "564c733e41855f88e90e286e64a4b4e5c2935c97c61c859ba54380d8fe172358",
       "size": 1975,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301463Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829781Z"
     },
     "prefabs/glass/breakable_glass.tscn": {
       "sha256": "4bb2dd17463000474118880bf9dea9b13d60d22c95fbaae61163dddaabed383c",
       "size": 1165,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301510Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.830170Z"
     },
     "prefabs/water/water_demo.tscn": {
       "sha256": "ca09a660f08087d65cfc78e20183135465996d409dbdc93196b19a101c3984c4",
       "size": 3419,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301558Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.832192Z"
     },
     "prefabs/water/water_ocean_csg.tscn": {
       "sha256": "d451ddb3ee8d4fc0911e3a46c867a0022c27bab5a5eaf65e4cb85ba574c304fc",
       "size": 1838,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301605Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.832249Z"
     },
     "prefabs/water/water_pool_csg.tscn": {
       "sha256": "55eafb5cdad497e0811cc672176ccee51ff951a0b0e7205984d21250fead5b67",
       "size": 2305,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301652Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.832319Z"
     },
     "prefabs/water/water_round_pool_csg.tscn": {
       "sha256": "85475f97d05fabf2dd9de7416104a51a45776065410f78e09d91e498d0000565",
       "size": 2428,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301701Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.832392Z"
     },
     "scenes/test_place.tscn": {
       "sha256": "d934b9895670783568b82147d1ecc94e6d95cbbff4b0a4310014549067ad8bbd",
       "size": 12490,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.301755Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.832944Z"
     },
     ".tmp_diff.py": {
       "sha256": "dac32fbdc203646d942abb229583e4c35936a6c0e17e29bf4591d5a167c8d10a",
@@ -2737,20 +2737,20 @@
     "items/binoculars/assets/b04_binoculars.glb": {
       "sha256": "47b9134a6b2ceed39e18bc9dc173c004ec33f823db1c4ceabe176de623f1929b",
       "size": 1098200,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.310034Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.828643Z"
     },
     "items/binoculars/assets/b04_binoculars.glb.import": {
       "sha256": "9009ac7ed091295b0138f220e371641febc65967e43e919649fb05b5e7e23887",
       "size": 1181,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.310089Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.828721Z"
     },
     "items/binoculars/assets/b04_binoculars_binoculars_albedo.png.import": {
       "sha256": "b866b79269ba01237dee5eff40ab7b4137f487f650d0561ba2ef1341f12cf9ab",
       "size": 1370,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.310141Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829224Z"
     },
     "items/binoculars/assets/binoculars_albedo.png.import": {
       "sha256": "b5be1c553a5be9923dc627cdd6addfeae9f469ab99878934c874eb38e3a756df",
@@ -2815,20 +2815,20 @@
     "materials/water/water_surface.gdshader": {
       "sha256": "9489a62a2c36e7c5601f6590d6d37d7e690141701daa3f98b72a98bfaf9f1b21",
       "size": 18163,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.310799Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829293Z"
     },
     "materials/water/water_underwater_overlay.gdshader": {
       "sha256": "a71f49cb0d9bf97ce6a78a26da04f44a39f025a68d662d8c3e2b80cb201cc1e8",
       "size": 4415,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.310850Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.829556Z"
     },
     "prefabs/glass/assets/glass_crack_atlas.png.import": {
       "sha256": "a4c4cad96058f2c04df5a896563dbe08ea670d4000ff7e18fa6dfbbd0bfb628e",
       "size": 976,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.310899Z"
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.831910Z"
     },
     "prefabs/water/WATER.md": {
       "sha256": "bdc4e5cecdec36a52d410b1fc573a7b48f7b104cf17de625f7943e94660087ab",
@@ -3015,6 +3015,156 @@
       "size": 20,
       "version": "0.1.5.3.1",
       "updated_at": "2026-09-17T11:11:04.312710Z"
+    },
+    "scripts/console/commands/cmd_help.gd": {
+      "sha256": "4137aaca215c14d73055d9489eb211e414eca963c7276dc935a45c8137581737",
+      "size": 2175,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.827072Z"
+    },
+    "items/plasma_pistol/plasma_bolt.gd": {
+      "sha256": "02fbffae6a56fa8e6594aaa7524699b8cdb06709cdc802edb87701a88ce834e9",
+      "size": 2752,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.833021Z"
+    },
+    "items/plasma_pistol/plasma_pistol_in_hand.gd": {
+      "sha256": "75c6a24f27f3a1a089dfd2a62727428cc52dc296ad6ccbd24f2d26728736c809",
+      "size": 6420,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.833093Z"
+    },
+    "items/plasma_pistol/plasma_pistol_in_hand.tscn": {
+      "sha256": "11fa31e1b5e306b583d5ce2a6ed9d6cc3f29204529d342ff10ad20ec3ed25cc5",
+      "size": 3263,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.833148Z"
+    },
+    "items/plasma_pistol/plasma_pistol_pickup.gd": {
+      "sha256": "33edea05c14470d6c1248f4fc1c8852f0437f09fc7ff90bb2bdaea098582239e",
+      "size": 3723,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.833202Z"
+    },
+    "items/plasma_pistol/plasma_pistol_pickup.tscn": {
+      "sha256": "a2b84059e16ec927593b09092bb4d7b232b0a1b6f35d91e9731cd3558e758b59",
+      "size": 1617,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.833254Z"
+    },
+    "items/plasma_pistol/k07_godot.glb": {
+      "sha256": "7044df272bc8c9d298674dba611f3e77a4537e27656a028f0da95d5d6a736668",
+      "size": 850368,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.833858Z"
+    },
+    "items/plasma_pistol/k07_godot.glb.import": {
+      "sha256": "ced04e036c5b29b4e3a7490d5145ed20f93199d2f088cfa186fbdb5de90f709d",
+      "size": 1162,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.833964Z"
+    },
+    "items/plasma_pistol/k07_material.tres": {
+      "sha256": "252c5c11e2e60195d004c3282aa3d17dfa9675d1a7ad4637ec2c652ff6467ad0",
+      "size": 713,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.834036Z"
+    },
+    "items/plasma_pistol/k07_authentic_albedo.png": {
+      "sha256": "5cbcbc6906500313dac099b495fb1e1fc1185cc316d705a0f4c7750cabd64d18",
+      "size": 793951,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.834579Z"
+    },
+    "items/plasma_pistol/k07_authentic_albedo.png.import": {
+      "sha256": "fd9c4685e72f755fbf6cfca6c628ec5099a48b823d82e07d088ef81ff25fc75c",
+      "size": 984,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.834648Z"
+    },
+    "items/plasma_pistol/k07_authentic_emission.png": {
+      "sha256": "a6668ee0283d3a483e48ffd25103fa570b627f8bd28195cb906d949fa7a5ec18",
+      "size": 9624,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.834720Z"
+    },
+    "items/plasma_pistol/k07_authentic_emission.png.import": {
+      "sha256": "ac208df4a8591acdacc7da9b788c486b9408cdec4ae89ad4d9ee85089832d55c",
+      "size": 990,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.834773Z"
+    },
+    "items/plasma_pistol/k07_authentic_normal.png": {
+      "sha256": "7de424aa5534d7648e7a92813ec7be9ccfcddd516232668802b0099cf160c9df",
+      "size": 870895,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.835332Z"
+    },
+    "items/plasma_pistol/k07_authentic_normal.png.import": {
+      "sha256": "6f04d4971a315e52a4212c5c574b2cad2cc0e1169da55af5d1bc210e3803641e",
+      "size": 984,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.835387Z"
+    },
+    "items/plasma_pistol/k07_authentic_roughness.png": {
+      "sha256": "8819914d25fa276ac0fc85a1a261ef42dcc0369b06bdff56d0fc7ce97d49d26a",
+      "size": 3200,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.835462Z"
+    },
+    "items/plasma_pistol/k07_authentic_roughness.png.import": {
+      "sha256": "633e705c040591f06a8e8177ac5ff1377d793dad286c2b0c6affa7b6fa02ce5f",
+      "size": 993,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.835539Z"
+    },
+    "res/audio/plasma_pistol/plasma_charge.wav": {
+      "sha256": "721148cc1afab0487ad720aa576edded09d141487e37cca3af75abfc39b81248",
+      "size": 192078,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.835786Z"
+    },
+    "res/audio/plasma_pistol/plasma_charge.wav.import": {
+      "sha256": "6184f5ec95ac13ed769459a5e24842946acfd642ed6ec11f329b8d0e355d0370",
+      "size": 521,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.835840Z"
+    },
+    "res/audio/plasma_pistol/plasma_fire.wav": {
+      "sha256": "e74debb9c7ce46c707bb2f206f8cc414077b37a7d7cfb1cf7d88b46f8c259b77",
+      "size": 192078,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.835996Z"
+    },
+    "res/audio/plasma_pistol/plasma_fire.wav.import": {
+      "sha256": "775ac6c3735be01fdf0cdcaf67f2db0f3bb138f11ca725bebd8ff24c76174fb6",
+      "size": 515,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.836047Z"
+    },
+    "res/audio/plasma_pistol/plasma_impact.wav": {
+      "sha256": "adaabf624da354b6b724005890f7eafa2f6b06c2007d8f472c6190047b410f1e",
+      "size": 192078,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.836245Z"
+    },
+    "res/audio/plasma_pistol/plasma_impact.wav.import": {
+      "sha256": "6e5a2d61774390f581e1f2fb5b236e48cd1f477083398951f58f46575ed6432b",
+      "size": 521,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.836334Z"
+    },
+    "res/audio/plasma_pistol/plasma_reload.wav": {
+      "sha256": "8bae864c09da2e0920a173ce40e35ba5ceaddc3a2aa4beb74d6849c5fc6114f3",
+      "size": 192078,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.836499Z"
+    },
+    "res/audio/plasma_pistol/plasma_reload.wav.import": {
+      "sha256": "88ef67a2316af38d4aad60fc3cab0841d4d0af5439a843de8be7dff45d364c8e",
+      "size": 521,
+      "version": "0.1.5.3.2",
+      "updated_at": "2026-09-18T06:34:41.836554Z"
     }
   }
 }
