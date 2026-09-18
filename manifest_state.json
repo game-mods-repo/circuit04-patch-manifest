@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-18T06:47:44.678200Z",
-  "latest_patch": "0.1.5.4",
+  "last_updated": "2026-09-18T06:55:34.234526Z",
+  "latest_patch": "0.1.5.5",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -193,8 +193,8 @@
     "main.tscn": {
       "sha256": "6c5d01253a801f3e6203951a8a16877ef341c8c51933f2502448da58e0c04eac",
       "size": 67008,
-      "version": "0.1.5.4",
-      "updated_at": "2026-09-18T06:47:44.677935Z"
+      "version": "0.1.5.5",
+      "updated_at": "2026-09-18T06:55:34.228126Z"
     },
     "player/player.tscn": {
       "sha256": "20649638790acc6f67d633c137de20e480de19ce02f7097b1f649d48b7c19e90",
@@ -2143,8 +2143,8 @@
     "models/typhoeus__arknights_endfield.glb": {
       "sha256": "35fe9a21b2ba6d3edae54318f1c138fefd676d24cf316dc82d63e487d6a1db5e",
       "size": 7677264,
-      "version": "0.1.5.2.6",
-      "updated_at": "2026-09-16T10:38:09.875552Z"
+      "version": "0.1.5.5",
+      "updated_at": "2026-09-18T06:55:34.234514Z"
     },
     "models/typhoeus__arknights_endfield.glb.import": {
       "sha256": "686c8a0112dd75d6928f9eddca1c3bae309ce9b4d30a104acd9ff2ee41760b1b",
@@ -2737,8 +2737,8 @@
     "items/binoculars/assets/b04_binoculars.glb": {
       "sha256": "47b9134a6b2ceed39e18bc9dc173c004ec33f823db1c4ceabe176de623f1929b",
       "size": 1098200,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.828643Z"
+      "version": "0.1.5.5",
+      "updated_at": "2026-09-18T06:55:34.228964Z"
     },
     "items/binoculars/assets/b04_binoculars.glb.import": {
       "sha256": "9009ac7ed091295b0138f220e371641febc65967e43e919649fb05b5e7e23887",
