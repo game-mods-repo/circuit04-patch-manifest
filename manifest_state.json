@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-18T06:55:34.234526Z",
-  "latest_patch": "0.1.5.5",
+  "last_updated": "2026-09-18T07:17:43.011622Z",
+  "latest_patch": "0.1.5.6",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -193,8 +193,8 @@
     "main.tscn": {
       "sha256": "6c5d01253a801f3e6203951a8a16877ef341c8c51933f2502448da58e0c04eac",
       "size": 67008,
-      "version": "0.1.5.5",
-      "updated_at": "2026-09-18T06:55:34.228126Z"
+      "version": "0.1.5.6",
+      "updated_at": "2026-09-18T07:17:43.006553Z"
     },
     "player/player.tscn": {
       "sha256": "20649638790acc6f67d633c137de20e480de19ce02f7097b1f649d48b7c19e90",
@@ -2143,8 +2143,8 @@
     "models/typhoeus__arknights_endfield.glb": {
       "sha256": "35fe9a21b2ba6d3edae54318f1c138fefd676d24cf316dc82d63e487d6a1db5e",
       "size": 7677264,
-      "version": "0.1.5.5",
-      "updated_at": "2026-09-18T06:55:34.234514Z"
+      "version": "0.1.5.6",
+      "updated_at": "2026-09-18T07:17:43.011617Z"
     },
     "models/typhoeus__arknights_endfield.glb.import": {
       "sha256": "686c8a0112dd75d6928f9eddca1c3bae309ce9b4d30a104acd9ff2ee41760b1b",
@@ -2575,8 +2575,8 @@
     "scenes/test_place.tscn": {
       "sha256": "d934b9895670783568b82147d1ecc94e6d95cbbff4b0a4310014549067ad8bbd",
       "size": 12490,
-      "version": "0.1.5.4",
-      "updated_at": "2026-09-18T06:47:44.678197Z"
+      "version": "0.1.5.6",
+      "updated_at": "2026-09-18T07:17:43.006634Z"
     },
     ".tmp_diff.py": {
       "sha256": "dac32fbdc203646d942abb229583e4c35936a6c0e17e29bf4591d5a167c8d10a",
@@ -2737,8 +2737,8 @@
     "items/binoculars/assets/b04_binoculars.glb": {
       "sha256": "47b9134a6b2ceed39e18bc9dc173c004ec33f823db1c4ceabe176de623f1929b",
       "size": 1098200,
-      "version": "0.1.5.5",
-      "updated_at": "2026-09-18T06:55:34.228964Z"
+      "version": "0.1.5.6",
+      "updated_at": "2026-09-18T07:17:43.007326Z"
     },
     "items/binoculars/assets/b04_binoculars.glb.import": {
       "sha256": "9009ac7ed091295b0138f220e371641febc65967e43e919649fb05b5e7e23887",
