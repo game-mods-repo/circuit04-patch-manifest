@@ -1,5 +1,5 @@
 {
-  "latest_patch": "0.1.5.3.2",
+  "latest_patch": "0.1.5.4",
   "history": [
     {
       "version": "0.1.4.1",
@@ -794,6 +794,19 @@
         "res/audio/plasma_pistol/plasma_impact.wav.import",
         "res/audio/plasma_pistol/plasma_reload.wav",
         "res/audio/plasma_pistol/plasma_reload.wav.import"
+      ]
+    },
+    {
+      "version": "0.1.5.4",
+      "date": "2026-09-18 06:47:47 UTC",
+      "description": "Монолитный кумулятивный патч v0.1.5.4 со всеми актуальными сценами и .remap оверрайдами.",
+      "files_count": 5,
+      "files": [
+        "main.tscn",
+        "scenes/player.tscn",
+        "player/player.tscn",
+        "player/player.gd",
+        "scenes/test_place.tscn"
       ]
     }
   ]
