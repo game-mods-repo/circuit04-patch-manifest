@@ -1,5 +1,5 @@
 {
-  "latest_patch": "0.1.5.6.1",
+  "latest_patch": "0.1.6.1",
   "history": [
     {
       "version": "0.1.4.1",
@@ -973,6 +973,47 @@
         "prefabs/furniture/cabinet_smoke_test.gd.uid"
       ],
       "image_url": "https://github.com/game-mods-repo/mod-patches/releases/download/patch-0.1.5.6.1/banner_patch_0_1_5_6_1.png"
+    },
+    {
+      "version": "0.1.6.1",
+      "date": "2026-09-19 02:28:32 UTC",
+      "description": "пипиолестик",
+      "files_count": 32,
+      "files": [
+        "items/plasma_pistol/textures/plasma_glass_atlas_3x3.png",
+        "items/plasma_pistol/textures/plasma_impact_atlas_3x3.png",
+        "items/plasma_pistol/textures/plasma_water_flipbook_3x3.png",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_01.png",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_02.png",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_03.png",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_04.png",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_05.png",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_06.png",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_07.png",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_08.png",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_09.png",
+        "items/plasma_pistol/capture_plasma_impact_previews.gd",
+        "items/plasma_pistol/plasma_bolt.gd",
+        "items/plasma_pistol/plasma_impact_manager.gd",
+        "prefabs/water/water_ocean_csg.tscn",
+        "prefabs/water/water_pool_csg.tscn",
+        "prefabs/water/water_round_pool_csg.tscn",
+        "items/plasma_pistol/textures/plasma_glass_atlas_3x3.png.import",
+        "items/plasma_pistol/textures/plasma_impact_atlas_3x3.png.import",
+        "items/plasma_pistol/textures/plasma_water_flipbook_3x3.png.import",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_01.png.import",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_02.png.import",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_03.png.import",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_04.png.import",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_05.png.import",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_06.png.import",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_07.png.import",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_08.png.import",
+        "items/plasma_pistol/textures/solid_tiles/plasma_impact_09.png.import",
+        "CODEBASE.annotations.yml",
+        "CODEBASE.index.md"
+      ],
+      "image_url": "https://github.com/game-mods-repo/mod-patches/releases/download/patch-0.1.6.1/banner_patch_0_1_6_1.png"
     }
   ]
 }
