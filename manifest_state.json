@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-18T07:17:43.011622Z",
-  "latest_patch": "0.1.5.6",
+  "last_updated": "2026-09-19T02:17:31.418224Z",
+  "latest_patch": "0.1.5.6.1",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -803,10 +803,10 @@
       "updated_at": "2026-09-16T10:28:21.807324Z"
     },
     "prefabs/oxygen/airlock_chamber_controller.gd": {
-      "sha256": "302b0803e7b8a83dc4ed15404c54d89ec70a9c210f95fe310103898585b80622",
-      "size": 5466,
-      "version": "0.1.5.2.3",
-      "updated_at": "2026-09-16T10:28:21.807437Z"
+      "sha256": "72dfad3fbe7312e9592092541d32bcec876492554ed6ffa5f6349a58ce024833",
+      "size": 5605,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411881Z"
     },
     "prefabs/oxygen/airlock_scene_binder.gd": {
       "sha256": "c3bc82255c4ca7f08aba31486673e6b4ef908ee9b8d29b38069ca6a36e04fea3",
@@ -1481,16 +1481,16 @@
       "updated_at": "2026-09-16T10:34:19.437749Z"
     },
     "CODEBASE.annotations.yml": {
-      "sha256": "30397a3b91924d5f2eb1af767c5f29d4aef698ad4727e1a4c59388223ed8ca53",
-      "size": 158373,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.311623Z"
+      "sha256": "3c44cf81b28663d181d7ea60a3fc31ac59bd3783bda81e41e46a18518106852a",
+      "size": 164399,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417571Z"
     },
     "CODEBASE.index.md": {
-      "sha256": "393b1f93fd91ecdea51e74aac3797d0a6a6b4906b21f93b56fd7f3614b837203",
-      "size": 213216,
-      "version": "0.1.5.3.1",
-      "updated_at": "2026-09-17T11:11:04.311782Z"
+      "sha256": "a356d63d90f67f7e4dde0320f933ca6aac94beda767f037972e03862922eef0b",
+      "size": 214554,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417737Z"
     },
     "LAUNCHER_GUIDE.md": {
       "sha256": "ecfa942be75563882e94f572a971cbb8b89cc47276f0e1f8caffa87f8969f424",
@@ -2453,22 +2453,22 @@
       "updated_at": "2026-09-18T06:34:41.829668Z"
     },
     "prefabs/furniture/cabinet.gd": {
-      "sha256": "d979341abb3e503e620766a8312968248a1ae3581b98acac96a6b3c82c1fbeea",
-      "size": 6622,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.829723Z"
+      "sha256": "86db572a1ab469b46d8bcb1af81d6930b01f20664ac3382c6e5f73aaba686b51",
+      "size": 4239,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411659Z"
     },
     "prefabs/furniture/cabinet_audio.gd": {
-      "sha256": "f0047118be7557b84eba417a11f3111c575351a4ba16690d3cb4a989c10e06f2",
-      "size": 1865,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.829836Z"
+      "sha256": "e67c9fd12be209d5043683a13db73dcbce324dd63971c31ed01589534566582d",
+      "size": 1448,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411706Z"
     },
     "prefabs/furniture/cabinet_hinge.gd": {
-      "sha256": "213d192ccbd314e222ac49026b081129febb47effdfdc7e0bc2446780ffe776e",
-      "size": 1236,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.829919Z"
+      "sha256": "1684ecff2423e18cd288f3162dec8caf204e4754aaa1b10fdb690bd4e47acb78",
+      "size": 876,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411779Z"
     },
     "prefabs/glass/breakable_glass.gd": {
       "sha256": "b60c0a9026761e5f304f757e7cadb90c314e4703bcddaad3227be3660227c059",
@@ -2537,10 +2537,10 @@
       "updated_at": "2026-09-18T06:34:41.827538Z"
     },
     "prefabs/furniture/cabinet.tscn": {
-      "sha256": "564c733e41855f88e90e286e64a4b4e5c2935c97c61c859ba54380d8fe172358",
-      "size": 1975,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.829781Z"
+      "sha256": "4d3549f8ec96f81dc73f7009503436cc47dc141d87190427ee03ed83924e310b",
+      "size": 4700,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412019Z"
     },
     "prefabs/glass/breakable_glass.tscn": {
       "sha256": "4bb2dd17463000474118880bf9dea9b13d60d22c95fbaae61163dddaabed383c",
@@ -2573,10 +2573,10 @@
       "updated_at": "2026-09-18T06:34:41.832392Z"
     },
     "scenes/test_place.tscn": {
-      "sha256": "d934b9895670783568b82147d1ecc94e6d95cbbff4b0a4310014549067ad8bbd",
-      "size": 12490,
-      "version": "0.1.5.6",
-      "updated_at": "2026-09-18T07:17:43.006634Z"
+      "sha256": "127c996623afbb96270d44ad8458e3855613571a02a0ac4a4b460a5950e0b8f3",
+      "size": 13039,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412071Z"
     },
     ".tmp_diff.py": {
       "sha256": "dac32fbdc203646d942abb229583e4c35936a6c0e17e29bf4591d5a167c8d10a",
@@ -3023,22 +3023,22 @@
       "updated_at": "2026-09-18T06:34:41.827072Z"
     },
     "items/plasma_pistol/plasma_bolt.gd": {
-      "sha256": "02fbffae6a56fa8e6594aaa7524699b8cdb06709cdc802edb87701a88ce834e9",
-      "size": 2752,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.833021Z"
+      "sha256": "7a5ab9a616338760761cf5395a4b6361eda23d74d17a0332b9da4f312c1ed70a",
+      "size": 3189,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411461Z"
     },
     "items/plasma_pistol/plasma_pistol_in_hand.gd": {
-      "sha256": "75c6a24f27f3a1a089dfd2a62727428cc52dc296ad6ccbd24f2d26728736c809",
-      "size": 6420,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.833093Z"
+      "sha256": "51035d506dbdf55f46671703a0e9cd088cf2c039a7a2c5cfab82a8f2b1bb4334",
+      "size": 6428,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411560Z"
     },
     "items/plasma_pistol/plasma_pistol_in_hand.tscn": {
-      "sha256": "11fa31e1b5e306b583d5ce2a6ed9d6cc3f29204529d342ff10ad20ec3ed25cc5",
-      "size": 3263,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.833148Z"
+      "sha256": "4758bfac4364b33ff96eb251981b41077bfd666ab87036f7f57ce2cbfcbccf1f",
+      "size": 3419,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411972Z"
     },
     "items/plasma_pistol/plasma_pistol_pickup.gd": {
       "sha256": "33edea05c14470d6c1248f4fc1c8852f0437f09fc7ff90bb2bdaea098582239e",
@@ -3077,10 +3077,10 @@
       "updated_at": "2026-09-18T06:34:41.834579Z"
     },
     "items/plasma_pistol/k07_authentic_albedo.png.import": {
-      "sha256": "fd9c4685e72f755fbf6cfca6c628ec5099a48b823d82e07d088ef81ff25fc75c",
-      "size": 984,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.834648Z"
+      "sha256": "fb0e2d0c8868c1e596863013bb06ff92666fa661f616067d7e86212f301f9146",
+      "size": 1240,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413105Z"
     },
     "items/plasma_pistol/k07_authentic_emission.png": {
       "sha256": "a6668ee0283d3a483e48ffd25103fa570b627f8bd28195cb906d949fa7a5ec18",
@@ -3089,10 +3089,10 @@
       "updated_at": "2026-09-18T06:34:41.834720Z"
     },
     "items/plasma_pistol/k07_authentic_emission.png.import": {
-      "sha256": "ac208df4a8591acdacc7da9b788c486b9408cdec4ae89ad4d9ee85089832d55c",
-      "size": 990,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.834773Z"
+      "sha256": "c84ffdd451ef93a2197e3be72ccd3a087c74aa7ef833de5f1ff5bb28a34ad41f",
+      "size": 1250,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413176Z"
     },
     "items/plasma_pistol/k07_authentic_normal.png": {
       "sha256": "7de424aa5534d7648e7a92813ec7be9ccfcddd516232668802b0099cf160c9df",
@@ -3113,10 +3113,10 @@
       "updated_at": "2026-09-18T06:34:41.835462Z"
     },
     "items/plasma_pistol/k07_authentic_roughness.png.import": {
-      "sha256": "633e705c040591f06a8e8177ac5ff1377d793dad286c2b0c6affa7b6fa02ce5f",
-      "size": 993,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.835539Z"
+      "sha256": "3a12f46c77c8a34d17ce1f47c91d611f7901e342cd61ccdbab5ead8c38b02cdf",
+      "size": 1255,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413248Z"
     },
     "res/audio/plasma_pistol/plasma_charge.wav": {
       "sha256": "721148cc1afab0487ad720aa576edded09d141487e37cca3af75abfc39b81248",
@@ -3165,6 +3165,720 @@
       "size": 521,
       "version": "0.1.5.3.2",
       "updated_at": "2026-09-18T06:34:41.836554Z"
+    },
+    "res/audio/plasma_pistol/A_powerful_futuristi_#1-1789577785187.wav": {
+      "sha256": "e74debb9c7ce46c707bb2f206f8cc414077b37a7d7cfb1cf7d88b46f8c259b77",
+      "size": 192078,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.399310Z"
+    },
+    "res/audio/plasma_pistol/Futuristic_industria_#2-1789577905249.wav": {
+      "sha256": "721148cc1afab0487ad720aa576edded09d141487e37cca3af75abfc39b81248",
+      "size": 192078,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.399534Z"
+    },
+    "res/audio/plasma_pistol/Heavy_futuristic_pla_#1-1789578142784.wav": {
+      "sha256": "8bae864c09da2e0920a173ce40e35ba5ceaddc3a2aa4beb74d6849c5fc6114f3",
+      "size": 192078,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.399700Z"
+    },
+    "res/audio/plasma_pistol/Plasma_projectile_st_#1-1789578039695.wav": {
+      "sha256": "adaabf624da354b6b724005890f7eafa2f6b06c2007d8f472c6190047b410f1e",
+      "size": 192078,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.399854Z"
+    },
+    "items/plasma_pistol/k07_audit_perspective.png": {
+      "sha256": "caaae99db5613ca874b23f6d4655c630f151e4f6a3e229bc19224b2c4556b5db",
+      "size": 548276,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.400235Z"
+    },
+    "items/plasma_pistol/k07_audit_side.png": {
+      "sha256": "26aa3fe2ebeee1b23741ebcba7368bbfbfec5d00fe756f9f6651c8e1b490af04",
+      "size": 519641,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.400585Z"
+    },
+    "items/plasma_pistol/k07_final_perspective.png": {
+      "sha256": "da0f9b91bb8af28893dfa6d263ae274b9f26363cca5bf1cc1f1cbe65d01d8164",
+      "size": 551264,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.400932Z"
+    },
+    "items/plasma_pistol/k07_final_side.png": {
+      "sha256": "484d499547c8aff905978ce378ed08ac0bc066f8f368a84b04b1976b60a47b10",
+      "size": 540440,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.401254Z"
+    },
+    "items/plasma_pistol/k07_godot_k07_authentic_albedo.png": {
+      "sha256": "5cbcbc6906500313dac099b495fb1e1fc1185cc316d705a0f4c7750cabd64d18",
+      "size": 793951,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.401802Z"
+    },
+    "items/plasma_pistol/k07_godot_k07_authentic_emission.png": {
+      "sha256": "a6668ee0283d3a483e48ffd25103fa570b627f8bd28195cb906d949fa7a5ec18",
+      "size": 9624,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.401869Z"
+    },
+    "items/plasma_pistol/k07_godot_k07_authentic_roughness.png": {
+      "sha256": "efcd90b1be7f74267dc6870fb28dc75a6987642b86084693f4e616d3f0b53374",
+      "size": 16927,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.401932Z"
+    },
+    "items/plasma_pistol/k07_master_perspective.png": {
+      "sha256": "8c6480579230f791a7c274afb1656e352a8b7353c23f6e69d8cd327d6384466b",
+      "size": 551443,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.402322Z"
+    },
+    "items/plasma_pistol/k07_master_side.png": {
+      "sha256": "4d8d61ed3a019aa68be10f17caaf1aba2713ac960eef0f8ca8ad3967c2bd1738",
+      "size": 523808,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.402675Z"
+    },
+    "items/plasma_pistol/k07_perfect_perspective.png": {
+      "sha256": "25cc6d7935edbf22af29ea06f8a73a1034fc11685682d6394067ab026f7adbec",
+      "size": 530399,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.403031Z"
+    },
+    "items/plasma_pistol/k07_perfect_side.png": {
+      "sha256": "94ce7f74ae2a5bb616e2caa4ebf21471f7da6155fdb4e8abf4292eb1b1e8a8dc",
+      "size": 527144,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.403379Z"
+    },
+    "items/plasma_pistol/k07_plasma_pistol_textured_k07_authentic_albedo.png": {
+      "sha256": "5cbcbc6906500313dac099b495fb1e1fc1185cc316d705a0f4c7750cabd64d18",
+      "size": 793951,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.403888Z"
+    },
+    "items/plasma_pistol/k07_plasma_pistol_textured_k07_authentic_emission.png": {
+      "sha256": "a6668ee0283d3a483e48ffd25103fa570b627f8bd28195cb906d949fa7a5ec18",
+      "size": 9624,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.403992Z"
+    },
+    "items/plasma_pistol/k07_plasma_pistol_textured_k07_authentic_roughness.png": {
+      "sha256": "efcd90b1be7f74267dc6870fb28dc75a6987642b86084693f4e616d3f0b53374",
+      "size": 16927,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.404075Z"
+    },
+    "items/plasma_pistol/k07_precision_perspective.png": {
+      "sha256": "d1b5103a75380cbaec8bc86980fd82aca852f1d7bcf575a6affffd6abdac7a6d",
+      "size": 531768,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.404437Z"
+    },
+    "items/plasma_pistol/k07_precision_side.png": {
+      "sha256": "bed2fe8f106ae9baa79c9344a689305ef6a9e3c9cd31bb5d9bf1ab3f1eda4a18",
+      "size": 526526,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.404810Z"
+    },
+    "items/plasma_pistol/k07_textured_perspective.png": {
+      "sha256": "18b2f37836f18e6526e3699e53cfbddceb268a3de523a029bbd2f52b119c17a7",
+      "size": 644363,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.405242Z"
+    },
+    "items/plasma_pistol/k07_textured_side.png": {
+      "sha256": "e7f7c880dbc6a07b544b5cb4b7da9b082c4c52c23406323b870aee5c5e49f8f9",
+      "size": 641440,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.405716Z"
+    },
+    "items/plasma_pistol/k07_true_perspective.png": {
+      "sha256": "7bbdd0ce50361b6bdeccf17a577bee80eb5d69d107a8cee4509ee47eb13b2096",
+      "size": 554830,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.406153Z"
+    },
+    "items/plasma_pistol/k07_true_side.png": {
+      "sha256": "27f1bc68e079d46518304657e4c0a6e482cf0f58b577b8026c2020e5dd5722e7",
+      "size": 550952,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.406585Z"
+    },
+    "items/plasma_pistol/k07_uv_wireframe.png": {
+      "sha256": "dbefd2c64dfeb9cdd741c0f7cbdc3be3acda231281644aab445cb4ede434b5e1",
+      "size": 10435,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.406675Z"
+    },
+    "items/plasma_pistol/previews/plasma_impact_preview_angle.png": {
+      "sha256": "9848872779ecd88d98a662993c95cb35da84cd185028c353f60f710b20180e0b",
+      "size": 77235,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.406785Z"
+    },
+    "items/plasma_pistol/previews/plasma_impact_preview_front.png": {
+      "sha256": "a4fed0dc5870f4fb3f1236856763abf6c3df99c28332a0d8739f5261604a15b9",
+      "size": 73140,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.406885Z"
+    },
+    "items/plasma_pistol/textures/plasma_impact_crater.png": {
+      "sha256": "149251339ebac03b3ce31b022efb292ca593bdae57c359e839e6999a347d82aa",
+      "size": 1994225,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.408149Z"
+    },
+    "items/plasma_pistol/textures/plasma_impact_glass.png": {
+      "sha256": "ddda53565cd144868a581608ac8bf98de6c4c92bb48af7dfc02eed33b24528bf",
+      "size": 1096114,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.408808Z"
+    },
+    "items/plasma_pistol/textures/plasma_impact_scar.png": {
+      "sha256": "806df1ca4dfeeee22134dfeecd608d5d055f11aae2004d481c55f36838039480",
+      "size": 1381215,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.409631Z"
+    },
+    "items/plasma_pistol/textures/plasma_impact_water.png": {
+      "sha256": "80c82a1e3ff22a37134aed8a4d1fb4c4ac5774bc35b9112ffdf2b3415ba64fab",
+      "size": 1845292,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.410719Z"
+    },
+    "items/plasma_pistol/user_reference.png": {
+      "sha256": "3e0bf75c26206449dcf02ce080d21b2e14117ccdd0bccc48db20076456c8d263",
+      "size": 692136,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411130Z"
+    },
+    "_test_54.gd": {
+      "sha256": "f4e4a66f9b898b6d0257878fb6b917d26cf4192dd72a2f3354a39c308730e731",
+      "size": 520,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411182Z"
+    },
+    "_test_children.gd": {
+      "sha256": "2e5f75a24a9f5fccba64b60177dc35bf495d4ec9401ecd790734cb91799236e6",
+      "size": 499,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411271Z"
+    },
+    "_test_load_pck.gd": {
+      "sha256": "600bd33701cfd57c32f39f26dd4b7b3bb133a9800c87ab97d9b2f8fc4d12f862",
+      "size": 1100,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411322Z"
+    },
+    "_test_main_load.gd": {
+      "sha256": "cb5bb6dc5d3db7207971ab2e232be25dd8791fe33652cc00dd7988f4038b4bc7",
+      "size": 596,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411366Z"
+    },
+    "items/plasma_pistol/capture_plasma_impact_previews.gd": {
+      "sha256": "ea41a26026e9a3d0a8e588607388d574100433b3006e64f3aa80e8c3bd835a92",
+      "size": 3442,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411415Z"
+    },
+    "items/plasma_pistol/plasma_impact_manager.gd": {
+      "sha256": "e93dcf4c852ba854bc48f0f79a25c012f53028c3110c56048227f680103ad4b0",
+      "size": 7296,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411512Z"
+    },
+    "mods_system/mod_manager.gd": {
+      "sha256": "d2430630cfa2e4c7a4cd3ef16c80153db10b5f40c669e9b310fae0b5c49cefbf",
+      "size": 7902,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411609Z"
+    },
+    "prefabs/furniture/cabinet_smoke_test.gd": {
+      "sha256": "9ef2be7847965f02f0cafffcbcbc53f3387eb9929fbfaadc3154694d07742fa9",
+      "size": 750,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411831Z"
+    },
+    "items/plasma_pistol/plasma_impact_preview.tscn": {
+      "sha256": "3fb5ee361ad190d94b997cea13ce3b05826d24b38225236b3ac70646aa48da5b",
+      "size": 228,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.411925Z"
+    },
+    "items/plasma_pistol/assemble_k07_textured.py": {
+      "sha256": "89962746918a8564de7f0cea1c00b71a2dfc9de20e3dcdc0b53e5f4db70af087",
+      "size": 8887,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412121Z"
+    },
+    "items/plasma_pistol/build_fixed_k07.py": {
+      "sha256": "f5f46aa02d16f1320adaf78789cc998ed9c859f489740096792593c68582acd1",
+      "size": 6879,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412170Z"
+    },
+    "items/plasma_pistol/build_k07_clean.py": {
+      "sha256": "7e2ed24e14a864c1bc3d31f5f77edb2d0c5d9739d19dcdfaa05d87c9172955de",
+      "size": 6659,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412216Z"
+    },
+    "items/plasma_pistol/build_k07_master.py": {
+      "sha256": "2a8e73cbc6e140ec26b8a0c63e427589bf31f715ec0363e3c22d89c1ec117912",
+      "size": 10754,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412364Z"
+    },
+    "items/plasma_pistol/build_k07_model.py": {
+      "sha256": "2ee08eafbc621cae85c6908b0cd6d06380b1731d0ab82103d4e40c0a0e0cb62d",
+      "size": 7161,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412451Z"
+    },
+    "items/plasma_pistol/build_k07_true.py": {
+      "sha256": "db5d71ece5f0fbda94c41d152925e0cecd7fc048b019095f7c9f61af9835e61c",
+      "size": 9651,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412530Z"
+    },
+    "items/plasma_pistol/build_precision_k07.py": {
+      "sha256": "6f8e2ad31de4fffd3917a81e7e9f59bacf90e30078c5fcbb3eff4855bf0bacc6",
+      "size": 7694,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412602Z"
+    },
+    "items/plasma_pistol/check_mesh.py": {
+      "sha256": "fb5264033df87ee117402b6e5acfbfda10064a9926926c1f2d1a024bc34aeaf4",
+      "size": 671,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412670Z"
+    },
+    "items/plasma_pistol/convert_to_godot.py": {
+      "sha256": "83f365deed89c25182a930eef6f7115a9c1f3b55615f271b068448ab7b94fa93",
+      "size": 696,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412733Z"
+    },
+    "items/plasma_pistol/find_bad_verts.py": {
+      "sha256": "a4e96273f68d4d6849302071cc14a62f7b4acead7ca65e4e342c6d04c4b0e6c5",
+      "size": 499,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412799Z"
+    },
+    "items/plasma_pistol/generate_k07_textures.py": {
+      "sha256": "0bd8f3b02cc4e58b327d04d67a75d5d308570057e101ce15afa08cc796811e76",
+      "size": 5973,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412919Z"
+    },
+    "items/plasma_pistol/k07_audit_perspective.png.import": {
+      "sha256": "f0122f928de4b8a887a37b4938bbb3802d7da9b4a75d871e0c0db8cf2bb00162",
+      "size": 987,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.412985Z"
+    },
+    "items/plasma_pistol/k07_audit_side.png.import": {
+      "sha256": "92f39baaa6bf7eb28495ee1917914ba7a1c6ff6a47fbcac17b0aeeb7cef5931c",
+      "size": 966,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413037Z"
+    },
+    "items/plasma_pistol/k07_clean_fixed.glb": {
+      "sha256": "c8c037a19c924b06c6384b0ced955c0ec4147338c11518c0a25b0b27d758047d",
+      "size": 28116,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413315Z"
+    },
+    "items/plasma_pistol/k07_clean_fixed.glb.import": {
+      "sha256": "425b0573661fc35940ebc71c900ea3631e98e8e9c84a86bf1873f5265cc70b25",
+      "size": 1180,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413388Z"
+    },
+    "items/plasma_pistol/k07_final_model.glb": {
+      "sha256": "8ea0e8e0127d7c316f25b68508b3fdd93b55160ded617ae8051c48bacc274302",
+      "size": 99192,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413495Z"
+    },
+    "items/plasma_pistol/k07_final_model.glb.import": {
+      "sha256": "2b7fd80e93a6e97c31add5cb61002b164c5c09234ad6ff92c20cfbed1eefd7cb",
+      "size": 1180,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413541Z"
+    },
+    "items/plasma_pistol/k07_final_perspective.png.import": {
+      "sha256": "a92c510f321abed3720409c8198a27bd4c9dd20d90d6034488badab8068288da",
+      "size": 987,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413585Z"
+    },
+    "items/plasma_pistol/k07_final_side.png.import": {
+      "sha256": "fe93ad2e1af0ca531318b3fec84e0550c6889633db4ffe337ceab2b3d66933c3",
+      "size": 966,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413628Z"
+    },
+    "items/plasma_pistol/k07_final_uv_edges.json": {
+      "sha256": "12ecb26b4b3b46f768600858066eb9b64cdfb51d7aa6cf3ee6bc67123e59e229",
+      "size": 242852,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413794Z"
+    },
+    "items/plasma_pistol/k07_godot_k07_authentic_albedo.png.import": {
+      "sha256": "4eefba956bf48ede68fd66aa311bd69009ca18a50d1fb752bdd6367073774d0b",
+      "size": 1357,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413842Z"
+    },
+    "items/plasma_pistol/k07_godot_k07_authentic_emission.png.import": {
+      "sha256": "8f1aa106948f2ae0fc7470c8b6cbe8d54f969cc4e533b0d4dda684b87c0d3446",
+      "size": 1367,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413935Z"
+    },
+    "items/plasma_pistol/k07_godot_k07_authentic_roughness.png.import": {
+      "sha256": "064a515ede19d45ec05efdf8cfeaa5bef1685fa863d8f53ba18d84c6bfb84695",
+      "size": 1371,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.413998Z"
+    },
+    "items/plasma_pistol/k07_master_model.glb": {
+      "sha256": "12a88dae3fbff46762547e4d56fd4602641157e897b2ebabc9dde813de8f31cb",
+      "size": 125140,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.414109Z"
+    },
+    "items/plasma_pistol/k07_master_model.glb.import": {
+      "sha256": "0e0d118b481c640029e8023aa310ff5518612711f365b62401aa550d6e7da57b",
+      "size": 1183,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.414154Z"
+    },
+    "items/plasma_pistol/k07_master_perspective.png.import": {
+      "sha256": "d0aa7742171865249cef996af78a93b6ffb353db4a730ce2f1654405e00b6005",
+      "size": 990,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.414198Z"
+    },
+    "items/plasma_pistol/k07_master_side.png.import": {
+      "sha256": "6047df69a4d95b2bc4dc60c8f30288a542970e58ada0b5eb5674978d8d02d0f0",
+      "size": 969,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.414242Z"
+    },
+    "items/plasma_pistol/k07_master_uv_edges.json": {
+      "sha256": "cd66c02875cb12cc05f3ddb99fbfcf4e11ec92e213284ddb23bf8460a3bf1847",
+      "size": 307174,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.414469Z"
+    },
+    "items/plasma_pistol/k07_perfect_perspective.png.import": {
+      "sha256": "ccb27fb758c9239256d50f128c6ff358b3a38a56bcef7ee8cc99d3c9e5ebf18c",
+      "size": 993,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.414521Z"
+    },
+    "items/plasma_pistol/k07_perfect_side.png.import": {
+      "sha256": "e634ebc92fd9aea36a778de7d6428d240b598c1ae2b8beae7c08221816d0fdb8",
+      "size": 972,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.414564Z"
+    },
+    "items/plasma_pistol/k07_perfect_uv_edges.json": {
+      "sha256": "402304de83dd87d3413712745e295521d868ffaf0e984ca809856d4ec643a4e5",
+      "size": 66540,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.414642Z"
+    },
+    "items/plasma_pistol/k07_plasma_pistol.glb": {
+      "sha256": "24400de3aadf52de64b7e930b338c32c00f62dbb1a16580b8f54b3d57fe43468",
+      "size": 61472,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.414724Z"
+    },
+    "items/plasma_pistol/k07_plasma_pistol.glb.import": {
+      "sha256": "1e0f2ac33d08521b309320fdd293604ba2405ab09e38b711ceffe247e9323f02",
+      "size": 1186,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.414795Z"
+    },
+    "items/plasma_pistol/k07_plasma_pistol_textured.glb": {
+      "sha256": "7044df272bc8c9d298674dba611f3e77a4537e27656a028f0da95d5d6a736668",
+      "size": 850368,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.415327Z"
+    },
+    "items/plasma_pistol/k07_plasma_pistol_textured.glb.import": {
+      "sha256": "27a4ac80a9b7f096dbc4543bb25030c1714e029b0344058f516c3370d5d372f3",
+      "size": 1212,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.415385Z"
+    },
+    "items/plasma_pistol/k07_plasma_pistol_textured_k07_authentic_albedo.png.import": {
+      "sha256": "ed9d480eedeffcf19b7670af5a7dc11147560042f0bdf77b81b1ad56968e837c",
+      "size": 1131,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.415431Z"
+    },
+    "items/plasma_pistol/k07_plasma_pistol_textured_k07_authentic_emission.png.import": {
+      "sha256": "a4253d26fd0d78d9dded8d3b650e6548e868562ffab300607e400432cb903b91",
+      "size": 1137,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.415476Z"
+    },
+    "items/plasma_pistol/k07_plasma_pistol_textured_k07_authentic_roughness.png.import": {
+      "sha256": "e67cb99a92c05a68200336c278f5fbb3644bf1bcadf9e01be47b22f71399db90",
+      "size": 1139,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.415520Z"
+    },
+    "items/plasma_pistol/k07_precision.glb": {
+      "sha256": "d2688887a85d21f3c97d66e40c15cd84759567f68f464e34f5e2110645f9af2d",
+      "size": 28960,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.415577Z"
+    },
+    "items/plasma_pistol/k07_precision.glb.import": {
+      "sha256": "a54126315a61cfef54e321130260cd155ba02344a5636e6ba86978e8283f6ecf",
+      "size": 1174,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.415620Z"
+    },
+    "items/plasma_pistol/k07_precision_perspective.png.import": {
+      "sha256": "652015b62094601cdf02d0c23c6c10e88a298e723adba48c72c1cb6d945410be",
+      "size": 998,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.415663Z"
+    },
+    "items/plasma_pistol/k07_precision_side.png.import": {
+      "sha256": "bf911d76c0b7d018030a1721c4e2bdd86431f77313e78576c040c34b588626d7",
+      "size": 978,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.415709Z"
+    },
+    "items/plasma_pistol/k07_precision_uv_edges.json": {
+      "sha256": "d4c708c6b1745c7a90e5453c2aab393001dcaf8286ac3830fddc60e1b9af1839",
+      "size": 68548,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.415815Z"
+    },
+    "items/plasma_pistol/k07_textured_perspective.png.import": {
+      "sha256": "00f6d4791c5333560b8d5fc35dbd9acbfe3808a5c1b320e70436a99b6a3f089f",
+      "size": 996,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.415868Z"
+    },
+    "items/plasma_pistol/k07_textured_side.png.import": {
+      "sha256": "69677e0c1504787d79f2ff33147bcb1cea809e2f1b5ef7d9e7ff8b4cddee800c",
+      "size": 975,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.415945Z"
+    },
+    "items/plasma_pistol/k07_true_model.glb": {
+      "sha256": "e397e8e0caa10a777b44fa5c0ae9f0889f47067dad9a8895e73b227497eb0bde",
+      "size": 127240,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416100Z"
+    },
+    "items/plasma_pistol/k07_true_model.glb.import": {
+      "sha256": "16a0c45cc02ce3cfe5ef4dc6ebbdc2441a000471f229d7a6a4f461467bb02ba1",
+      "size": 1177,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416183Z"
+    },
+    "items/plasma_pistol/k07_true_perspective.png.import": {
+      "sha256": "1aada74dc1b7702816ba52f6886336739d7182cf974dd95799a19fd8a4fe9cd5",
+      "size": 984,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416259Z"
+    },
+    "items/plasma_pistol/k07_true_side.png.import": {
+      "sha256": "7c2c8285bc39422d9109334912b1f06c9afa30717142b0118b662ddbffd288d3",
+      "size": 963,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416386Z"
+    },
+    "items/plasma_pistol/k07_uv_wireframe.png.import": {
+      "sha256": "6e18a0a0c48af7bea0878dde69c3bcfb9c4bed3ccba746b974b42fcf44c079d4",
+      "size": 972,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416475Z"
+    },
+    "items/plasma_pistol/previews/plasma_impact_preview_angle.png.import": {
+      "sha256": "4671e31c6483ea47e0a787a9860dab20c1bd867245983ee9b1e27c0a9ab84925",
+      "size": 1013,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416550Z"
+    },
+    "items/plasma_pistol/previews/plasma_impact_preview_front.png.import": {
+      "sha256": "b5a32c7dafae32cda98183a23f2a3306e034ecec158b2ce2c489819df8a3a9bb",
+      "size": 1014,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416604Z"
+    },
+    "items/plasma_pistol/render_k07_audit.py": {
+      "sha256": "81b442efaba303f984ed99c8ff6b058c00ae9673f2775584db87a8edd05fdc28",
+      "size": 2718,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416656Z"
+    },
+    "items/plasma_pistol/render_k07_final.py": {
+      "sha256": "36df38d8f9c41218019ef7576a3f18feb3faefdbce83536ba69751a782c905d2",
+      "size": 2650,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416702Z"
+    },
+    "items/plasma_pistol/render_k07_master.py": {
+      "sha256": "c632c1fbc6a37e927afb6ec2c6c80329c69ebcd0f5c60218b401708aa86a16d0",
+      "size": 2750,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416746Z"
+    },
+    "items/plasma_pistol/render_k07_perfect.py": {
+      "sha256": "15499b77f10ce2e10a8f841650c0dc0969066d8794a9475d54e604f428bf38ed",
+      "size": 2656,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416791Z"
+    },
+    "items/plasma_pistol/render_k07_textured.py": {
+      "sha256": "c67bb0642f34f1563ee54ea6dbcb684d27b6e44eb327e78c6e64807873516d7a",
+      "size": 2276,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416904Z"
+    },
+    "items/plasma_pistol/render_k07_true.py": {
+      "sha256": "63cbe0bc585303f868fd308bd771438735d365854137249a4cdaee07f112f4bc",
+      "size": 2684,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416954Z"
+    },
+    "items/plasma_pistol/render_precision_audit.py": {
+      "sha256": "882945d073a4595a7dbe058702c70e7414e1b36586d78b3c8af20fb705a7e572",
+      "size": 2656,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.416999Z"
+    },
+    "items/plasma_pistol/textures/plasma_impact_crater.png.import": {
+      "sha256": "b81d8772d3505f378b5512511942c6ac78f9245cd06693378f8a9d8c7d539918",
+      "size": 993,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417047Z"
+    },
+    "items/plasma_pistol/textures/plasma_impact_glass.png.import": {
+      "sha256": "49f9f27e0405efb5bcc193ffa316f06c51275797bd288303a6894a9fb2fa23d2",
+      "size": 990,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417092Z"
+    },
+    "items/plasma_pistol/textures/plasma_impact_scar.png.import": {
+      "sha256": "3feee537a2edd99249bec89c0f5fc3d84c0571a72ea5078dc83dfc941d1c5c78",
+      "size": 987,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417138Z"
+    },
+    "items/plasma_pistol/textures/plasma_impact_water.png.import": {
+      "sha256": "857a161dd75d5fd9f799daa16b5a9a719c97b901e01223adde0528c20d1eef67",
+      "size": 990,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417184Z"
+    },
+    "items/plasma_pistol/user_reference.png.import": {
+      "sha256": "1b5597b9e9bc0a9a9362990147c06fddd0887fea3aeed44761b35d2fc401a3af",
+      "size": 966,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417228Z"
+    },
+    "res/audio/plasma_pistol/A_powerful_futuristi_#1-1789577785187.wav.import": {
+      "sha256": "3a0d5bf614f6a5deec33a9776167ee9bc6a3328bb178cd82c88d277f0f32d48c",
+      "size": 592,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417273Z"
+    },
+    "res/audio/plasma_pistol/Futuristic_industria_#2-1789577905249.wav.import": {
+      "sha256": "9c81219128dba6ac0459566f36258bfb0d8e64f59db2f747c609727b92f19f46",
+      "size": 593,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417316Z"
+    },
+    "res/audio/plasma_pistol/Heavy_futuristic_pla_#1-1789578142784.wav.import": {
+      "sha256": "d4d74c962f4076815207e3bd1c1169e3dff83cf641b6cfad96fffefbd4d7de22",
+      "size": 593,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417389Z"
+    },
+    "res/audio/plasma_pistol/Plasma_projectile_st_#1-1789578039695.wav.import": {
+      "sha256": "1f594b8502e695ad4f561d4d5f95bb552ce23da132f5f3662eecfdfb02eff422",
+      "size": 593,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417436Z"
+    },
+    "_test_54.gd.uid": {
+      "sha256": "7a3deaa057cee657f792db8f63857d5faedce34ccb8444aeca080c6e9ecd28b5",
+      "size": 20,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417783Z"
+    },
+    "_test_children.gd.uid": {
+      "sha256": "7f0767ac4c290c068e3b6ab2d3fc076e85fd71865448f8c6c4f4a453f5306b5b",
+      "size": 19,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417827Z"
+    },
+    "_test_load_pck.gd.uid": {
+      "sha256": "ad70ac2b096c3899d4acb09764232db6937319aff8f7272394f0761e903017da",
+      "size": 20,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417918Z"
+    },
+    "_test_main_load.gd.uid": {
+      "sha256": "6258263ad91c0adf518cb2dd57c2717de62629f5838c182829aebc809b9139b3",
+      "size": 19,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.417963Z"
+    },
+    "items/plasma_pistol/capture_plasma_impact_previews.gd.uid": {
+      "sha256": "388d489acb566454841b66d7f75faa7ec8a30eb9ae71865906a03d1271638bed",
+      "size": 20,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.418006Z"
+    },
+    "items/plasma_pistol/plasma_bolt.gd.uid": {
+      "sha256": "d3a12405f05349eb17bd2f22b117234f0e2aee77363c0dfc0d443406a4f28a1e",
+      "size": 19,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.418050Z"
+    },
+    "items/plasma_pistol/plasma_impact_manager.gd.uid": {
+      "sha256": "30654a961eabb4ab70560e8fe5d174999369250479c4fe6f746187e1e571c637",
+      "size": 20,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.418093Z"
+    },
+    "items/plasma_pistol/plasma_pistol_in_hand.gd.uid": {
+      "sha256": "54ad8bc63d4994dab572d36b76995a51533b21374176e0bf3f93355f1c06c41c",
+      "size": 20,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.418135Z"
+    },
+    "items/plasma_pistol/plasma_pistol_pickup.gd.uid": {
+      "sha256": "84e1f0a413d5bb5e979f6f36cc196d32ea4c253b69278b4df17b2b930ad1b5c5",
+      "size": 20,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.418178Z"
+    },
+    "prefabs/furniture/cabinet_smoke_test.gd.uid": {
+      "sha256": "ddf7be2b0abe298020cd0a7f0c445bd7a40d61f4a8c5a0bfa4aab1e890871ee2",
+      "size": 19,
+      "version": "0.1.5.6.1",
+      "updated_at": "2026-09-19T02:17:31.418221Z"
     }
   }
 }
