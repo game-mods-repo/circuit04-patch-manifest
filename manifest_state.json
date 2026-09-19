@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-19T02:17:31.418224Z",
-  "latest_patch": "0.1.5.6.1",
+  "last_updated": "2026-09-19T02:28:30.471335Z",
+  "latest_patch": "0.1.6.1",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -1481,16 +1481,16 @@
       "updated_at": "2026-09-16T10:34:19.437749Z"
     },
     "CODEBASE.annotations.yml": {
-      "sha256": "3c44cf81b28663d181d7ea60a3fc31ac59bd3783bda81e41e46a18518106852a",
-      "size": 164399,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.417571Z"
+      "sha256": "27972c99b75132c2946c02d22240f2d4974295f10eadcbc1cddcb366aa3b09d2",
+      "size": 165619,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.471171Z"
     },
     "CODEBASE.index.md": {
-      "sha256": "a356d63d90f67f7e4dde0320f933ca6aac94beda767f037972e03862922eef0b",
+      "sha256": "3d0517ad4960dbc14880cd8cbb5f52b5ccf741e544627d26c7f01149d74bb3d5",
       "size": 214554,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.417737Z"
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.471332Z"
     },
     "LAUNCHER_GUIDE.md": {
       "sha256": "ecfa942be75563882e94f572a971cbb8b89cc47276f0e1f8caffa87f8969f424",
@@ -2555,22 +2555,22 @@
       "updated_at": "2026-09-18T06:34:41.832192Z"
     },
     "prefabs/water/water_ocean_csg.tscn": {
-      "sha256": "d451ddb3ee8d4fc0911e3a46c867a0022c27bab5a5eaf65e4cb85ba574c304fc",
-      "size": 1838,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.832249Z"
+      "sha256": "1cc29690633b9e7848f11757ade0688ca61be9106aa895a85e5eaa85c1d1735b",
+      "size": 1860,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470368Z"
     },
     "prefabs/water/water_pool_csg.tscn": {
-      "sha256": "55eafb5cdad497e0811cc672176ccee51ff951a0b0e7205984d21250fead5b67",
-      "size": 2305,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.832319Z"
+      "sha256": "5ca8bce71711c5f811f77cc613ad3be208ccfe9786e6857fb480e620b03772c5",
+      "size": 2327,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470412Z"
     },
     "prefabs/water/water_round_pool_csg.tscn": {
-      "sha256": "85475f97d05fabf2dd9de7416104a51a45776065410f78e09d91e498d0000565",
-      "size": 2428,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.832392Z"
+      "sha256": "7a2d29cf63404a1212b1b581f847a6be55ce5f927cce226c7bb166a8934d3c0e",
+      "size": 2450,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470472Z"
     },
     "scenes/test_place.tscn": {
       "sha256": "127c996623afbb96270d44ad8458e3855613571a02a0ac4a4b460a5950e0b8f3",
@@ -3023,10 +3023,10 @@
       "updated_at": "2026-09-18T06:34:41.827072Z"
     },
     "items/plasma_pistol/plasma_bolt.gd": {
-      "sha256": "7a5ab9a616338760761cf5395a4b6361eda23d74d17a0332b9da4f312c1ed70a",
-      "size": 3189,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.411461Z"
+      "sha256": "1770ddd564550fd5d3b5d8f82aebcc3c501fba28de98a5e26227964b8a31b676",
+      "size": 4576,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470273Z"
     },
     "items/plasma_pistol/plasma_pistol_in_hand.gd": {
       "sha256": "51035d506dbdf55f46671703a0e9cd088cf2c039a7a2c5cfab82a8f2b1bb4334",
@@ -3383,16 +3383,16 @@
       "updated_at": "2026-09-19T02:17:31.411366Z"
     },
     "items/plasma_pistol/capture_plasma_impact_previews.gd": {
-      "sha256": "ea41a26026e9a3d0a8e588607388d574100433b3006e64f3aa80e8c3bd835a92",
-      "size": 3442,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.411415Z"
+      "sha256": "de5fc1ed9daaf49ea6208ec5c355983e9cec8cdebc66c03172f42271632df293",
+      "size": 3466,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470224Z"
     },
     "items/plasma_pistol/plasma_impact_manager.gd": {
-      "sha256": "e93dcf4c852ba854bc48f0f79a25c012f53028c3110c56048227f680103ad4b0",
-      "size": 7296,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.411512Z"
+      "sha256": "a2329894ca113f8212e615d76dc4f78581b9fc18fd259ec2d54a025e55a1eb75",
+      "size": 9058,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470323Z"
     },
     "mods_system/mod_manager.gd": {
       "sha256": "d2430630cfa2e4c7a4cd3ef16c80153db10b5f40c669e9b310fae0b5c49cefbf",
@@ -3879,6 +3879,150 @@
       "size": 19,
       "version": "0.1.5.6.1",
       "updated_at": "2026-09-19T02:17:31.418221Z"
+    },
+    "items/plasma_pistol/textures/plasma_glass_atlas_3x3.png": {
+      "sha256": "766cfb4497cbb839c2705d4b9aa60cc23e8ae308e0ae33c6f1fdde218aca9ca7",
+      "size": 1291773,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.466256Z"
+    },
+    "items/plasma_pistol/textures/plasma_impact_atlas_3x3.png": {
+      "sha256": "d8e57e0961d18145387d390aa510462d9b66f02b4cca4af967beaefb6c7bd377",
+      "size": 1747987,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.467309Z"
+    },
+    "items/plasma_pistol/textures/plasma_water_flipbook_3x3.png": {
+      "sha256": "1ef910427be61688bbd602dda1011b79adc3e59a4cc0c62d4a50aafcae81b5d8",
+      "size": 1686832,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.468326Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_01.png": {
+      "sha256": "19374797e4903cd2ae1eb55f1851aa939fee8e59be9eea566d1ffe0b67bf836e",
+      "size": 244738,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.468581Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_02.png": {
+      "sha256": "77676193e13bdcdd8402e4eee69832a8e76e09b669ed289b7328e6187cbc9709",
+      "size": 203567,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.468798Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_03.png": {
+      "sha256": "56031ad919775dbfe7016189ae0fb5458d275e483bf03c9502c1b8192cd8e096",
+      "size": 187213,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.468991Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_04.png": {
+      "sha256": "59d1028f625638a1ae1f1334651f53cf6f42298edec891c4bb253e953071e164",
+      "size": 191230,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.469150Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_05.png": {
+      "sha256": "26b53bd3b02bca567166b6b9c8718b436e5f4c13899928d9ecfe4c31da55af2e",
+      "size": 202505,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.469347Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_06.png": {
+      "sha256": "3a7296ac0cbe55404a746102d32ebcaf300126e812f3490470b84ffbbddebe30",
+      "size": 209125,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.469565Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_07.png": {
+      "sha256": "da898b1a2d5df9ea0706d3fab83292501475f57b8cf71b0e8652d3e759795e49",
+      "size": 142373,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.469730Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_08.png": {
+      "sha256": "b7b758ea6cd57155651c195612d2939559b00fe1a857a2d7b28aebcca33862b2",
+      "size": 245423,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.469963Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_09.png": {
+      "sha256": "0364dcd6949e78179618fac5faac69113990bf7fc5a45991cb9fd3710bf884a6",
+      "size": 234065,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470173Z"
+    },
+    "items/plasma_pistol/textures/plasma_glass_atlas_3x3.png.import": {
+      "sha256": "1d74352e7f51a534b949e5c7e3b3b21a3406a5e27525f2c3529db9a5d74d6335",
+      "size": 999,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470531Z"
+    },
+    "items/plasma_pistol/textures/plasma_impact_atlas_3x3.png.import": {
+      "sha256": "819b6753c342b3b00ad4413e68f123b5f2c1a423f1ce7d7bf11b2909f5b185ae",
+      "size": 1001,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470582Z"
+    },
+    "items/plasma_pistol/textures/plasma_water_flipbook_3x3.png.import": {
+      "sha256": "317cf15307665287bb613178a4eb7b0ef862822bcff1e20e4f580e037695960b",
+      "size": 1008,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470628Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_01.png.import": {
+      "sha256": "e900ee29300038ba72781154f9d6d21cdc65d02f9b61a24d2c8cde6a1cea3157",
+      "size": 993,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470672Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_02.png.import": {
+      "sha256": "f43ac2364b68ab06fe3bd1c4821661fef83d0c085ecea04e41c61e7b963fb698",
+      "size": 993,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470715Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_03.png.import": {
+      "sha256": "06c0a72da93c172243aabfda5fc23d4a29dcbeb6692d307996ad62ca97636947",
+      "size": 993,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470757Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_04.png.import": {
+      "sha256": "f5fd8a49676eaa21e08c16d42f890f265e5f19071514cf17e7d3b3d03ca9d785",
+      "size": 993,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470798Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_05.png.import": {
+      "sha256": "7dd029882f22cfc82257fdec8f7b1632c53db51e10d71323a662e40c42f9b7d5",
+      "size": 993,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470840Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_06.png.import": {
+      "sha256": "87681e7eee3124afffcc36d4aac6903d3194fda05c2aaabd5a27b303c33930db",
+      "size": 993,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470882Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_07.png.import": {
+      "sha256": "5cbfd58c719a1e1ab73dac5e381eb06f8ed22a284608e4dbe6a9ab23c6699724",
+      "size": 993,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470924Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_08.png.import": {
+      "sha256": "4eaa4f7f11e22336b429b1a2de803171226e281095549b536b5b047a90649607",
+      "size": 993,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.470983Z"
+    },
+    "items/plasma_pistol/textures/solid_tiles/plasma_impact_09.png.import": {
+      "sha256": "d38dfcccf865c87c901bd016527a2fd7fbcdacf205974ebfb7307c600ae1a02e",
+      "size": 993,
+      "version": "0.1.6.1",
+      "updated_at": "2026-09-19T02:28:30.471037Z"
     }
   }
 }
