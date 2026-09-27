@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-19T02:28:30.471335Z",
-  "latest_patch": "0.1.6.1",
+  "last_updated": "2026-09-27T09:53:24.148563Z",
+  "latest_patch": "0.1.6.4",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -37,50 +37,50 @@
     "items/flashlight/flashlight_in_hand.gd": {
       "sha256": "f5dec8caa3346d9c59fac026e3e173e2f5dbedcd91fddfc7012abc1cbfc41fdd",
       "size": 3353,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.609311Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.141929Z"
     },
     "mods/spawner_tool/spawner_tool_in_hand.gd": {
       "sha256": "ee5abfa86d47946e89d55dede49ce4994e9cbe9f6bd08137c2066268d6da2edc",
       "size": 14179,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.609365Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.148194Z"
     },
     "mods_system/default_map_controller.gd": {
-      "sha256": "550057174327b5c922067f240007af9265d3e764084d44a777ec312cc96daf46",
-      "size": 16495,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.609418Z"
+      "sha256": "6ff3b8abaaffffd4ee717e0e4b019b0bc280009b48d2ba0f2def1e7970e88723",
+      "size": 17506,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143796Z"
     },
     "mods_system/ui/spawn_menu_hud.gd": {
-      "sha256": "760bc93bad950c7a3f8e5b51723a18aee13e73f9765fa7d0343a415340978113",
-      "size": 15413,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.835621Z"
+      "sha256": "f8fa1b4cb4ad6b66d298ad604b8367969532ad6069bdde3fe096acbb0fa5aa3f",
+      "size": 16220,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143984Z"
     },
     "player/components/player_body_collision.gd": {
       "sha256": "897be6b32347320a4fa7d859336f8984feffc27934828f703c10c0445eebfaf2",
       "size": 932,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.609516Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142266Z"
     },
     "player/components/player_config.gd": {
-      "sha256": "f9cff5bbb0c7a7d49d1bcf58cc6c4855524dc7f8cbedd34a94ae8a7655a49b65",
-      "size": 1974,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.609566Z"
+      "sha256": "a1db63e38fc7efe619d00b594087036923f8d0484c974b9cbb995d06d6be9dcb",
+      "size": 2071,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142418Z"
     },
     "player/components/player_jump_gravity.gd": {
       "sha256": "d3d70c1e8a641d0bfd33e4126269b0efc72d2c0130d8ac288cefab9eac5514cc",
       "size": 337,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.609610Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142894Z"
     },
     "player/player.gd": {
-      "sha256": "6f27666b80e87b4d139d0cabff1568c253590a78896d975996b67bbcc59b455a",
-      "size": 24501,
-      "version": "0.1.5.4",
-      "updated_at": "2026-09-18T06:47:44.678137Z"
+      "sha256": "1dcb36c367778d6259aeb25bee019c2e031092dde29d9a33a8a292543f99a064",
+      "size": 16421,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142063Z"
     },
     "scripts/conduit/conduit_interactive_plug.gd": {
       "sha256": "25299dbdeea43eca303f344e3dd96bac69d55dbbd0d077149a06c6cb8ffd27a0",
@@ -121,86 +121,86 @@
     "scripts/console/commands/cmd_bibo.gd": {
       "sha256": "f0247b0ec346202670e82ff1162c3a5f93a8926c376d663348f4f083a8318da8",
       "size": 692,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.610045Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146854Z"
     },
     "scripts/console/commands/cmd_entities.gd": {
       "sha256": "908b225c99509ed71f3bafc0004160818c0c15d89bea2fbf76fc69b08c2b937b",
       "size": 3800,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.610091Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147036Z"
     },
     "scripts/console/commands/cmd_gravity.gd": {
       "sha256": "428124ec5aa6e45db9d03a3a8d65aa3efb48be276e127acb5211dbc070764990",
       "size": 1445,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.610136Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147139Z"
     },
     "scripts/console/commands/cmd_spawn.gd": {
-      "sha256": "b387cfce1059fd25bab95d82d92f4f75afb5749f4c16f830691eb38150957b0c",
-      "size": 11708,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.610185Z"
+      "sha256": "5d7bbb507552bbf3a3827f11234cae0ac16956309aa55a9d3f059979baf2c3e8",
+      "size": 13642,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147549Z"
     },
     "scripts/console/commands/cmd_spawnlist.gd": {
       "sha256": "3ed711dffdfe2c08fb4ba1c9b2166acbb1693eeb6724b77501f27a68618de8fb",
       "size": 2558,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.610228Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147595Z"
     },
     "scripts/console/commands/cmd_version.gd": {
-      "sha256": "32f480c29eb255f04ee2cab9b7c44adbe69a765f3b9f2b66ba3fe4e805126bf1",
-      "size": 1848,
-      "version": "0.1.5.0",
-      "updated_at": "2026-09-16T05:17:48.944623Z"
+      "sha256": "d3c4a11f639baf172e8cb97e3f42585bc8e7281cc41b2ade3fbf7daa82b130f3",
+      "size": 2091,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147637Z"
     },
     "scripts/console/dev_console.gd": {
       "sha256": "f2c9a7840c13b6b3fc331f3cf658294a16d5bd166be7d3dfa524ab28af08c6b2",
       "size": 5435,
-      "version": "0.1.5.2.2",
-      "updated_at": "2026-09-16T10:03:38.452816Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146699Z"
     },
     "scripts/console/entities/scene_entity_inspector.gd": {
       "sha256": "7157257125642a9b8a2c8c9c44dcea83e9786c78bbffd30f3d56cd93b9f5eccb",
       "size": 14625,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.610370Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146797Z"
     },
     "scripts/patch_loader.gd": {
-      "sha256": "cff91f248f3fea279d8cfb7e20be60245a05a880ccf06cc92053392ebe757477",
-      "size": 3267,
-      "version": "0.1.5.2.1",
-      "updated_at": "2026-09-16T09:42:06.456885Z"
+      "sha256": "8a83d0dd93f93b1f256cc22d617df6e0b9929881678f4ed564f8a358030b3019",
+      "size": 4122,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146386Z"
     },
     "scripts/pause_menu.gd": {
-      "sha256": "1c8a939e63b9777f2dbfd87da805eb42c4ede736c34a2c6eb10533213032a665",
-      "size": 22592,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.610469Z"
+      "sha256": "66b3cf33dd287e693207f1ef3cf5510bc65d046c920d0d9e9932f48086b5a5e2",
+      "size": 22848,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146446Z"
     },
     "update_system/update_manager.gd": {
-      "sha256": "1924b56940b4a7d3c32805ec8a3a828bea6057fe91fd49456f21c32c471c3c5a",
-      "size": 5842,
-      "version": "0.1.5.2.1",
-      "updated_at": "2026-09-16T09:42:06.456937Z"
+      "sha256": "5e3684e7e05d5b50ebec7b96fdc0669a665294d6f4a0f9fc2dbdea0ab4fc00ca",
+      "size": 6641,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147905Z"
     },
     "items/flashlight/flashlight_in_hand.tscn": {
       "sha256": "da30d47ab5628342e17b0823a46d3f63c0bc1afdcaa805b57a0aa0ff5735d5c0",
       "size": 2062,
-      "version": "0.1.4.6",
-      "updated_at": "2026-09-16T04:41:17.610560Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.141997Z"
     },
     "main.tscn": {
       "sha256": "6c5d01253a801f3e6203951a8a16877ef341c8c51933f2502448da58e0c04eac",
       "size": 67008,
-      "version": "0.1.5.6",
-      "updated_at": "2026-09-18T07:17:43.006553Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143549Z"
     },
     "player/player.tscn": {
       "sha256": "20649638790acc6f67d633c137de20e480de19ce02f7097b1f649d48b7c19e90",
       "size": 5283,
-      "version": "0.1.5.4",
-      "updated_at": "2026-09-18T06:47:44.678070Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142112Z"
     },
     "prefabs/conduits/dynamic_cable_interactive.tscn": {
       "sha256": "c8d8480f773f33aaa335b1ea21680292be7a0d73d870d2acc81860461b2d74fa",
@@ -223,8 +223,8 @@
     "scenes/player.tscn": {
       "sha256": "c26ddc1151154c887a54af81463dd2a9899efe2fc2d4b4bf5a4b4fa7309d3ba7",
       "size": 5251,
-      "version": "0.1.5.4",
-      "updated_at": "2026-09-18T06:47:44.678011Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143648Z"
     },
     "textures/industrial_pipe_albedo.png": {
       "sha256": "fc91966a5080d9ed668525934d2df4a18953e244fa900e6a3c90456e2c2b2940",
@@ -235,50 +235,50 @@
     "scripts/console/commands/cmd_showpoly.gd": {
       "sha256": "65731f2440da82c545f19eb804fd1556fac92a58a7fc858201a65cdf15f3e6a2",
       "size": 1386,
-      "version": "0.1.4.7.1",
-      "updated_at": "2026-09-16T04:59:57.495844Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147500Z"
     },
     "scripts/hud_poly_inspector.gd": {
       "sha256": "35ae6400f102eed422548a2175c1b147974a5bd1a8d7482a38471ae0a8a3c92b",
       "size": 10258,
-      "version": "0.1.4.7.1",
-      "updated_at": "2026-09-16T04:59:57.495907Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146175Z"
     },
     "scenes/hud.tscn": {
       "sha256": "1202cd3e41bb66e9c189fc4668e9e1553c0aa83b6f4ca4872015080b2eac8132",
       "size": 9507,
-      "version": "0.1.4.7.1",
-      "updated_at": "2026-09-16T04:59:57.496041Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143601Z"
     },
     "scripts/console/console_command_registry.gd": {
-      "sha256": "37faf3f9e8f28dbbd21969f1f6125fd2d888d9a464212f678b2033c2f63a04d6",
-      "size": 9197,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.826950Z"
+      "sha256": "b403367be0619deabfa1c0fdc3c5c23f5f4a5d0542c1277eba1a7beeea85f0ba",
+      "size": 9514,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146654Z"
     },
     "ui/console/dev_console_window.gd": {
-      "sha256": "c295e9b06fcbde8b5f6444ee6c5542531617794fd61e40c5786990a4f90c1c08",
-      "size": 15437,
-      "version": "0.1.5.2.2",
-      "updated_at": "2026-09-16T10:03:38.452894Z"
+      "sha256": "4937f6dff76587745cee18ad46430c8e7784900ca3fb4560409924145082eb20",
+      "size": 15666,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147732Z"
     },
     "ui/console/dev_console.tscn": {
       "sha256": "5fa668bf695e62f131eb8aa7cb22ed617b5f1428d129eecff94ea1b4963b380b",
       "size": 7225,
-      "version": "0.1.5.2.2",
-      "updated_at": "2026-09-16T10:03:38.452951Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147683Z"
     },
     "scripts/console/player_console_bridge.gd": {
-      "sha256": "809a8cce8d5aab32f0bcb214984a1648651ae542678d415ed2be4e6f5e360210",
-      "size": 11899,
-      "version": "0.1.5.2.2",
-      "updated_at": "2026-09-16T10:03:38.453007Z"
+      "sha256": "59f187cbd2341d5eaba1181651af48a5a3b5ee7db30a0eaacc62577d54ccdd0f",
+      "size": 11861,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146747Z"
     },
     "player/components/player_stamina.gd": {
-      "sha256": "64788315894d6ebff32b9e503465e3d73d3299e7f0f280a9cc85b47a81b9210c",
-      "size": 1408,
-      "version": "0.1.5.2.2",
-      "updated_at": "2026-09-16T10:03:38.453056Z"
+      "sha256": "5e107f34048d56d784f3d82cd5411b0d25d7a37c5eab64d01bc796ed2e07bbfb",
+      "size": 1890,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143399Z"
     },
     "audio/oxygen/airlock_alarm_beep.wav": {
       "sha256": "7f28da46efb42d7f036a40fd41208ff3eff0362ba7583b58a9ef9dd62ee3d126",
@@ -793,14 +793,14 @@
     "player/components/player_heartbeat.gd": {
       "sha256": "40c204885c23dcbb71d880dff853e8755324b39c28ac703c73ae20d81c0f7032",
       "size": 1259,
-      "version": "0.1.5.2.3",
-      "updated_at": "2026-09-16T10:28:21.807279Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142707Z"
     },
     "player/components/player_spacesuit.gd": {
       "sha256": "f1909d95054eb7075bcb561ff3698969df6b3a322ee57a924761ad975cbca488",
       "size": 2607,
-      "version": "0.1.5.2.3",
-      "updated_at": "2026-09-16T10:28:21.807324Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143351Z"
     },
     "prefabs/oxygen/airlock_chamber_controller.gd": {
       "sha256": "72dfad3fbe7312e9592092541d32bcec876492554ed6ffa5f6349a58ce024833",
@@ -839,10 +839,10 @@
       "updated_at": "2026-09-16T10:28:21.807682Z"
     },
     "scripts/hud.gd": {
-      "sha256": "e0258031cbe8615a2090be5c526cb98669e37c4b8074d4cc15befe3b2a8eaa80",
-      "size": 9671,
-      "version": "0.1.5.2.3",
-      "updated_at": "2026-09-16T10:28:21.807752Z"
+      "sha256": "7c19ac447d34e9ee2361061671b1f2920e2fa760db7025f15e85e0ae31b1657c",
+      "size": 10461,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146057Z"
     },
     "prefabs/oxygen/airlock_chamber.tscn": {
       "sha256": "88e5b32e8a090cc24bf6e61e648ad4d82c142f9abbb311a275f6ad8d13019fc4",
@@ -2189,22 +2189,22 @@
       "updated_at": "2026-09-16T10:38:09.875893Z"
     },
     "scripts/console/commands/cmd_bind.gd": {
-      "sha256": "7ce6e564b50290a902a9707c0eb162849308b9593b92df4cd86d1ce96ba217a2",
-      "size": 3923,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.827209Z"
+      "sha256": "189c007e0808cb5b8991bf06aaac000b3569a88d6b7257ea09f3b9b9c52ed43a",
+      "size": 4095,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146905Z"
     },
     "scripts/console/commands/cmd_clear.gd": {
       "sha256": "8ae6aee54ce30beda3be0d8f0b96b26052d84b5b19c269e516c0a2f91a5f5e11",
       "size": 1425,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.827152Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146949Z"
     },
     "scripts/console/commands/cmd_do_not_type_this_command.gd": {
       "sha256": "ffbbf7905812d34b439900831a0c057508fa96261ec3c7910907b2d6323f531b",
       "size": 2156,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.827268Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146993Z"
     },
     ".map-dirty": {
       "sha256": "49ac4b1ba2a3b57ddb59cb5253fca22c6ffbbc7423a7e484c2296719aadd818d",
@@ -2447,28 +2447,28 @@
       "updated_at": "2026-09-18T06:34:41.827593Z"
     },
     "player/components/player_held_item_manager.gd": {
-      "sha256": "20fedc24421353131602aa74fe2ab0a36fd0e20fc013b8fd5790d270488315e8",
-      "size": 18280,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.829668Z"
+      "sha256": "1d3fc2df43e41b10bda8b065f841b9fa04882dcc3307ba84653ec2a83978890c",
+      "size": 19460,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142762Z"
     },
     "prefabs/furniture/cabinet.gd": {
       "sha256": "86db572a1ab469b46d8bcb1af81d6930b01f20664ac3382c6e5f73aaba686b51",
       "size": 4239,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.411659Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144339Z"
     },
     "prefabs/furniture/cabinet_audio.gd": {
       "sha256": "e67c9fd12be209d5043683a13db73dcbce324dd63971c31ed01589534566582d",
       "size": 1448,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.411706Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144426Z"
     },
     "prefabs/furniture/cabinet_hinge.gd": {
       "sha256": "1684ecff2423e18cd288f3162dec8caf204e4754aaa1b10fdb690bd4e47acb78",
       "size": 876,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.411779Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144467Z"
     },
     "prefabs/glass/breakable_glass.gd": {
       "sha256": "b60c0a9026761e5f304f757e7cadb90c314e4703bcddaad3227be3660227c059",
@@ -2521,8 +2521,8 @@
     "scenes/test_place.gd": {
       "sha256": "b195902dc42cf4f037a1c79a104a097aa3747691877a550efcb372d1b9a90afb",
       "size": 2989,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.832862Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143692Z"
     },
     "items/binoculars/binoculars_in_hand.tscn": {
       "sha256": "d5e67f93dd2d68460345b88a4ba78e98846e88732ba501bebbb92bd0aec48ce3",
@@ -2539,8 +2539,8 @@
     "prefabs/furniture/cabinet.tscn": {
       "sha256": "4d3549f8ec96f81dc73f7009503436cc47dc141d87190427ee03ed83924e310b",
       "size": 4700,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.412019Z"
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144385Z"
     },
     "prefabs/glass/breakable_glass.tscn": {
       "sha256": "4bb2dd17463000474118880bf9dea9b13d60d22c95fbaae61163dddaabed383c",
@@ -2573,10 +2573,10 @@
       "updated_at": "2026-09-19T02:28:30.470472Z"
     },
     "scenes/test_place.tscn": {
-      "sha256": "127c996623afbb96270d44ad8458e3855613571a02a0ac4a4b460a5950e0b8f3",
-      "size": 13039,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.412071Z"
+      "sha256": "01c9a22684f20b0ac3be3fcaf8bb899a5661e308f296c76f866afc20e7d56953",
+      "size": 14010,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143742Z"
     },
     ".tmp_diff.py": {
       "sha256": "dac32fbdc203646d942abb229583e4c35936a6c0e17e29bf4591d5a167c8d10a",
@@ -3017,10 +3017,10 @@
       "updated_at": "2026-09-17T11:11:04.312710Z"
     },
     "scripts/console/commands/cmd_help.gd": {
-      "sha256": "4137aaca215c14d73055d9489eb211e414eca963c7276dc935a45c8137581737",
-      "size": 2175,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.827072Z"
+      "sha256": "61175c264ded4304f4d9a2819e069e1f27aa66edcf6536186cfa98d9a2e7c81d",
+      "size": 2371,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147182Z"
     },
     "items/plasma_pistol/plasma_bolt.gd": {
       "sha256": "1770ddd564550fd5d3b5d8f82aebcc3c501fba28de98a5e26227964b8a31b676",
@@ -3395,10 +3395,10 @@
       "updated_at": "2026-09-19T02:28:30.470323Z"
     },
     "mods_system/mod_manager.gd": {
-      "sha256": "d2430630cfa2e4c7a4cd3ef16c80153db10b5f40c669e9b310fae0b5c49cefbf",
-      "size": 7902,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.411609Z"
+      "sha256": "8c1696c934d1cd873025182acd2bb21165359f5fed675edde15a81355c626026",
+      "size": 8906,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143933Z"
     },
     "prefabs/furniture/cabinet_smoke_test.gd": {
       "sha256": "9ef2be7847965f02f0cafffcbcbc53f3387eb9929fbfaadc3154694d07742fa9",
@@ -4023,6 +4023,516 @@
       "size": 993,
       "version": "0.1.6.1",
       "updated_at": "2026-09-19T02:28:30.471037Z"
+    },
+    "player/components/player_air_control.gd": {
+      "sha256": "ab832059da73e639970ead2fe9ac7c818894e118f74a7855d363ffc615f980be",
+      "size": 620,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142168Z"
+    },
+    "player/components/player_audio_bus_filter.gd": {
+      "sha256": "bf117547d48a8049a527c47c23e2bf376ad9f5bec2cc742294ccb87d7658f055",
+      "size": 3695,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142220Z"
+    },
+    "player/components/player_camera_look.gd": {
+      "sha256": "37160dd7c300767e8b32a6bee2b2205a8fbf9fdeea183eb48b7f71fce651ea70",
+      "size": 986,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142322Z"
+    },
+    "player/components/player_camera_motion.gd": {
+      "sha256": "5f2c2ff990094c9501a5e9ec1cfc9ba4676932651151a76d9008b89fd9ca7423",
+      "size": 4826,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142373Z"
+    },
+    "player/components/player_crouch.gd": {
+      "sha256": "ae91f5a600968aab023f2e5137044f14db4a3ab50b2b06b42db7be47122f37c0",
+      "size": 831,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142465Z"
+    },
+    "player/components/player_drone_link.gd": {
+      "sha256": "3ef6935a0b8ed148aa5e02d80e404d061fe90b83fd910054d4f51e2b5742f394",
+      "size": 12579,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142517Z"
+    },
+    "player/components/player_duck_jump.gd": {
+      "sha256": "81924835b0abe700f90cbcd5d83241d5689a9dc65cd163f25d155234cd749a3c",
+      "size": 688,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142565Z"
+    },
+    "player/components/player_footsteps.gd": {
+      "sha256": "d818121dc32aa98178822aeb2a95e5b12a06241f929814c9fb5a54cec9b17845",
+      "size": 6217,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142617Z"
+    },
+    "player/components/player_head_bob.gd": {
+      "sha256": "e22dfc3c130538b5cce5a3d0371eda5973bb0dab43e22785d51f36c285ef9018",
+      "size": 2000,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142664Z"
+    },
+    "player/components/player_idle_motion.gd": {
+      "sha256": "f90b60af41a19d6ef71dccd2c49f6f687ae9fd6241709be8b8b5f419ddeb65d0",
+      "size": 725,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142807Z"
+    },
+    "player/components/player_input_dispatch.gd": {
+      "sha256": "635144fa155af732d5db4775daad12343435d19c010a0c6473637fcde4cfc039",
+      "size": 3135,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142851Z"
+    },
+    "player/components/player_jump_kick.gd": {
+      "sha256": "42fbe0108afd3641c622b71145ab66308205e556fda94debe3a8b74f8947d907",
+      "size": 2993,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142938Z"
+    },
+    "player/components/player_landing_spring.gd": {
+      "sha256": "0787c69c673a3af7cb2f81b6944dbf978e2e186a5a4930c6eb7135152ece7d3c",
+      "size": 965,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.142983Z"
+    },
+    "player/components/player_locomotion.gd": {
+      "sha256": "590f02c81ca6a09842c0e1d20c00a10e254f170d7a62ea9b93c7ae2d64b4b963",
+      "size": 1027,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143040Z"
+    },
+    "player/components/player_motion_driver.gd": {
+      "sha256": "457e0fb00a9aff51206a21464f1c9976f0b318e01d4a854d2f0f456392ace1db",
+      "size": 6404,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143090Z"
+    },
+    "player/components/player_motion_spring.gd": {
+      "sha256": "15bfd905f849649c073a3d99b56acd11d369bbfd58c923529a52b7e50ab22868",
+      "size": 586,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143137Z"
+    },
+    "player/components/player_physics_grabber.gd": {
+      "sha256": "5d302b914beb237d27b73fc4ffee957eee46a97f6efc6ef2370037af72407a8b",
+      "size": 13566,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143194Z"
+    },
+    "player/components/player_prop_interaction.gd": {
+      "sha256": "52ca087854f49a9dc1d32753b634b8633bbdfd1ffd0a1d30585cb0a8e62684a1",
+      "size": 7871,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143242Z"
+    },
+    "player/components/player_space_rumble.gd": {
+      "sha256": "68c78277cfdaa522f86a4d5c97248529b6b850b5f5bfeec6c92df7608b368513",
+      "size": 2159,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143290Z"
+    },
+    "player/components/player_third_person_equipment.gd": {
+      "sha256": "d0cfbba10a9668ee50739c76ecefe2777a5df5f4755e98f74afb5344b9c7b94f",
+      "size": 6838,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143450Z"
+    },
+    "mods_system/map_texture_pixelizer.gd": {
+      "sha256": "c0c6d8200c4518b03549bd6655ddf3381e98f7a20b714b12e08b7c32f955527e",
+      "size": 2782,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143841Z"
+    },
+    "mods_system/material_texture_pixelizer.gd": {
+      "sha256": "900584773784c3609254e96084b6f7683de1bd6c9de7f9defb97bda05ef3db81",
+      "size": 3153,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.143885Z"
+    },
+    "multiplayer/sync/multiplayer_sync_manager.gd": {
+      "sha256": "02ffd5fb260df1f9ff6b8fca4c3063a5df2f6e853c8c4bc80d1e70fa8869f6c3",
+      "size": 24451,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144049Z"
+    },
+    "multiplayer/sync/sync_drone_relay.gd": {
+      "sha256": "09a623cfb768b900aa8be168775d5e6203f4273154b7b531e42b37f71c4156fa",
+      "size": 1167,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144095Z"
+    },
+    "multiplayer/sync/sync_pickup_manager.gd": {
+      "sha256": "c9a25dfd2df5382bf72d9e37d1f7f3a001eb92c36161b5e7b29194ead7c5fe7c",
+      "size": 4144,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144144Z"
+    },
+    "multiplayer/sync/sync_types.gd": {
+      "sha256": "1e85eb6281d0da04dce3184fc7f939696e4a591f2b47efa704c37be9774bb23f",
+      "size": 1178,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144189Z"
+    },
+    "multiplayer/sync/sync_world_snapshot.gd": {
+      "sha256": "52178c9b2175d587cc400771f26f055f93bafd05aa8379af6187e58d29c0661d",
+      "size": 11971,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144242Z"
+    },
+    "multiplayer/ui/sandbox_menu.gd": {
+      "sha256": "efd45bc873ca35b8c99c66b11e8c20dacc3eb08f9fd7fdc0fb2e4c58db3393df",
+      "size": 6471,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144288Z"
+    },
+    "prefabs/furniture/hospital_screen.gd": {
+      "sha256": "397a5566e22f90ef63bac9b1ee658cddfa9ea68ea91d9183d0c03afb071444f3",
+      "size": 3923,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144510Z"
+    },
+    "prefabs/furniture/hospital_screen.tscn": {
+      "sha256": "261f6929f97fd2572be0f9d6f2ae10a6833e97afb84f7c57ad919dfeb8b66989",
+      "size": 1952,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144553Z"
+    },
+    "prefabs/furniture/locker.gd": {
+      "sha256": "b90023e1ffccc82ddc7c7b2e120237ca13e6118c85fd168ebd14e2a8c977fcb1",
+      "size": 4910,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144596Z"
+    },
+    "prefabs/furniture/locker.tscn": {
+      "sha256": "efcae02b5db4fc19a0c5f0071cf8e4e3db7c213c11f78c548712510af5e277af",
+      "size": 3192,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144638Z"
+    },
+    "prefabs/items/votv_stone_prop.gd": {
+      "sha256": "c482d3becc5de8b44821c9527cd6a7457861b84857668f9655344e213a59ba90",
+      "size": 2172,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144680Z"
+    },
+    "prefabs/items/votv_stone_prop.tscn": {
+      "sha256": "c1df990ae5859d3643b24cfe3d2394ffa4beddfcffadbeee21facf47cc2ceece",
+      "size": 1479,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144722Z"
+    },
+    "prefabs/items/votv_trash_prop.gd": {
+      "sha256": "91b35f40406aa85eb25edf066e3dbbce75a9fbbdefdd94f708626bdd8118a36b",
+      "size": 8968,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144766Z"
+    },
+    "prefabs/items/votv_trash_prop.tscn": {
+      "sha256": "d06e91fd4cc7adfc6a86d595e89827bb956c6d00cf3f1359a29aab3f36e9156d",
+      "size": 1304,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144808Z"
+    },
+    "prefabs/wooden_crate/crate_mesh.gd": {
+      "sha256": "5807786bc00ac0c603465d0897ec73d22d5793db12134f8fa055fe6e1bf932e1",
+      "size": 2227,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144864Z"
+    },
+    "prefabs/wooden_crate/crate_vfx.gd": {
+      "sha256": "f7a3a24389d51dd763416c0ce184084ef7343db526b37ab0467a94e33e1e75eb",
+      "size": 2396,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144907Z"
+    },
+    "prefabs/wooden_crate/wooden_crate.gd": {
+      "sha256": "42532f4fb6ed06ac7087c99c9727b433abe6d37c2d15a6378c73e4c5aa9513cd",
+      "size": 4115,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144950Z"
+    },
+    "prefabs/wooden_crate/wooden_crate.tscn": {
+      "sha256": "c1659aaaa7ba72655397f781d0deaac04625c2165eaeb3386e4025b54b0d8fe0",
+      "size": 1227,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.144992Z"
+    },
+    "items/crowbar/crowbar_in_hand.gd": {
+      "sha256": "e8a8f7f2d1d8937975aaf678392127e52239d0877f14096a44a136824de9b83e",
+      "size": 2494,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145035Z"
+    },
+    "items/crowbar/crowbar_in_hand.tscn": {
+      "sha256": "0fb6b5273b92f61b6a22d0fec3c96a9de30830a6919c3b8284a23c45c069ed69",
+      "size": 1308,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145076Z"
+    },
+    "items/crowbar/crowbar_motion.gd": {
+      "sha256": "0046702c9d541032b94a681f649b0f3ce445c7eb17d518c6d87c4b538da4c1d8",
+      "size": 1589,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145117Z"
+    },
+    "items/crowbar/crowbar_pickup.gd": {
+      "sha256": "e7e9db5276a3e12a6fb85d9be7d22009db84f724dd599c986cd218133d067454",
+      "size": 1139,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145157Z"
+    },
+    "items/crowbar/crowbar_pickup.tscn": {
+      "sha256": "183c84cff951c9993370e68fed50bfcfecdaeb6e6dc85a85282f8d63368466c6",
+      "size": 1137,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145197Z"
+    },
+    "items/drone/drone_actor.gd": {
+      "sha256": "341fb5ac98895aaa48316c5b6c0571d68253d843ad9322dfc17261b41176ebd6",
+      "size": 20369,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145270Z"
+    },
+    "items/drone/drone_actor.tscn": {
+      "sha256": "530e44d3ee9976541f2bce9b996e3edd0f455e2206e51a5f4af412b78f9efc27",
+      "size": 2030,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145315Z"
+    },
+    "items/drone/drone_audio.gd": {
+      "sha256": "b1d12a2d715cb85d7829d22df43b51b17d0dfde713bf797f3eaf83eefaf02d5f",
+      "size": 6901,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145360Z"
+    },
+    "items/drone/drone_camera_inertia.gd": {
+      "sha256": "01c08c4451425567270ae8ece890e36a44b2a1fee22bb366d01e73c7fcb6c791",
+      "size": 4480,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145413Z"
+    },
+    "items/drone/drone_feed.gd": {
+      "sha256": "ae3078fc07c69a7ceabe16a83852a91947c633244b5051d100d2f26e264f4923",
+      "size": 4509,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145456Z"
+    },
+    "items/drone/drone_feed.gdshader": {
+      "sha256": "e28c4d024f14ce36f6a729c478b377567c1ad12370f7f96f5e4513190fa8f5d7",
+      "size": 3834,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145504Z"
+    },
+    "items/drone/drone_hud.gd": {
+      "sha256": "b3b99a3411c8a83677acc29f52122a14dbe9773ce87d5161be168e3c6faa0e97",
+      "size": 10200,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145556Z"
+    },
+    "items/drone/drone_in_hand.gd": {
+      "sha256": "04281a0e5bbec8849ffba918bc18bd2422f5a38e07e23a52ff25e5b90c0e740d",
+      "size": 2914,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145600Z"
+    },
+    "items/drone/drone_in_hand.tscn": {
+      "sha256": "16f298178974574691c9c66d5fbbf9380f50972749d444f78aa5caede5e9e2ee",
+      "size": 967,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145640Z"
+    },
+    "items/drone/drone_model.gd": {
+      "sha256": "be68c2f53f1886ab897e92eabb921109c88235ee4e52c631dd5a91fe987c01ff",
+      "size": 4691,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145684Z"
+    },
+    "items/drone/drone_model.tscn": {
+      "sha256": "6b32775717e6e7889981ae20b85267f8f14f28f20f743e831c4256233a05b6c2",
+      "size": 12204,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145734Z"
+    },
+    "items/drone/drone_pickup.gd": {
+      "sha256": "1a5a125ff1327acc8b778d22cbf90fd79f02c197bf1e047004c042a4532d65f3",
+      "size": 5653,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145856Z"
+    },
+    "items/drone/drone_pickup.tscn": {
+      "sha256": "5926ebe7f72de66d1ada4c1e65123fdad11587330a49b815be0a13fe3e9ab6ad",
+      "size": 1979,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145926Z"
+    },
+    "scripts/buckshot_ui_audio.gd": {
+      "sha256": "e06e223c9cea3361a543758d34a9f17b62259021183a25cfb3970b148dcc2ec8",
+      "size": 6858,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.145995Z"
+    },
+    "scripts/hud_item_selector.gd": {
+      "sha256": "5922b286eb96f968803eff04e70b1dd78038f48c4dc6000c400909cffdd47616",
+      "size": 3336,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146116Z"
+    },
+    "scripts/interaction/interaction_raycaster.gd": {
+      "sha256": "cedad8db423b285504a9c7599d893b7077a43f5c051ae49e7aa4bc21fed3690a",
+      "size": 8926,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146242Z"
+    },
+    "scripts/main_menu.gd": {
+      "sha256": "c2f8bdabf31901ddc30cd549808d1e9cdbeb9ac9d0689d4b7acc332fe6b5b39c",
+      "size": 23940,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146337Z"
+    },
+    "scripts/procedural_rock_generator.gd": {
+      "sha256": "aef4c544b4841ed0db7dd3e4cd8721cc96dae21809d099e5543c6ffad91428f3",
+      "size": 2834,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146491Z"
+    },
+    "scripts/procedural_trash_generator.gd": {
+      "sha256": "8a9dbde207362704ca044a75c4deab53a19cf885dc3423a1921378840d6cef61",
+      "size": 6128,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146536Z"
+    },
+    "scripts/save_manager.gd": {
+      "sha256": "4fa3efc4d56e7e59e9d512b410ed6802f5ffed8aa82d20a80d81b03dfe343d22",
+      "size": 25068,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.146596Z"
+    },
+    "scripts/console/commands/cmd_give.gd": {
+      "sha256": "fdcb3447203c97cbceaf861cf5044f30a4cdae0ac14dca07e99fabcf6074a3c1",
+      "size": 2427,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147095Z"
+    },
+    "scripts/console/commands/cmd_jump_kick.gd": {
+      "sha256": "9427d3db5a16aa113fc33e53e12f15d11c00f49cd2a2f6a3614ba01a2f11a4de",
+      "size": 1219,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147229Z"
+    },
+    "scripts/console/commands/cmd_load.gd": {
+      "sha256": "2ca0f0f670ad92e3c0ffb60befb1f9d28619f73f13a1b2699812f62af77d1177",
+      "size": 1976,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147275Z"
+    },
+    "scripts/console/commands/cmd_player_stats.gd": {
+      "sha256": "62470ade196fd407ce2a34b89c29b65a51187a99737096ac5c49f9d6146a294d",
+      "size": 3144,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147319Z"
+    },
+    "scripts/console/commands/cmd_restart.gd": {
+      "sha256": "09e7be5d01e1bed1b8eebb85d275b25da689844b54dd199284231a978140cb78",
+      "size": 580,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147364Z"
+    },
+    "scripts/console/commands/cmd_save.gd": {
+      "sha256": "c24a801728502ed17adf1fadbe617942bbd68d4bdbc61769cb4fc4d8b997a1cd",
+      "size": 1494,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147411Z"
+    },
+    "scripts/console/commands/cmd_screenshot.gd": {
+      "sha256": "ff9708e1480fe07659ebc57e9a66225ce40978c99de9a37ce9fcca16a2eca07f",
+      "size": 1363,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147458Z"
+    },
+    "ui/templates/options_dialog/options_dialog.gd": {
+      "sha256": "aee178a10066f545d8f23c96df1fa2448f6055f3c025d60d1dddd92222c62cc0",
+      "size": 5767,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147791Z"
+    },
+    "ui_vgui_template/ui/templates/options_dialog/options_dialog.gd": {
+      "sha256": "aee178a10066f545d8f23c96df1fa2448f6055f3c025d60d1dddd92222c62cc0",
+      "size": 5767,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147852Z"
+    },
+    "mods/gravity_grenade/cmd_grenade.gd": {
+      "sha256": "2a4501be4d6b0c71d216008c185110a1d9dd7b390c2cd82a8db22c0dec4e5ce6",
+      "size": 1688,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.147952Z"
+    },
+    "mods/jump_pad/cmd_jumppad.gd": {
+      "sha256": "953c3c4bd625861b5701015bc80ff651ef3cef587b8c21ff82b98f719b31e742",
+      "size": 1970,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.148004Z"
+    },
+    "mods/neon_glowstick/cmd_glowstick.gd": {
+      "sha256": "e8f2cc874551728543802ae694319680d5462a02533e09bc9a463e06f748d0bf",
+      "size": 1647,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.148052Z"
+    },
+    "mods/portable_floodlight/cmd_floodlight.gd": {
+      "sha256": "c2ff8e8736b12dbd0dc50e8a4f66e828f44d1630104f4c3102016312c5123582",
+      "size": 2015,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.148099Z"
+    },
+    "mods/sentry_turret/cmd_turret.gd": {
+      "sha256": "924d14764daffcfe9c74120fc438b1af36df06cdd852f3f181e3432c0c4da7cc",
+      "size": 1957,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.148144Z"
+    },
+    "mods/target_dummy/cmd_dummy.gd": {
+      "sha256": "24d67af0e7e70bdea268fcc66e7e72066ab4e05a94118d9e6e61b100615343f9",
+      "size": 1969,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.148239Z"
+    },
+    "audio/player/jump_grunt_push.wav": {
+      "sha256": "dc7a8ad49caf5ab2c7b9db464cf1e8d594a1a91f731de8f9429abe2a1053593b",
+      "size": 33560,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.148299Z"
+    },
+    "audio/player/pl_jump1.wav": {
+      "sha256": "c4b681e4aac21004a3fd56dd82abe78ab46cbd9961da183c3417c96a16c521d7",
+      "size": 48620,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.148372Z"
+    },
+    "audio/player/pl_jump2.wav": {
+      "sha256": "b5d0b3c70c9ec3aa113c09b95d003006c410700fbeef7085ada1f857ca51c78b",
+      "size": 41172,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.148435Z"
+    },
+    "audio/trash/trash_crumple_paper.wav": {
+      "sha256": "57e5c97d7f878c7de6218f1d1a9612132d8cc5e6842e6da287d18c78e7019447",
+      "size": 39734,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.148497Z"
+    },
+    "audio/trash/trash_crush_can.wav": {
+      "sha256": "c26e5f0ba8de2a3e645b3faba3eff64e48e8f1c18d6cff8cdcc4c963aaad8298",
+      "size": 44144,
+      "version": "0.1.6.4",
+      "updated_at": "2026-09-27T09:53:24.148560Z"
     }
   }
 }
