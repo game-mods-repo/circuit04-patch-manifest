@@ -1,7 +1,7 @@
 {
   "repo": "circuit04-patch-manifest",
-  "last_updated": "2026-09-27T09:53:24.148563Z",
-  "latest_patch": "0.1.6.4",
+  "last_updated": "2026-10-05T11:18:31.268959Z",
+  "latest_patch": "0.1.6.5",
   "base_version": "0.1.3",
   "files": {
     "materials/conduits/mat_corrugated_hose.tres": {
@@ -47,16 +47,16 @@
       "updated_at": "2026-09-27T09:53:24.148194Z"
     },
     "mods_system/default_map_controller.gd": {
-      "sha256": "6ff3b8abaaffffd4ee717e0e4b019b0bc280009b48d2ba0f2def1e7970e88723",
-      "size": 17506,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.143796Z"
+      "sha256": "a16cf46f89d358fba76602ecf2a4298b163e9ce965e991da5c015c93e05aec26",
+      "size": 17974,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.165575Z"
     },
     "mods_system/ui/spawn_menu_hud.gd": {
-      "sha256": "f8fa1b4cb4ad6b66d298ad604b8367969532ad6069bdde3fe096acbb0fa5aa3f",
-      "size": 16220,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.143984Z"
+      "sha256": "2ec8e71af404d251ff2c84941fb675ba4bf8ce7e2e3d7a28d3102946f06e0a42",
+      "size": 17032,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.165984Z"
     },
     "player/components/player_body_collision.gd": {
       "sha256": "897be6b32347320a4fa7d859336f8984feffc27934828f703c10c0445eebfaf2",
@@ -77,10 +77,10 @@
       "updated_at": "2026-09-27T09:53:24.142894Z"
     },
     "player/player.gd": {
-      "sha256": "1dcb36c367778d6259aeb25bee019c2e031092dde29d9a33a8a292543f99a064",
-      "size": 16421,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.142063Z"
+      "sha256": "a6c3f336c3cf561729b322987ac32a4cba0419c1bb2c50c61cf98d4c96a4599a",
+      "size": 16954,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.169217Z"
     },
     "scripts/conduit/conduit_interactive_plug.gd": {
       "sha256": "25299dbdeea43eca303f344e3dd96bac69d55dbbd0d077149a06c6cb8ffd27a0",
@@ -137,10 +137,10 @@
       "updated_at": "2026-09-27T09:53:24.147139Z"
     },
     "scripts/console/commands/cmd_spawn.gd": {
-      "sha256": "5d7bbb507552bbf3a3827f11234cae0ac16956309aa55a9d3f059979baf2c3e8",
-      "size": 13642,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.147549Z"
+      "sha256": "14f2997acbe165e0f2e2163fb0dfe36f5dfdb217ffdc9d139e672203ce4e2355",
+      "size": 14760,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.191827Z"
     },
     "scripts/console/commands/cmd_spawnlist.gd": {
       "sha256": "3ed711dffdfe2c08fb4ba1c9b2166acbb1693eeb6724b77501f27a68618de8fb",
@@ -173,10 +173,10 @@
       "updated_at": "2026-09-27T09:53:24.146386Z"
     },
     "scripts/pause_menu.gd": {
-      "sha256": "66b3cf33dd287e693207f1ef3cf5510bc65d046c920d0d9e9932f48086b5a5e2",
-      "size": 22848,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.146446Z"
+      "sha256": "ea6fa7514fcb46542e2e78fa404e4d6dcaf4d83d9b94874a44d7e662e22979e8",
+      "size": 23896,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.199626Z"
     },
     "update_system/update_manager.gd": {
       "sha256": "5e3684e7e05d5b50ebec7b96fdc0669a665294d6f4a0f9fc2dbdea0ab4fc00ca",
@@ -191,10 +191,10 @@
       "updated_at": "2026-09-27T09:53:24.141997Z"
     },
     "main.tscn": {
-      "sha256": "6c5d01253a801f3e6203951a8a16877ef341c8c51933f2502448da58e0c04eac",
-      "size": 67008,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.143549Z"
+      "sha256": "ae910efe096fee8379d7b585de51114acf34a32a2ead334f0fdadd99151bc114",
+      "size": 76445,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.245202Z"
     },
     "player/player.tscn": {
       "sha256": "20649638790acc6f67d633c137de20e480de19ce02f7097b1f649d48b7c19e90",
@@ -245,16 +245,16 @@
       "updated_at": "2026-09-27T09:53:24.146175Z"
     },
     "scenes/hud.tscn": {
-      "sha256": "1202cd3e41bb66e9c189fc4668e9e1553c0aa83b6f4ca4872015080b2eac8132",
-      "size": 9507,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.143601Z"
+      "sha256": "aa8817121ee3ff4136c2404d4f69cf6198727b3a780e62d4b0f525f0352e1645",
+      "size": 10220,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.263113Z"
     },
     "scripts/console/console_command_registry.gd": {
-      "sha256": "b403367be0619deabfa1c0fdc3c5c23f5f4a5d0542c1277eba1a7beeea85f0ba",
-      "size": 9514,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.146654Z"
+      "sha256": "bb0805ea16d3ffd06fb201e7094a9573b363df2dc5a3455fc1688c9fa72e4651",
+      "size": 9540,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.192231Z"
     },
     "ui/console/dev_console_window.gd": {
       "sha256": "4937f6dff76587745cee18ad46430c8e7784900ca3fb4560409924145082eb20",
@@ -797,10 +797,10 @@
       "updated_at": "2026-09-27T09:53:24.142707Z"
     },
     "player/components/player_spacesuit.gd": {
-      "sha256": "f1909d95054eb7075bcb561ff3698969df6b3a322ee57a924761ad975cbca488",
-      "size": 2607,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.143351Z"
+      "sha256": "954c12db899441d9491fce19d47e6d8ef658f078a961ee9ed75a8974954fefdf",
+      "size": 4815,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.168776Z"
     },
     "prefabs/oxygen/airlock_chamber_controller.gd": {
       "sha256": "72dfad3fbe7312e9592092541d32bcec876492554ed6ffa5f6349a58ce024833",
@@ -833,16 +833,16 @@
       "updated_at": "2026-09-16T10:28:21.807628Z"
     },
     "prefabs/oxygen/spacesuit_locker.gd": {
-      "sha256": "1e01de98f709efb29f4f9c2be054cc82cbb9b01616ac2ad8b4cef08762c9a7a7",
-      "size": 2121,
-      "version": "0.1.5.2.3",
-      "updated_at": "2026-09-16T10:28:21.807682Z"
+      "sha256": "5613089832f49fc232c306844a518b40004989558f0efc117d8aa4ff71ad01cd",
+      "size": 4741,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.187403Z"
     },
     "scripts/hud.gd": {
-      "sha256": "7c19ac447d34e9ee2361061671b1f2920e2fa760db7025f15e85e0ae31b1657c",
-      "size": 10461,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.146057Z"
+      "sha256": "ddfd034839429be0ad5791ff6ad47483c9f1a35525f10c6d19a63ac7c87e5e92",
+      "size": 13108,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.196248Z"
     },
     "prefabs/oxygen/airlock_chamber.tscn": {
       "sha256": "88e5b32e8a090cc24bf6e61e648ad4d82c142f9abbb311a275f6ad8d13019fc4",
@@ -869,10 +869,10 @@
       "updated_at": "2026-09-16T10:28:21.808020Z"
     },
     "prefabs/oxygen/spacesuit_locker.tscn": {
-      "sha256": "2e04a30c2068cb43534b01bf64f19a925fdeb08c6742189d2e51915755a8cd70",
-      "size": 2196,
-      "version": "0.1.5.2.3",
-      "updated_at": "2026-09-16T10:28:21.808065Z"
+      "sha256": "ccc72791593a7f384b208151bec44c740dc27ed210c989487b952a32bcaef625",
+      "size": 5934,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.259916Z"
     },
     "audio/oxygen/airlock_alarm_beep.wav.import": {
       "sha256": "d1b20f38bbc7f7ae46d93b16d5e7c5f6ddd3cd0de4270259544590aa687cacb4",
@@ -2447,10 +2447,10 @@
       "updated_at": "2026-09-18T06:34:41.827593Z"
     },
     "player/components/player_held_item_manager.gd": {
-      "sha256": "1d3fc2df43e41b10bda8b065f841b9fa04882dcc3307ba84653ec2a83978890c",
-      "size": 19460,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.142762Z"
+      "sha256": "8eb487a4c90145947c56fac137c9eb306321febac08c650b88e2bd971d5fb22e",
+      "size": 24792,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.167566Z"
     },
     "prefabs/furniture/cabinet.gd": {
       "sha256": "86db572a1ab469b46d8bcb1af81d6930b01f20664ac3382c6e5f73aaba686b51",
@@ -2495,10 +2495,10 @@
       "updated_at": "2026-09-17T11:11:04.301007Z"
     },
     "prefabs/water/water_splash_emitter.gd": {
-      "sha256": "7d958f20d0ac03b1e00dd57eae6a7ef28b94f4a8cf38763222fdf1f7cbe4b26c",
-      "size": 5334,
-      "version": "0.1.5.3.2",
-      "updated_at": "2026-09-18T06:34:41.832503Z"
+      "sha256": "039b000e443dacdfc21def43cd3102ac0dd0a704ce25c3cf08b6e91042e9e352",
+      "size": 5397,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.188034Z"
     },
     "prefabs/water/water_underwater_overlay.gd": {
       "sha256": "e14d990eb382f9f35e2de4c2beac0e4eb3f2269832b3fcc0366a2d8afeb2c447",
@@ -2519,10 +2519,10 @@
       "updated_at": "2026-09-18T06:34:41.832772Z"
     },
     "scenes/test_place.gd": {
-      "sha256": "b195902dc42cf4f037a1c79a104a097aa3747691877a550efcb372d1b9a90afb",
-      "size": 2989,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.143692Z"
+      "sha256": "d515be95aefb4bec9cb92ae649fec14274863a525d32c3add14471171f796f78",
+      "size": 3606,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.189778Z"
     },
     "items/binoculars/binoculars_in_hand.tscn": {
       "sha256": "d5e67f93dd2d68460345b88a4ba78e98846e88732ba501bebbb92bd0aec48ce3",
@@ -2573,10 +2573,10 @@
       "updated_at": "2026-09-19T02:28:30.470472Z"
     },
     "scenes/test_place.tscn": {
-      "sha256": "01c9a22684f20b0ac3be3fcaf8bb899a5661e308f296c76f866afc20e7d56953",
-      "size": 14010,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.143742Z"
+      "sha256": "1ee0412e7637de6cdc6c49cf25c295c19f51fe9e08d2325a4194b0db4780db97",
+      "size": 20464,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.263581Z"
     },
     ".tmp_diff.py": {
       "sha256": "dac32fbdc203646d942abb229583e4c35936a6c0e17e29bf4591d5a167c8d10a",
@@ -3023,16 +3023,16 @@
       "updated_at": "2026-09-27T09:53:24.147182Z"
     },
     "items/plasma_pistol/plasma_bolt.gd": {
-      "sha256": "1770ddd564550fd5d3b5d8f82aebcc3c501fba28de98a5e26227964b8a31b676",
-      "size": 4576,
-      "version": "0.1.6.1",
-      "updated_at": "2026-09-19T02:28:30.470273Z"
+      "sha256": "39fb1baaf1897415088dc6ded5b769fe646777f8c195b44c58d12487582cc74b",
+      "size": 4584,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.159282Z"
     },
     "items/plasma_pistol/plasma_pistol_in_hand.gd": {
-      "sha256": "51035d506dbdf55f46671703a0e9cd088cf2c039a7a2c5cfab82a8f2b1bb4334",
-      "size": 6428,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.411560Z"
+      "sha256": "d01d80a4650768fc4aef98c9bec06e266abf358054ac0a6076d65928a470cba4",
+      "size": 6452,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.159615Z"
     },
     "items/plasma_pistol/plasma_pistol_in_hand.tscn": {
       "sha256": "4758bfac4364b33ff96eb251981b41077bfd666ab87036f7f57ce2cbfcbccf1f",
@@ -3383,10 +3383,10 @@
       "updated_at": "2026-09-19T02:17:31.411366Z"
     },
     "items/plasma_pistol/capture_plasma_impact_previews.gd": {
-      "sha256": "de5fc1ed9daaf49ea6208ec5c355983e9cec8cdebc66c03172f42271632df293",
-      "size": 3466,
-      "version": "0.1.6.1",
-      "updated_at": "2026-09-19T02:28:30.470224Z"
+      "sha256": "f51c221770c100698b889f6d1aff12029ad9e7f8e26aa256e0691dac4baa5806",
+      "size": 3488,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.158954Z"
     },
     "items/plasma_pistol/plasma_impact_manager.gd": {
       "sha256": "a2329894ca113f8212e615d76dc4f78581b9fc18fd259ec2d54a025e55a1eb75",
@@ -3401,10 +3401,10 @@
       "updated_at": "2026-09-27T09:53:24.143933Z"
     },
     "prefabs/furniture/cabinet_smoke_test.gd": {
-      "sha256": "9ef2be7847965f02f0cafffcbcbc53f3387eb9929fbfaadc3154694d07742fa9",
-      "size": 750,
-      "version": "0.1.5.6.1",
-      "updated_at": "2026-09-19T02:17:31.411831Z"
+      "sha256": "d993d9b3d0c08092bf3e5b6c336b2f1d1c80b37154427cb91ebd82d617d926a3",
+      "size": 760,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.177473Z"
     },
     "items/plasma_pistol/plasma_impact_preview.tscn": {
       "sha256": "3fb5ee361ad190d94b997cea13ce3b05826d24b38225236b3ac70646aa48da5b",
@@ -4085,10 +4085,10 @@
       "updated_at": "2026-09-27T09:53:24.142807Z"
     },
     "player/components/player_input_dispatch.gd": {
-      "sha256": "635144fa155af732d5db4775daad12343435d19c010a0c6473637fcde4cfc039",
-      "size": 3135,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.142851Z"
+      "sha256": "b1fb9fd8f4e3c354c03016018375391b18f996b443e4dd6d175dcad3c02e3e27",
+      "size": 5518,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.167980Z"
     },
     "player/components/player_jump_kick.gd": {
       "sha256": "42fbe0108afd3641c622b71145ab66308205e556fda94debe3a8b74f8947d907",
@@ -4109,10 +4109,10 @@
       "updated_at": "2026-09-27T09:53:24.143040Z"
     },
     "player/components/player_motion_driver.gd": {
-      "sha256": "457e0fb00a9aff51206a21464f1c9976f0b318e01d4a854d2f0f456392ace1db",
-      "size": 6404,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.143090Z"
+      "sha256": "7277098b7e4871151d85a18334887761ff3184f7bac43adc20b02163a305aeb2",
+      "size": 6953,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.168402Z"
     },
     "player/components/player_motion_spring.gd": {
       "sha256": "15bfd905f849649c073a3d99b56acd11d369bbfd58c923529a52b7e50ab22868",
@@ -4157,10 +4157,10 @@
       "updated_at": "2026-09-27T09:53:24.143885Z"
     },
     "multiplayer/sync/multiplayer_sync_manager.gd": {
-      "sha256": "02ffd5fb260df1f9ff6b8fca4c3063a5df2f6e853c8c4bc80d1e70fa8869f6c3",
-      "size": 24451,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.144049Z"
+      "sha256": "0e5356e262e3b83d5aae9e11e49cbcae9136ac2ddfad54b1375ad012609b1733",
+      "size": 27368,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.166389Z"
     },
     "multiplayer/sync/sync_drone_relay.gd": {
       "sha256": "09a623cfb768b900aa8be168775d5e6203f4273154b7b531e42b37f71c4156fa",
@@ -4169,16 +4169,16 @@
       "updated_at": "2026-09-27T09:53:24.144095Z"
     },
     "multiplayer/sync/sync_pickup_manager.gd": {
-      "sha256": "c9a25dfd2df5382bf72d9e37d1f7f3a001eb92c36161b5e7b29194ead7c5fe7c",
-      "size": 4144,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.144144Z"
+      "sha256": "c0616ce674239b4fefcbc974091ddf24a84bbba490e439fe8a10943e0d3605af",
+      "size": 4381,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.166734Z"
     },
     "multiplayer/sync/sync_types.gd": {
-      "sha256": "1e85eb6281d0da04dce3184fc7f939696e4a591f2b47efa704c37be9774bb23f",
-      "size": 1178,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.144189Z"
+      "sha256": "f17d0a1c22bfbedbcf16717e2b8330cd4493daa39313053ec015f9aef1f73db9",
+      "size": 5348,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.167078Z"
     },
     "multiplayer/sync/sync_world_snapshot.gd": {
       "sha256": "52178c9b2175d587cc400771f26f055f93bafd05aa8379af6187e58d29c0661d",
@@ -4379,16 +4379,16 @@
       "updated_at": "2026-09-27T09:53:24.145995Z"
     },
     "scripts/hud_item_selector.gd": {
-      "sha256": "5922b286eb96f968803eff04e70b1dd78038f48c4dc6000c400909cffdd47616",
-      "size": 3336,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.146116Z"
+      "sha256": "1993488a183dac2962bda0c020f06fcced0b144ecab73f2f45051fb861331a78",
+      "size": 3383,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.196520Z"
     },
     "scripts/interaction/interaction_raycaster.gd": {
-      "sha256": "cedad8db423b285504a9c7599d893b7077a43f5c051ae49e7aa4bc21fed3690a",
-      "size": 8926,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.146242Z"
+      "sha256": "a4b2040075b92c2429ce704e481a6d9f47d0125a2e5aacc527f304ff01801892",
+      "size": 10126,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.197497Z"
     },
     "scripts/main_menu.gd": {
       "sha256": "c2f8bdabf31901ddc30cd549808d1e9cdbeb9ac9d0689d4b7acc332fe6b5b39c",
@@ -4409,10 +4409,10 @@
       "updated_at": "2026-09-27T09:53:24.146536Z"
     },
     "scripts/save_manager.gd": {
-      "sha256": "4fa3efc4d56e7e59e9d512b410ed6802f5ffed8aa82d20a80d81b03dfe343d22",
-      "size": 25068,
-      "version": "0.1.6.4",
-      "updated_at": "2026-09-27T09:53:24.146596Z"
+      "sha256": "91ceb8d77582b5378b4095b583eca197ea0ad5cd85ae538fe2dbecb29e6d5cc4",
+      "size": 34782,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.211538Z"
     },
     "scripts/console/commands/cmd_give.gd": {
       "sha256": "fdcb3447203c97cbceaf861cf5044f30a4cdae0ac14dca07e99fabcf6074a3c1",
@@ -4533,6 +4533,4326 @@
       "size": 44144,
       "version": "0.1.6.4",
       "updated_at": "2026-09-27T09:53:24.148560Z"
+    },
+    "audio/ambient/hl2_electric_machine.wav": {
+      "sha256": "5e4b0d01946afb88a06842206e3fd27cdb5c91130221b3b120c7e0a2412bdd9f",
+      "size": 211000,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.072317Z"
+    },
+    "audio/ambient/hl2_generator_loop.wav": {
+      "sha256": "0f5f5c1c8f18d2d0eccdfce252de9e03ca49e610e539426ae490dab8d666414e",
+      "size": 731316,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.077789Z"
+    },
+    "audio/ambient/hl2_lab_loop1.wav": {
+      "sha256": "bcc4ea85b7efc9c238376685a9b5c0e813d7e0edd151f8ee1fc2181fd6cf21ca",
+      "size": 606524,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.082579Z"
+    },
+    "audio/ambient/hl2_transformer_loop.wav": {
+      "sha256": "55154fbf5c78a582a1e5a0dc310d883417d2f47d9bfd362983a79f796445626a",
+      "size": 227884,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.084894Z"
+    },
+    "audio/weapons/plasma_pistol/A_powerful_futuristi_#1-1789577785187.wav": {
+      "sha256": "e74debb9c7ce46c707bb2f206f8cc414077b37a7d7cfb1cf7d88b46f8c259b77",
+      "size": 192078,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.086718Z"
+    },
+    "audio/weapons/plasma_pistol/Futuristic_industria_#2-1789577905249.wav": {
+      "sha256": "721148cc1afab0487ad720aa576edded09d141487e37cca3af75abfc39b81248",
+      "size": 192078,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.088614Z"
+    },
+    "audio/weapons/plasma_pistol/Heavy_futuristic_pla_#1-1789578142784.wav": {
+      "sha256": "8bae864c09da2e0920a173ce40e35ba5ceaddc3a2aa4beb74d6849c5fc6114f3",
+      "size": 192078,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.090811Z"
+    },
+    "audio/weapons/plasma_pistol/Plasma_projectile_st_#1-1789578039695.wav": {
+      "sha256": "adaabf624da354b6b724005890f7eafa2f6b06c2007d8f472c6190047b410f1e",
+      "size": 192078,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.092781Z"
+    },
+    "audio/weapons/plasma_pistol/plasma_charge.wav": {
+      "sha256": "721148cc1afab0487ad720aa576edded09d141487e37cca3af75abfc39b81248",
+      "size": 192078,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.094812Z"
+    },
+    "audio/weapons/plasma_pistol/plasma_fire.wav": {
+      "sha256": "e74debb9c7ce46c707bb2f206f8cc414077b37a7d7cfb1cf7d88b46f8c259b77",
+      "size": 192078,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.096500Z"
+    },
+    "audio/weapons/plasma_pistol/plasma_impact.wav": {
+      "sha256": "adaabf624da354b6b724005890f7eafa2f6b06c2007d8f472c6190047b410f1e",
+      "size": 192078,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.098339Z"
+    },
+    "audio/weapons/plasma_pistol/plasma_reload.wav": {
+      "sha256": "8bae864c09da2e0920a173ce40e35ba5ceaddc3a2aa4beb74d6849c5fc6114f3",
+      "size": 192078,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.100245Z"
+    },
+    "mods/maps/liminal_megalophobia/caretaker_distant.mp3": {
+      "sha256": "c3b28bfde43c9b6db756bc65b78f4f50a9f9106656b2c90d522dac782517d423",
+      "size": 4886508,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.124305Z"
+    },
+    "mods/maps/liminal_megalophobia/rain_loop.wav": {
+      "sha256": "cdfae71c9132ddc27c2550f575d9c97e679564d0254522a27437ce6f16021f31",
+      "size": 19201144,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.231420Z"
+    },
+    "mods/soundpack_3562/music/Cosmic Horizon (Variant 2).wav": {
+      "sha256": "ff37677fc4add313b9649f8acbb7c1848d727f5f8f0165729498a2a83f45545a",
+      "size": 23026414,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.340239Z"
+    },
+    "mods/soundpack_3562/music/cosmic_horizon.ogg": {
+      "sha256": "ff37677fc4add313b9649f8acbb7c1848d727f5f8f0165729498a2a83f45545a",
+      "size": 23026414,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.449006Z"
+    },
+    "mods/soundpack_3562/sounds/mystic-waters_95066.wav": {
+      "sha256": "ff37677fc4add313b9649f8acbb7c1848d727f5f8f0165729498a2a83f45545a",
+      "size": 23026414,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.555444Z"
+    },
+    "mods/soundpack_3562/sounds/mystic-waters_95066_1.wav": {
+      "sha256": "ff37677fc4add313b9649f8acbb7c1848d727f5f8f0165729498a2a83f45545a",
+      "size": 23026414,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.663251Z"
+    },
+    "mods/soundpack_7572/music/Cosmic Horizon (Variant 2).wav": {
+      "sha256": "7c5847744fee69c75a517330b60c326d804f9c5abc74dd8e17d5b10d6e25806f",
+      "size": 43056060,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.884293Z"
+    },
+    "mods/soundpack_7572/music/cosmic_horizon.ogg": {
+      "sha256": "84790ec56c78c21a4f348c6d019439fa7708e041a03e443795e2c207c0cbab58",
+      "size": 5859490,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.913355Z"
+    },
+    "mods/soundpack_7572/sounds/4f566zxfznoxqd.mp3": {
+      "sha256": "84790ec56c78c21a4f348c6d019439fa7708e041a03e443795e2c207c0cbab58",
+      "size": 5859490,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.940919Z"
+    },
+    "mods/soundpack_7572/sounds/4f566zxfznoxqd_1.mp3": {
+      "sha256": "84790ec56c78c21a4f348c6d019439fa7708e041a03e443795e2c207c0cbab58",
+      "size": 5859490,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.967385Z"
+    },
+    "prefabs/entities/cockroach/audio/cockroach_hiss.wav": {
+      "sha256": "a2cb701c83e762d2752bc4313b28d28e89b796644390dc0ba796d9b9a58763ca",
+      "size": 48554,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.968322Z"
+    },
+    "prefabs/entities/cockroach/audio/cockroach_scuttle.wav": {
+      "sha256": "b347a10c64fb66cc8dadd10ba6b75e120d626d29dcb67cff2768d8120e42a9d9",
+      "size": 70604,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.969544Z"
+    },
+    "prefabs/entities/cockroach/audio/cockroach_squish.wav": {
+      "sha256": "b11ef0218c6d15bfb873d437a663c35b6213c6405db183bf896b6a2d6ef5fbc3",
+      "size": 39734,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.970196Z"
+    },
+    "prefabs/entities/spider_bot/audio/spider_chirp.wav": {
+      "sha256": "c11d10ce5497f9e403c4c20fd3e4ed9174940e9e6ee917845e8ab907fdd88f4a",
+      "size": 30912,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.970761Z"
+    },
+    "prefabs/entities/spider_bot/audio/spider_lid_close.wav": {
+      "sha256": "87ad7e7eb479060a8f376785687638dd8054e0f213b4890181ac35b59fafa63f",
+      "size": 42380,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.971372Z"
+    },
+    "prefabs/entities/spider_bot/audio/spider_lid_open.wav": {
+      "sha256": "b51537a6a5ac1b5656e11f55db69e4ea91d7a3f242d4686ab0a847ad82a4b3aa",
+      "size": 48554,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.971984Z"
+    },
+    "prefabs/entities/spider_bot/audio/spider_step.wav": {
+      "sha256": "0484ca2966b88c56f8d349e95b9d907417b8a0c6360a4ba2135eb77acff79ad4",
+      "size": 24740,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.972441Z"
+    },
+    "ui/desktop_pc/xp_click.wav": {
+      "sha256": "cd4ad784bcca3be4dec4f01d24e9deaa8b453a2dfd7f7a47c9b4707ab4137cae",
+      "size": 3130,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.972819Z"
+    },
+    "items/crowbar/assets/crowbar_0.png": {
+      "sha256": "409364cdb5ec6f7571945f6c996f1d4e4c94abbe44c32653ce45aa76e31d87ad",
+      "size": 528039,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.976821Z"
+    },
+    "items/crowbar/assets/crowbar_1.png": {
+      "sha256": "35c1f4394e3eb2c102d40b044ee35e113baba0841d8d7eca6d54c09856658dfc",
+      "size": 1215353,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.985146Z"
+    },
+    "items/crowbar/assets/crowbar_2.png": {
+      "sha256": "546d02ddb544df283560fb245427dc7677481a67b01ad22881bac8f88db8c6fc",
+      "size": 515155,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.989246Z"
+    },
+    "items/crowbar/assets/crowbar_3.png": {
+      "sha256": "769d82191aa186ff05cd562a2e64956fdee11d2727e94f8dfd642dd49bf82dc1",
+      "size": 1475430,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:29.997628Z"
+    },
+    "items/crowbar/assets/crowbar_4.png": {
+      "sha256": "69b662450af420a5d1060d4933269cb1c8dad1fde2373b1688a14c467a1760f2",
+      "size": 646617,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.001714Z"
+    },
+    "items/crowbar/assets/crowbar_5.png": {
+      "sha256": "21cc8a4a1b32355f9cce7e5fbb70788ee4716f5a46d307884ddff9b0af827db7",
+      "size": 384348,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.004510Z"
+    },
+    "items/crowbar/assets/crowbar_normalized_0.png": {
+      "sha256": "409364cdb5ec6f7571945f6c996f1d4e4c94abbe44c32653ce45aa76e31d87ad",
+      "size": 528039,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.008552Z"
+    },
+    "items/crowbar/assets/crowbar_normalized_1.png": {
+      "sha256": "35c1f4394e3eb2c102d40b044ee35e113baba0841d8d7eca6d54c09856658dfc",
+      "size": 1215353,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.016548Z"
+    },
+    "items/crowbar/assets/crowbar_normalized_2.png": {
+      "sha256": "546d02ddb544df283560fb245427dc7677481a67b01ad22881bac8f88db8c6fc",
+      "size": 515155,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.020983Z"
+    },
+    "items/crowbar/assets/crowbar_normalized_3.png": {
+      "sha256": "769d82191aa186ff05cd562a2e64956fdee11d2727e94f8dfd642dd49bf82dc1",
+      "size": 1475430,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.029837Z"
+    },
+    "items/crowbar/assets/crowbar_normalized_4.png": {
+      "sha256": "69b662450af420a5d1060d4933269cb1c8dad1fde2373b1688a14c467a1760f2",
+      "size": 646617,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.034647Z"
+    },
+    "items/crowbar/assets/crowbar_normalized_5.png": {
+      "sha256": "21cc8a4a1b32355f9cce7e5fbb70788ee4716f5a46d307884ddff9b0af827db7",
+      "size": 384348,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.037947Z"
+    },
+    "items/drone/materials/mat_drone_blade.tres": {
+      "sha256": "6dd249024ccc3c7b9fbb6a6f49720c006bbe213b8e4151fe9a0118d5a459a6a5",
+      "size": 318,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.038110Z"
+    },
+    "items/drone/materials/mat_drone_hull.tres": {
+      "sha256": "387ef3559377155844dc3e2bc4052762962a2abc56b763ed96da4bf24e3d7a1e",
+      "size": 316,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.038236Z"
+    },
+    "items/drone/materials/mat_drone_metal.tres": {
+      "sha256": "260eae0e8638a5382ed4ae2ef04724407a7a9b38aa5cd2b3b9c1a76115eed665",
+      "size": 319,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.038354Z"
+    },
+    "items/drone/materials/mat_drone_panel.tres": {
+      "sha256": "e78a50996fa0aebe02029ec82f2ba0ca87f801f8c40805b46e7171b39f175bbe",
+      "size": 318,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.038470Z"
+    },
+    "items/drone/shots/feed_01_clear.png": {
+      "sha256": "3e8975376945cdb64325a81e79300e75fd3bbde48be5018c2293b34d89538f1e",
+      "size": 2777261,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.053361Z"
+    },
+    "items/drone/shots/feed_02_degraded.png": {
+      "sha256": "ecef141df1fe9c815316dbd46b09fc7e5284366ebd044864c45f28b4f0a18524",
+      "size": 2772249,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.067978Z"
+    },
+    "items/drone/shots/feed_03_dropout.png": {
+      "sha256": "1cd4a944cb37b7d4f98eec0b43a23a5707d692331290003b1f79714b415fc06e",
+      "size": 3202573,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.085073Z"
+    },
+    "items/drone/shots/feed_04_angle.png": {
+      "sha256": "da0f12505182421a9d59ef84a3bf9623ad827945e07e1bb665d9fbc30aa6f0db",
+      "size": 2790056,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.098838Z"
+    },
+    "maps/tutor/Gemini_Generated_Image_mce5upmce5upmce5.jpg": {
+      "sha256": "034c891ff18b1e5ed73ae282739e7c9bc0af1a220640d233e7d91ba81e416721",
+      "size": 2777381,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.114361Z"
+    },
+    "maps/tutor/Gemini_Generated_Image_tfrodztfrodztfro.jpg": {
+      "sha256": "9bed90ebfe0de6d73d12716d33f5dd8cf75510364bea8a17519caf043514a0da",
+      "size": 2659791,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.128923Z"
+    },
+    "maps/tutor/materials/book_spine.tres": {
+      "sha256": "7a060c7fb51a924e4a3fd6dad5562f49c861fe3f6919e5021b687435d03e1507",
+      "size": 343,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.129080Z"
+    },
+    "maps/tutor/materials/ceiling.tres": {
+      "sha256": "78b9edfe4aa029ff7c430fe514f97471aa06b3028b6effa9cf95788dbb41b25f",
+      "size": 521,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.129186Z"
+    },
+    "maps/tutor/materials/floor.tres": {
+      "sha256": "afd0cd3db5db77eb52ae0ee2b0222df4d27900d13cdbccdf79627c7010512264",
+      "size": 557,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.129285Z"
+    },
+    "maps/tutor/materials/metal.tres": {
+      "sha256": "756d166307efbe1a765d4c687347c0b5096bdaeba83a909bf3ecd5e146c22f55",
+      "size": 596,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.129382Z"
+    },
+    "maps/tutor/materials/tile_ceiling.tres": {
+      "sha256": "9060e9e2f31cd62c22e7b42b8726ab4526bdc290f129bf0f7479aea25c135ec3",
+      "size": 447,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.129475Z"
+    },
+    "maps/tutor/materials/tile_floor.tres": {
+      "sha256": "521e67e1112d7bb6465d428fe536ef09eee4140b56cccec5b9c49b413c977e53",
+      "size": 600,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.129571Z"
+    },
+    "maps/tutor/materials/tile_wall.tres": {
+      "sha256": "05b4a3e09f7bc56b2e4454750a4db9e7521ef9e97c9c863352f949d1f8c05a8d",
+      "size": 449,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.129662Z"
+    },
+    "maps/tutor/materials/underwater_tile.tres": {
+      "sha256": "6173666e05addc5eb0b96bb463c6639930e513331a6fa4e13ca98b0debc375ff",
+      "size": 485,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.129755Z"
+    },
+    "maps/tutor/materials/wall.tres": {
+      "sha256": "3b5f230879d186959e4013b00641cd4c6c0924b2efaa577c50dffa1665abaeb0",
+      "size": 555,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.129846Z"
+    },
+    "maps/tutor/materials/wood.tres": {
+      "sha256": "f96cb1012f27091ce2cbe538171d6f1c7dc78d707c5702d51b3f66f2c2a2fce2",
+      "size": 444,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.129937Z"
+    },
+    "maps/tutor/textures/books_atlas.png": {
+      "sha256": "5268c4d299b9724a41bf669dd09d6cf4db96bf601683ef639cc508937a92a670",
+      "size": 283523,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.132528Z"
+    },
+    "maps/tutor/textures/ceramic.png": {
+      "sha256": "f541ded55245b6bed875b2a6370d73d63f4ac2d68290784c1a537f4787933fcd",
+      "size": 72960,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.133478Z"
+    },
+    "maps/tutor/textures/metal.png": {
+      "sha256": "c893958d07fc36112454c782831115ebdc129b6b601c4c7ea830b1011ecb7e10",
+      "size": 101695,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.134814Z"
+    },
+    "maps/tutor/textures/source/books_source.png": {
+      "sha256": "b01be208cabfb5ba6376470dc40b5e6fac8be67ed6ada6bcb064e8f5c0389b62",
+      "size": 3861608,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.153649Z"
+    },
+    "maps/tutor/textures/source/ceramic_source.png": {
+      "sha256": "c0783b43c78c30b5705dfb6177be59e3b79d432acccb2c3d48ffd350df7605be",
+      "size": 2352033,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.164860Z"
+    },
+    "maps/tutor/textures/source/metal_source.png": {
+      "sha256": "1f6dca818a319b076913616d1bbb4d75f8edc05c5d9453f6e65ffc64435783cb",
+      "size": 3463790,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.181829Z"
+    },
+    "maps/tutor/textures/source/wood_source.png": {
+      "sha256": "c965416462f07037789f199a17c9fc87b53ba459ebcb508de7d52c92be99debe",
+      "size": 2560402,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.195078Z"
+    },
+    "maps/tutor/textures/wood.png": {
+      "sha256": "19221588e2523712bd5e296a269d6b1e64ab1af5932fb4a4aab16c12da1616e8",
+      "size": 101683,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.196552Z"
+    },
+    "maps/tutor/tutor.tres": {
+      "sha256": "69b6ebb873007ca4625b0a459cc91d5e658647c1272e7b1dca10d3dfb99c2fff",
+      "size": 472,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.196677Z"
+    },
+    "maps/tutor/water/pool_surface.tres": {
+      "sha256": "50858718055dc1c149693d3032993b3575ca44f05ef261cbbae153a75d4b992c",
+      "size": 216,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.196780Z"
+    },
+    "materials/props/mat_locker_body.tres": {
+      "sha256": "f4055c9bfe306d28cc2c22f3e07ac51ebc2f8ec533159b16b669d9394f94f438",
+      "size": 859,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.197111Z"
+    },
+    "materials/props/mat_locker_door.tres": {
+      "sha256": "d9b85341f84e058527e5617cc47ba99029768730664a2b8ed4762a4a25a7c81d",
+      "size": 824,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.197438Z"
+    },
+    "materials/props/mat_locker_interior.tres": {
+      "sha256": "ff97d00545bf6e751bebdd2b9f1311766ff1a5236f3640bd5d64fe8337a59a99",
+      "size": 355,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.197541Z"
+    },
+    "materials/proto/proto_Dark_01.tres": {
+      "sha256": "09d732744cb99f840b454eeb440baefa1e60678505199297beb87e626b3ea21a",
+      "size": 344,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.197636Z"
+    },
+    "materials/proto/proto_Dark_05.tres": {
+      "sha256": "5238ccfe0bbdcbef2dacc6773f88aa070ee7920b6e65c6d5ac2769f4db3101d9",
+      "size": 344,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.197725Z"
+    },
+    "materials/proto/proto_Green_06.tres": {
+      "sha256": "404cb72520e7339813d57e592fb70b12c1e453377c8575322e529dad93ecd126",
+      "size": 345,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.197814Z"
+    },
+    "materials/proto/proto_Green_10.tres": {
+      "sha256": "98e32fbb2ac21cf0a80ec693d0ba5ed56d7a70907b72c2ae603956e0c44c1360",
+      "size": 345,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.197902Z"
+    },
+    "materials/proto/proto_Light_02.tres": {
+      "sha256": "1fd6dd8ca3c5b9e040bf40311264913595f6bc675f892cc13f0552286d80bff0",
+      "size": 345,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.197991Z"
+    },
+    "materials/proto/proto_Light_11.tres": {
+      "sha256": "de1548a8011118fee0cba95362e1ecdc477bd119a21d885afad49a3f43e9b15e",
+      "size": 345,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.198123Z"
+    },
+    "materials/proto/proto_Orange_03.tres": {
+      "sha256": "36bed1425cec0b9af1a8b01582d6f9bb77fcb75c6070de71db28275a9e8d365a",
+      "size": 346,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.198234Z"
+    },
+    "materials/proto/proto_Purple_08.tres": {
+      "sha256": "e09a3ea98d28d3a50ad841db2cf2e1e1849a471c8bfa0563ae3dbc2192f5306c",
+      "size": 346,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.198326Z"
+    },
+    "materials/proto/proto_Red_13.tres": {
+      "sha256": "e6d1b1c16bd47594fb9a4a2ad40039946b9c609e343c5f4bfe6a8c20e3f131b3",
+      "size": 343,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.198414Z"
+    },
+    "materials/trash/mat_trash_complex.tres": {
+      "sha256": "56a636845fe50e2af0d7e0988325a6efd013621cfd88045bc04492b21971af40",
+      "size": 708,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.198770Z"
+    },
+    "materials/trash/mat_trash_simple.tres": {
+      "sha256": "73907f77632087cdc29202a30a17f6f25381e0d48dd1b9360021f6d48d625b56",
+      "size": 705,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.199043Z"
+    },
+    "materials/votv_bunker/mat_votv_bunker_tile.tres": {
+      "sha256": "0fb67518c2eed125fec22c431f3d24f4b245d6f9369bbcaa4f5482fdd5945c26",
+      "size": 1088,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.199421Z"
+    },
+    "materials/votv_bunker/mat_votv_bunker_tile_standard.tres": {
+      "sha256": "4ed75113106f12fda0511c831441db9bb01abee3cc2b8523fb821d0eaa855000",
+      "size": 654,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.199530Z"
+    },
+    "materials/votv_bunker/mat_votv_postprocess.tres": {
+      "sha256": "5481bf0cd64ed9e2f3f871ab5868f869ce621c646a1be5f9adfbb9f177be6663",
+      "size": 835,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.199865Z"
+    },
+    "materials/votv_bunker/votv_tile_albedo.png": {
+      "sha256": "c8c48dac9c407e07464ae8df1462857610143b4986c2396de6e45e666182c430",
+      "size": 212341,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.201958Z"
+    },
+    "materials/votv_bunker/votv_tile_normal.png": {
+      "sha256": "f08ed6931d6e0344473e00ffc4da58a9dce2cbbc3a8d1af0612109bc3457db07",
+      "size": 397899,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.205121Z"
+    },
+    "materials/votv_bunker/votv_tile_roughness.png": {
+      "sha256": "f9feaf5bceb630e97d4759b1a101ef63e990fe104c75921a2ec7dd3a2a95f481",
+      "size": 121329,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.206206Z"
+    },
+    "materials/votv_bunker/votv_world_environment.tres": {
+      "sha256": "be32767f0f427d2026bb08c8942860b8b519969418ac275b6b20037561e6e682",
+      "size": 593,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.206348Z"
+    },
+    "models/props/command_terminal_tile_apparatus_cables_bundle.png": {
+      "sha256": "b10c991c0046fcdfb2fd49f92ab1606a74cdd756660eeb149f534e8a1a34baf5",
+      "size": 24382,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.206911Z"
+    },
+    "models/props/command_terminal_tile_apparatus_crt_phosphor.png": {
+      "sha256": "1e1cc4b534c684a65375b3f162f7fbbae5c73b29f182af3ef050f560733921fd",
+      "size": 15730,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.207343Z"
+    },
+    "models/props/command_terminal_tile_apparatus_pcb_circuit.png": {
+      "sha256": "8433009a721d9918cae0cfe623f8cbe7371df6b4ce33f050a70eeb4af2d205dd",
+      "size": 23891,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.207784Z"
+    },
+    "models/props/command_terminal_tile_facility_wall_panel.png": {
+      "sha256": "88eeab020ea650e7e2d7f77d638fe496581cad24154d09b326c1e901918f364e",
+      "size": 20157,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.208286Z"
+    },
+    "models/props/command_terminal_tile_tech_panel_hazard.png": {
+      "sha256": "d8c90d0e26c2e2338fd6af5c2399b3ea3143bf5510b4fb5798d76e3b6d0eba92",
+      "size": 15938,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.208805Z"
+    },
+    "models/props/computer_terminal_Image_0.png": {
+      "sha256": "2edaebb8867e2b1542d8f6fd5728421801a654d71c4a37a94e9c1afd88348654",
+      "size": 6378717,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.239676Z"
+    },
+    "models/props/computer_terminal_Image_1.png": {
+      "sha256": "f730c4d413170f5cbf3315a42810f02da60bd3f7aedec1bd8824db6ff596248b",
+      "size": 4417212,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.261940Z"
+    },
+    "models/props/computer_terminal_Image_2.png": {
+      "sha256": "4a4554c40a626c54ba3a6ad98edd6cc09b332185ee2c2d7cc36f6c624cd3c6c9",
+      "size": 735,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.262362Z"
+    },
+    "models/props/computer_terminal_Image_3.png": {
+      "sha256": "1125d50023928f46c8cdbad5e08f8877ba88f312146b744a004d883936ebfbcf",
+      "size": 3279263,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.278858Z"
+    },
+    "models/props/floppy_disk_tile_apparatus_crt_phosphor.png": {
+      "sha256": "1e1cc4b534c684a65375b3f162f7fbbae5c73b29f182af3ef050f560733921fd",
+      "size": 15730,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.279499Z"
+    },
+    "models/props/floppy_disk_tile_drone_hull_armor.png": {
+      "sha256": "3bf5e9a8eca5d91553041876c4b4ad36372d497c9e487c22f416afd1209b96c4",
+      "size": 18564,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.279905Z"
+    },
+    "models/props/floppy_disk_tile_facility_vent_duct.png": {
+      "sha256": "079435b9b1ebef35c13c9ab733b4ef1e2ae0d1e98a885840376798d612ede550",
+      "size": 16670,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.280337Z"
+    },
+    "models/props/hospital_screen_curtain_fabric_albedo.png": {
+      "sha256": "fb50e613353c9acd2446da01799986b960f777cc63131aad19bc672ad1304437",
+      "size": 1156353,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.288065Z"
+    },
+    "models/props/hospital_screen_curtain_fabric_normal.png": {
+      "sha256": "a79fd21556178dd5f8c5dd44f684b87295820be8af84a579aaab379177b40715",
+      "size": 828257,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.293876Z"
+    },
+    "models/props/hospital_screen_curtain_fabric_roughness.png": {
+      "sha256": "faf525df8f73d19a733c9ef430fb03003d29666037c88ea4941930a3eaa2a65e",
+      "size": 16048,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.294326Z"
+    },
+    "models/props/hospital_screen_frame_metal_albedo.png": {
+      "sha256": "51705be44f79085bcbc4c898634f310bbd2a528e1957da4e02843c84f66583b3",
+      "size": 283424,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.296646Z"
+    },
+    "models/props/hospital_screen_frame_metal_normal.png": {
+      "sha256": "eb0fb14dff7c905512ec7dcb9b829a71a9175407bcd023e84f053506585cf896",
+      "size": 325315,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.299500Z"
+    },
+    "models/props/hospital_screen_frame_metal_roughness.png": {
+      "sha256": "6e3ad584d474843e0c23ca250fa90b236deff9f091252d645d860d7a397edf2e",
+      "size": 23383,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.300030Z"
+    },
+    "models/props/material_refinery_lid_tile_facility_metal_diamond.png": {
+      "sha256": "2ccd1bfdfc8c86a650aaa11c35276646b2626c8a51a16728003e2e972d785c42",
+      "size": 28691,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.300530Z"
+    },
+    "models/props/material_refinery_lid_tile_interior_grimy_glass.png": {
+      "sha256": "3a7b5d2eb1b601534cbeb1a490f0a75ba3fadafb69587cd2480501849e960d85",
+      "size": 21316,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.300996Z"
+    },
+    "models/props/material_refinery_lid_tile_mech_metal_chassis.png": {
+      "sha256": "ea87a38f92f48640cf268a00babf5f0c8273713ba8c2a80802f0108ffc22abf2",
+      "size": 20265,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.301416Z"
+    },
+    "models/props/material_refinery_lid_tile_tech_panel_hazard.png": {
+      "sha256": "d8c90d0e26c2e2338fd6af5c2399b3ea3143bf5510b4fb5798d76e3b6d0eba92",
+      "size": 15938,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.301983Z"
+    },
+    "models/props/material_refinery_tile_apparatus_crt_phosphor.png": {
+      "sha256": "1e1cc4b534c684a65375b3f162f7fbbae5c73b29f182af3ef050f560733921fd",
+      "size": 15730,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.302523Z"
+    },
+    "models/props/material_refinery_tile_apparatus_pcb_circuit.png": {
+      "sha256": "8433009a721d9918cae0cfe623f8cbe7371df6b4ce33f050a70eeb4af2d205dd",
+      "size": 23891,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.303098Z"
+    },
+    "models/props/material_refinery_tile_facility_grate_mesh.png": {
+      "sha256": "9fead99a82765de1f66eda20c5e19f9b15b70e6d52f994b8e1e3225d0a8bdfeb",
+      "size": 25126,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.303769Z"
+    },
+    "models/props/material_refinery_tile_facility_metal_diamond.png": {
+      "sha256": "2ccd1bfdfc8c86a650aaa11c35276646b2626c8a51a16728003e2e972d785c42",
+      "size": 28691,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.304224Z"
+    },
+    "models/props/material_refinery_tile_facility_vent_duct.png": {
+      "sha256": "079435b9b1ebef35c13c9ab733b4ef1e2ae0d1e98a885840376798d612ede550",
+      "size": 16670,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.304740Z"
+    },
+    "models/props/material_refinery_tile_facility_wall_panel.png": {
+      "sha256": "88eeab020ea650e7e2d7f77d638fe496581cad24154d09b326c1e901918f364e",
+      "size": 20157,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.305263Z"
+    },
+    "models/props/material_refinery_tile_mech_metal_chassis.png": {
+      "sha256": "ea87a38f92f48640cf268a00babf5f0c8273713ba8c2a80802f0108ffc22abf2",
+      "size": 20265,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.305861Z"
+    },
+    "models/props/material_refinery_tile_tech_panel_hazard.png": {
+      "sha256": "d8c90d0e26c2e2338fd6af5c2399b3ea3143bf5510b4fb5798d76e3b6d0eba92",
+      "size": 15938,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.306240Z"
+    },
+    "models/props/metal_locker_locker_body_albedo.png": {
+      "sha256": "b8fdf9e3fda603ec8a683bd2c968ad1b0357597b281805dc02387f960235d1f4",
+      "size": 1427551,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.314894Z"
+    },
+    "models/props/metal_locker_locker_body_metallic-locker_body_roughness.png": {
+      "sha256": "560ffa64d550aff0e679aea022deebb1637e81fdf8d7e98af884b8782b32d49c",
+      "size": 21268,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.315416Z"
+    },
+    "models/props/metal_locker_locker_body_normal.png": {
+      "sha256": "35858d67511a078b85d299d55a0552a5be9251d9137041edf2f1899afa8ae00e",
+      "size": 922941,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.322467Z"
+    },
+    "models/props/metal_locker_locker_door_albedo.png": {
+      "sha256": "2aceef0b48e78bfb80fe899db8c09c961c0be6ac0fca16eb5a6414db9b20eef9",
+      "size": 1174070,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.330126Z"
+    },
+    "models/props/metal_locker_locker_door_metallic-locker_door_roughness.png": {
+      "sha256": "8bf6d1a002fe246d2a7fbad4a01447cf030dc306140fbb5d49eb597a98f99580",
+      "size": 59515,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.330905Z"
+    },
+    "models/props/metal_locker_locker_door_normal.png": {
+      "sha256": "d90cbd9da43aad2727ac0e100319b68dc2020f0d55f2f6b2a1df0c5ff45d484c",
+      "size": 757328,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.336223Z"
+    },
+    "models/props/metal_locker_locker_interior_albedo.png": {
+      "sha256": "be3ccc12e183f902791c98327e8c207d88f10b1a8099c9f1c44e747b6105c2de",
+      "size": 1240420,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.344640Z"
+    },
+    "models/props/renders/render_front.png": {
+      "sha256": "1219764b00234cbd48764ce5f8d8e4a03a81f7e138ed439b01454350df41c5eb",
+      "size": 724989,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.350270Z"
+    },
+    "models/props/renders/render_iso.png": {
+      "sha256": "86b4cc938eef65a3d3a53c8cb432ece3cb2bb1e26bed273789159ff641c42aef",
+      "size": 748154,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.355282Z"
+    },
+    "models/props/renders/render_locker_front.png": {
+      "sha256": "0041932413bb321a83c0cea6e23f24be49b7e798ac02966a8e141a200cb4abba",
+      "size": 965726,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.362619Z"
+    },
+    "models/props/renders/render_locker_iso_closed.png": {
+      "sha256": "4df2eb0aebbc1424a930b32156fd8489cab1d3494c7c8e251cca121a617a42ae",
+      "size": 1010587,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.369282Z"
+    },
+    "models/props/renders/render_locker_iso_open.png": {
+      "sha256": "1f2e5cc46d44a972568efe5e6f99f9a3d3ad87c970c620f8cb4af6f5e107aa8d",
+      "size": 979955,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.376681Z"
+    },
+    "mods/maps/liminal_megalophobia/icon.png": {
+      "sha256": "a18725068761e6df1013936a0f0cef3f0a777e78d86cfbb6acc2bb416fd987e9",
+      "size": 31147,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.377307Z"
+    },
+    "mods/maps/liminal_megalophobia/liminal_audio_bus.tres": {
+      "sha256": "e41f1706f08d98cd301a3e60b8445c06dadbfc224cbe8c2ae882af92c535030a",
+      "size": 894,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.377716Z"
+    },
+    "mods/maps/liminal_megalophobia/preview.png": {
+      "sha256": "d44df1edfba9465709c7597e25ecf56ff81897fdc5891169ea0926db5976dea3",
+      "size": 418550,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.380830Z"
+    },
+    "mods/maps/test-map-map/checker_512x512/checker_black_512x512.png": {
+      "sha256": "aa8f715f5de75fac137223b29c103ac8bf5a6de8db7f258fce5ce3fc48cb4e54",
+      "size": 2516,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.381282Z"
+    },
+    "mods/maps/test-map-map/checker_512x512/checker_blue_512x512.png": {
+      "sha256": "319ac006ff592b7017685b10fe942ca90ccfe7cfb06bec19cc563b06ba1c2d62",
+      "size": 2552,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.381628Z"
+    },
+    "mods/maps/test-map-map/checker_512x512/checker_cyan_512x512.png": {
+      "sha256": "da04a6747c3be91f45f4272eaa33e495dc384fa66d878b8807e153b5df35b373",
+      "size": 2555,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.382060Z"
+    },
+    "mods/maps/test-map-map/checker_512x512/checker_lime_512x512.png": {
+      "sha256": "f453817ce6a56f246107d167a1979f12f1430cea81c5acb0d956f51c0de0c3fc",
+      "size": 2554,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.382385Z"
+    },
+    "mods/maps/test-map-map/checker_512x512/checker_orange_512x512.png": {
+      "sha256": "e32279b8a36e5d1b2b5dc9e64f5652fd53e853572ab2d36b576df2e880c18ca1",
+      "size": 2536,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.382776Z"
+    },
+    "mods/maps/test-map-map/checker_512x512/checker_pink_512x512.png": {
+      "sha256": "2fd5b30595ebc0e6fa71b60cb66e207872545764bfa07ff8ad4acf084aa92698",
+      "size": 2555,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.383110Z"
+    },
+    "mods/maps/test-map-map/checker_512x512/checker_red_512x512.png": {
+      "sha256": "58a024b72504efbe02655177b5a49667492cb5ccccfe0b6f8b715e9178971b31",
+      "size": 2544,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.383385Z"
+    },
+    "mods/maps/test-map-map/checker_512x512/checker_white_512x512.png": {
+      "sha256": "11d9c67d927957509799da8b683deca61dcc9d86b9cf41ffa09bc653c177ab20",
+      "size": 2521,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.383717Z"
+    },
+    "mods/maps/test-map-map/checker_512x512/checker_yellow_512x512.png": {
+      "sha256": "504120715ff83bb6cd32ea3677d7fc9c83988fe03c5093abeee842464fa4a8c4",
+      "size": 2527,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.384036Z"
+    },
+    "mods/maps/test-map-map/grid_1024x1024/grid_black_1024x1024.png": {
+      "sha256": "cbee654eb9e044a900ae4936653172b259e3901e04c2662e0bc18701891fe9a1",
+      "size": 8093,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.384448Z"
+    },
+    "mods/maps/test-map-map/grid_1024x1024/grid_blue_1024x1024.png": {
+      "sha256": "9d5ec86bf01c3acbe89ef0aa45478f718a5552fc6c3b1db0ee2f028a7e712c03",
+      "size": 8112,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.384780Z"
+    },
+    "mods/maps/test-map-map/grid_1024x1024/grid_cyan_1024x1024.png": {
+      "sha256": "56116ac90f15cefa8a94e5e9e09efa07f5bb6b314da0b5efbdea18020bce0370",
+      "size": 8126,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.385246Z"
+    },
+    "mods/maps/test-map-map/grid_1024x1024/grid_lime_1024x1024.png": {
+      "sha256": "d2b18d8efbbd4231c0655f43c99d3fe975373fa7df0150528319adbf82987368",
+      "size": 8137,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.385716Z"
+    },
+    "mods/maps/test-map-map/grid_1024x1024/grid_orange_1024x1024.png": {
+      "sha256": "36b396ed5db1b53267ff0acffbb25b8426b1e8ec9e1216f621c0458601404951",
+      "size": 8094,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.386025Z"
+    },
+    "mods/maps/test-map-map/grid_1024x1024/grid_pink_1024x1024.png": {
+      "sha256": "84142275bf8646f2df1e3410d67d6ffa3f71b7fb81ecfc032597ad2fae43c230",
+      "size": 8144,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.386381Z"
+    },
+    "mods/maps/test-map-map/grid_1024x1024/grid_red_1024x1024.png": {
+      "sha256": "77ba497e45827cb6e18e1356f5d721c7fd2d39386527005c0080ab2291b4ead0",
+      "size": 8060,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.386692Z"
+    },
+    "mods/maps/test-map-map/grid_1024x1024/grid_white_1024x1024.png": {
+      "sha256": "beae693be0e1b23aa375732eb965cbd259b4e452ff3b5759cc3b691f5f422a9c",
+      "size": 7612,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.387061Z"
+    },
+    "mods/maps/test-map-map/grid_1024x1024/grid_yellow_1024x1024.png": {
+      "sha256": "670573e607b52066180ed888fe622d8b883a6201edb7a2a915719b3b2c345766",
+      "size": 8009,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.387360Z"
+    },
+    "mods/maps/test-map-map/images/image_2026-09-24_13-55-18.png": {
+      "sha256": "bd322cdee331d94dd3debc89d0266b913e450d304ba58dbfd8904cec99cada6c",
+      "size": 424532,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.390351Z"
+    },
+    "mods/maps/test-map-map/is_this.png": {
+      "sha256": "c3b7319b122a53fd42151c46a9e38d43262df4857f4175e0826beeb8bd2b547b",
+      "size": 9985,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.390797Z"
+    },
+    "mods/maps/test-map-map/sky_pure_day.hdr": {
+      "sha256": "a84d211d59fa0284535c7563eaefc38944fd055f8934e4494dc5d65a85f674a3",
+      "size": 16448505,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.478759Z"
+    },
+    "mods/maps/test-map-map/tGN9y4xhqdgcr93yrCtjHRifO1_VlJwWtlK7yvFAo1aIJdEuMFoofdbkOOEAc2WXL2r8fKmGGVkyF49fKVYnricx.jpg": {
+      "sha256": "9b53875ecabacbb7091f2902ee4623c6173ce5c237ad7bc6117c65870caf4e57",
+      "size": 65075,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.479528Z"
+    },
+    "prefabs/entities/cockroach/cockroach_albedo.png": {
+      "sha256": "0e140e7ebe0668ffbe3627648b0fb1d32309e8dd7b2cd259bf250e655fc6cb4c",
+      "size": 1616107,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.490201Z"
+    },
+    "prefabs/entities/cockroach/cockroach_cockroach_albedo.png": {
+      "sha256": "0e140e7ebe0668ffbe3627648b0fb1d32309e8dd7b2cd259bf250e655fc6cb4c",
+      "size": 1616107,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.499876Z"
+    },
+    "prefabs/entities/cockroach/cockroach_cockroach_normal.png": {
+      "sha256": "0884478808b510d2228345f2e6982a9f6d7aa1f64c94b226964cf7f243c37424",
+      "size": 2103346,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.510993Z"
+    },
+    "prefabs/entities/cockroach/cockroach_cockroach_roughness.png": {
+      "sha256": "5c537fd7dc78e60a0295efd5a9027083eb876f27d7424809cd01330d5be0a608",
+      "size": 638600,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.516040Z"
+    },
+    "prefabs/entities/cockroach/cockroach_normal.png": {
+      "sha256": "0884478808b510d2228345f2e6982a9f6d7aa1f64c94b226964cf7f243c37424",
+      "size": 2103346,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.530074Z"
+    },
+    "prefabs/entities/cockroach/cockroach_roughness.png": {
+      "sha256": "a59f1ade5be55cf033e0c71218ae4c727ba715d266014b7dd3adcefc9f3d8106",
+      "size": 375987,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.533555Z"
+    },
+    "prefabs/entities/cockroach/cockroach_texture_raw.png": {
+      "sha256": "0e140e7ebe0668ffbe3627648b0fb1d32309e8dd7b2cd259bf250e655fc6cb4c",
+      "size": 1616107,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.544474Z"
+    },
+    "prefabs/entities/cockroach/mat_cockroach.tres": {
+      "sha256": "9bbc5fa3de2b0888d5af3d4a171bd581e313191f172932c4c8ee5716c5631d48",
+      "size": 763,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.544892Z"
+    },
+    "prefabs/entities/cockroach/renders/cockroach_front.png": {
+      "sha256": "2d1bd2d5786ba20014fc9c55b8864aa636cf27be426180e33e9a9510e2c2af71",
+      "size": 1165602,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.553287Z"
+    },
+    "prefabs/entities/cockroach/renders/cockroach_iso.png": {
+      "sha256": "c351e6023a6c229ab89a3524540f5bca48050390b6efba8644039f71f3752d8f",
+      "size": 1234220,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.561572Z"
+    },
+    "prefabs/entities/cockroach/renders/cockroach_top.png": {
+      "sha256": "883a7df0aacadcc9e0bdf889fc7c3d695468ce3707743deb5f5b95e77368db43",
+      "size": 1321835,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.570224Z"
+    },
+    "prefabs/entities/companion/companion_albedo.png": {
+      "sha256": "8f2a5e01307f140ba1e337a8e4ac5bb4ca3d2a6daa0bba1f42301f199f206693",
+      "size": 1347417,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.579307Z"
+    },
+    "prefabs/entities/companion/companion_companion_albedo.png": {
+      "sha256": "8f2a5e01307f140ba1e337a8e4ac5bb4ca3d2a6daa0bba1f42301f199f206693",
+      "size": 1347417,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.587005Z"
+    },
+    "prefabs/entities/companion/companion_companion_emission.png": {
+      "sha256": "8eb4df8a32908cf3f4ab9feeba81897aef7b3ffd0f814da226d3557885940d27",
+      "size": 3986,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.587392Z"
+    },
+    "prefabs/entities/companion/companion_companion_normal.png": {
+      "sha256": "344e5e009c62ea0470f1aef60a8012feefc22436a0105d2f798889ba5796e7e6",
+      "size": 1820079,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.596799Z"
+    },
+    "prefabs/entities/companion/companion_companion_roughness.png": {
+      "sha256": "f2aba2bd2a5e305028086982fc380387259966ef21d9653dc5074dae262225cb",
+      "size": 19516,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.597387Z"
+    },
+    "prefabs/entities/companion/companion_emission.png": {
+      "sha256": "8eb4df8a32908cf3f4ab9feeba81897aef7b3ffd0f814da226d3557885940d27",
+      "size": 3986,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.597784Z"
+    },
+    "prefabs/entities/companion/companion_normal.png": {
+      "sha256": "344e5e009c62ea0470f1aef60a8012feefc22436a0105d2f798889ba5796e7e6",
+      "size": 1820079,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.609820Z"
+    },
+    "prefabs/entities/companion/companion_roughness.png": {
+      "sha256": "982f41ecbdfa2d4d9a1d326b26b5cab8b26f6d09281a890a8fefc48445b85870",
+      "size": 4313,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.610295Z"
+    },
+    "prefabs/entities/companion/companion_texture_raw.png": {
+      "sha256": "970a3113f0b9d3ca27ef13e4321de3741922a83862bac9281f145442bad777c3",
+      "size": 1455005,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.620877Z"
+    },
+    "prefabs/entities/companion/companion_texture_v2_raw.png": {
+      "sha256": "6b13b28d984285f4d1102cb4ea8a98783637d9a16c2245f4de957798126307e6",
+      "size": 669225,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.625865Z"
+    },
+    "prefabs/entities/companion/mat_companion.tres": {
+      "sha256": "928cdd69117ab82bad8c16eb6494ab7a1544c5a6fcbf83cf5ab1259696a4bb10",
+      "size": 1032,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.626263Z"
+    },
+    "prefabs/entities/companion/renders/companion_closeup.png": {
+      "sha256": "3b51d5155bad8e01ba1535750b65a80b3c50f5e7d250e1534c2d738d618746e3",
+      "size": 738881,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.631939Z"
+    },
+    "prefabs/entities/companion/renders/companion_front.png": {
+      "sha256": "3e72d70d17e540264c76782eea4c6c6cfc06e6715eac96c3fd7300abcfc2b2b9",
+      "size": 453764,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.635658Z"
+    },
+    "prefabs/entities/companion/renders/companion_iso.png": {
+      "sha256": "8d864325e92a836ccf54da4089e3df5811cd321c0b7409dd900b0824fc7fe41c",
+      "size": 414954,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.639452Z"
+    },
+    "prefabs/entities/spider_bot/images/image_2026-09-25_19-00-23.png": {
+      "sha256": "e3e0a6a756afcf59c52b49a12ee3b83600b7145acb1ae3e435eb04fcf038b565",
+      "size": 2275953,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.650062Z"
+    },
+    "prefabs/entities/spider_bot/mat_spider_bot.tres": {
+      "sha256": "6a18157100d9a903a826dc3a717051d77bf00afa80d9debc41d8b817ae7d8101",
+      "size": 214,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.650235Z"
+    },
+    "prefabs/entities/spider_bot/renders/spider_bot_front.png": {
+      "sha256": "4c7c5c6e2ce318baef0105db38ac227233ce9e61990bab142950292303775056",
+      "size": 1037360,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.657965Z"
+    },
+    "prefabs/entities/spider_bot/renders/spider_bot_iso.png": {
+      "sha256": "e0cac1e572b0403c0650ab0045ffbe43dfd95e8d0b2eb45dd71ba20496cf4272",
+      "size": 1078216,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.665645Z"
+    },
+    "prefabs/entities/spider_bot/renders/spider_bot_open_iso.png": {
+      "sha256": "e14344932f0ed18cfdc99715d1089b1dcea34bec01d92c67688a0108d39fb2ba",
+      "size": 1073089,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.673444Z"
+    },
+    "prefabs/entities/spider_bot/renders/spider_bot_top.png": {
+      "sha256": "427fff489a87669c0a5253751bf9ff74768d89e6f221f00f830520f20118a94c",
+      "size": 1052198,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.680661Z"
+    },
+    "prefabs/entities/spider_bot/renders/test_open_frame30.png": {
+      "sha256": "b9ca6feef230d43b9689812911eb8cb41831942a8378ecd7891e7da88ec9d28f",
+      "size": 1055223,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.687885Z"
+    },
+    "prefabs/entities/spider_bot/spider_bot_tile_drone_hull_armor.png": {
+      "sha256": "3bf5e9a8eca5d91553041876c4b4ad36372d497c9e487c22f416afd1209b96c4",
+      "size": 18564,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.688373Z"
+    },
+    "prefabs/entities/spider_bot/spider_bot_uv_layout.png": {
+      "sha256": "a380b5154588565636771b2bbd4af28c508671bf822f7f101b18fc98ee32d788",
+      "size": 38422,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.688863Z"
+    },
+    "prefabs/interactive/refinery_materials/mat_apparatus_crt_phosphor.tres": {
+      "sha256": "cc61d6373a301771e77bb8cd405b93c5a9e66b57b132148ed016529b0346a85b",
+      "size": 393,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.688991Z"
+    },
+    "prefabs/interactive/refinery_materials/mat_mech_metal_chassis.tres": {
+      "sha256": "135115da81096f635dfd14213123a31d31f15547b2056361824d2fbe8f7be9a3",
+      "size": 387,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.689102Z"
+    },
+    "prefabs/interactive/refinery_materials/mat_tech_panel_hazard.tres": {
+      "sha256": "2a2cd382e0e7b7081599fccabf4df1ddeacf03cea1dbe44cc787d3d7d7d0fac9",
+      "size": 385,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.689201Z"
+    },
+    "prefabs/wooden_crate/assets/crate_albedo.png": {
+      "sha256": "28b1b66332314c527056134a5edc99ae58b987be4b94cfe76f45f1780b035f1a",
+      "size": 3539499,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.707280Z"
+    },
+    "prefabs/wooden_crate/assets/crate_break_atlas.png": {
+      "sha256": "1dadb80b9d035560de516e3bab56380229de9355a4ef105465eabc84099aacdd",
+      "size": 1468440,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.716342Z"
+    },
+    "prefabs/wooden_crate/assets/crate_uv_guide.png": {
+      "sha256": "ec9775a987b0deb6f738c71f5545af05caa316993e3d50e12d189ce315bc1aae",
+      "size": 9561,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.716786Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_00.png": {
+      "sha256": "6bbeb4fe8ec74a7a31defadb08b0dab35666cd6268fe584efad22f99423d7209",
+      "size": 34815,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.717450Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_01.png": {
+      "sha256": "7e8883ed8d6076a7015d5f0427d4620c4a5e3a361c8aaf8541129eb2b2bfbc54",
+      "size": 82187,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.718462Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_02.png": {
+      "sha256": "7445c18988217b930ce5bc5ede9f218d341ad2b76bb4a015427024211797efa6",
+      "size": 109455,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.719620Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_03.png": {
+      "sha256": "9abec6498eb49e6b54b25828fb0d5f3b0325560ba9ec4da9f0116e5aacd11e87",
+      "size": 137358,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.721065Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_04.png": {
+      "sha256": "fb6339b8f0a4759809179d34eb491fc6ba22e7c1c844f9ef952b7b147c0858e8",
+      "size": 139995,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.722418Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_05.png": {
+      "sha256": "35f7a0be7c8070a5e1ba5cd1b76deb771556e940f4374567cd95f871f5ba4fbc",
+      "size": 132690,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.723843Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_06.png": {
+      "sha256": "11d858bbad877474fa8728b27a468c77b97fe5d82bea63fdd9f105bcdb4e7b94",
+      "size": 126815,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.724877Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_07.png": {
+      "sha256": "ca2b928ce26126a65c691636202097ea95d6e54e3fb2c60a0e62eb260d1230d4",
+      "size": 122230,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.725905Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_08.png": {
+      "sha256": "435431c552e9953ce492997dbba923da02101865abe1ed5a1670f0ceb7b684aa",
+      "size": 116972,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.727000Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_09.png": {
+      "sha256": "9b4df442172f39d81fed441a7946c3282e75f7230040b13edad55829d7354828",
+      "size": 113754,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.728102Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_10.png": {
+      "sha256": "f810c01d7345ec7c9dcf9aacc2f96e3475c8842879312f8492cc0f385e3c7faa",
+      "size": 102039,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.729046Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_11.png": {
+      "sha256": "37d4a6b9cc399133912d02a6c89fdddd78f15076d5fe43adcb9beb0d20357368",
+      "size": 78772,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.729934Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_12.png": {
+      "sha256": "afc2205e9ea6e3311fc77c46b769a3a0d5a4fd39560b0e1b61a8bf1bf3964032",
+      "size": 57541,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.730732Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_13.png": {
+      "sha256": "7b3236cf7f9364962224bc0c2f458415054acf7dd39754a1f77ab4554800f646",
+      "size": 52875,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.731280Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_14.png": {
+      "sha256": "9b5929f8285a8a900ac491460c67912eed617460c2d03a1280247af535d95399",
+      "size": 38181,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.731772Z"
+    },
+    "prefabs/wooden_crate/assets/frames/crate_break_15.png": {
+      "sha256": "fd32109fb07ef20bbcaff02fc9d8fa0b555ad8509778c113f6998b3dc864dc86",
+      "size": 21279,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.732219Z"
+    },
+    "prefabs/wooden_crate/previews/crate_back.png": {
+      "sha256": "7e4f49f7ffc653b12b657ce32ea75b011381bbf3f35d2959cacffe7b1dbd19b8",
+      "size": 149962,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.733774Z"
+    },
+    "prefabs/wooden_crate/previews/crate_break.png": {
+      "sha256": "b4470b28a8ae215a5c2f6eb1af8dfc50bdac79c76353635eccf29c28dd1d5cb0",
+      "size": 189812,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.735599Z"
+    },
+    "prefabs/wooden_crate/previews/crate_debris.png": {
+      "sha256": "41d901f9ae095cfa87ade2e3f1bd00499a199173388d5bd4898216065a2272c2",
+      "size": 197040,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.737489Z"
+    },
+    "prefabs/wooden_crate/previews/crate_front.png": {
+      "sha256": "833482c8d67fe33f4d94826c6e42ceb0be6b956d8de58f79d39f34c7daef7659",
+      "size": 123012,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.738801Z"
+    },
+    "prefabs/wooden_crate/previews/crowbar_contact.png": {
+      "sha256": "205a82ee503853944275a76bdad570c7cf617c4e6f7b0f3d27b4e57bacd5eb1d",
+      "size": 390952,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.742558Z"
+    },
+    "prefabs/wooden_crate/previews/crowbar_idle.png": {
+      "sha256": "70b89142d4f2653eba8aa3bed22d0fd85ca89a00dff895d87d52954cd18af463",
+      "size": 408543,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.745977Z"
+    },
+    "prefabs/wooden_crate/previews/crowbar_windup.png": {
+      "sha256": "c88cecdc7bfea71234d2a6f14bf1fc9b07c42fd1606f38409b620121972d3840",
+      "size": 405780,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.749311Z"
+    },
+    "psx_material_atlas/atlas_apparatus_psx_512.png": {
+      "sha256": "2940022954802117e4efbf56533edea47d8d0e113fef9084d1b57b9592df79e5",
+      "size": 117105,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.750558Z"
+    },
+    "psx_material_atlas/atlas_environment_psx_512.png": {
+      "sha256": "c529b56081435b9ef0321ce8af33b7fbd9ca4e2e11f40611cad322691320f9cb",
+      "size": 131035,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.751738Z"
+    },
+    "psx_material_atlas/atlas_facility_psx_512.png": {
+      "sha256": "dc2b474da9440a19e198767a081f3a9172ead1502e5c8b8b5fcdaa912cb6db71",
+      "size": 125560,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.752813Z"
+    },
+    "psx_material_atlas/atlas_interior_psx_512.png": {
+      "sha256": "184262d241ccff5090dc55501b015eb417ac2ce7ac973fd35801b47d90a5d413",
+      "size": 129017,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.754110Z"
+    },
+    "psx_material_atlas/atlas_lunar_psx_512.png": {
+      "sha256": "1468f243985af5122fb9f52dfa1915475cee1e3ea86f3226e655bd5004d53b49",
+      "size": 134005,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.755489Z"
+    },
+    "psx_material_atlas/atlas_tech_psx_512.png": {
+      "sha256": "524a58f4494f357b1f6d865e48419d2d239fae650a357d447a5deca5386d9415",
+      "size": 109465,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.756451Z"
+    },
+    "psx_material_atlas/godot_materials/mat_apparatus_barrel_toxic.tres": {
+      "sha256": "030e0f9db4270a6b2d1f4808aa3e73147ff64c5195fb653f7e80b0cbbdb70c9b",
+      "size": 435,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.756567Z"
+    },
+    "psx_material_atlas/godot_materials/mat_apparatus_cable_glossy_black.tres": {
+      "sha256": "d4585c733d5140f843d421252992d31fb92249614a5bf83d7d669bd2c74d2a31",
+      "size": 415,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.756669Z"
+    },
+    "psx_material_atlas/godot_materials/mat_apparatus_cables_bundle.tres": {
+      "sha256": "812b3e7775d2dcee23373e2aea90373f54812854546ce5723402a7f009cbbf15",
+      "size": 436,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.756801Z"
+    },
+    "psx_material_atlas/godot_materials/mat_apparatus_crt_phosphor.tres": {
+      "sha256": "a11f03940d7067d67d178500735041fb95fdb0bbd79733acd64151cc7604f506",
+      "size": 436,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.756901Z"
+    },
+    "psx_material_atlas/godot_materials/mat_apparatus_pcb_circuit.tres": {
+      "sha256": "e640a5310b31cf4253df25599955a80d20781e74f26cab2ea5f1b532f3d480dd",
+      "size": 435,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.756995Z"
+    },
+    "psx_material_atlas/godot_materials/mat_carbon_blade_weave.tres": {
+      "sha256": "6abfd44773582b7fecb0d13941e9213a47437be33c48341b54468c670b56031f",
+      "size": 428,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.757085Z"
+    },
+    "psx_material_atlas/godot_materials/mat_concrete_brutalist.tres": {
+      "sha256": "4a81476fa8ccf86217d4cdd7d3fa29869c72b4528d91c3383e060cf0c7e159c2",
+      "size": 459,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.757191Z"
+    },
+    "psx_material_atlas/godot_materials/mat_concrete_cracked.tres": {
+      "sha256": "81f22a562884a75affec8791e3f6ce3108494cf089d0fe828609a8dcef68244e",
+      "size": 415,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.757288Z"
+    },
+    "psx_material_atlas/godot_materials/mat_concrete_raw_monolith.tres": {
+      "sha256": "9a04f299d1136c9a922c6d820b6fdf767872a58dea79cf8ece2514d8c34da98e",
+      "size": 464,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.757386Z"
+    },
+    "psx_material_atlas/godot_materials/mat_concrete_votv.tres": {
+      "sha256": "458807c5ff03b4a0518a3c73d17f7f7461ec562921e62c54d181dfc809a0b537",
+      "size": 457,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.757478Z"
+    },
+    "psx_material_atlas/godot_materials/mat_drone_hull_armor.tres": {
+      "sha256": "1963b707c5c03e7d644005c01b26df0befbd213c33236b29630e99a74c8c66f8",
+      "size": 430,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.757577Z"
+    },
+    "psx_material_atlas/godot_materials/mat_facility_grate_mesh.tres": {
+      "sha256": "8df41b1c8f4fa4aa23e0c9cf968714f9075238d60789d6db6f81f36e630bdc5c",
+      "size": 428,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.757666Z"
+    },
+    "psx_material_atlas/godot_materials/mat_facility_metal_diamond.tres": {
+      "sha256": "a3956777a49aee8ff20b323f9f29b84536d65079a3d450836d5bbe8379c308ff",
+      "size": 433,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.757755Z"
+    },
+    "psx_material_atlas/godot_materials/mat_facility_vent_duct.tres": {
+      "sha256": "3ebf447d39713d746f0e8545bd918fa89572799f92c1022232deb8d9accbdef9",
+      "size": 431,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.757846Z"
+    },
+    "psx_material_atlas/godot_materials/mat_facility_wall_panel.tres": {
+      "sha256": "5c2e51175118c515b646fb587aa5bf0907001fbe64f44bbd9ce5bbb8833aab3f",
+      "size": 432,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.757948Z"
+    },
+    "psx_material_atlas/godot_materials/mat_human_door.tres": {
+      "sha256": "ee38bdf99e2f52bdb4e94bc5c82c6b7ee56b525dde86fe04cb93012c6344fba5",
+      "size": 246,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.758037Z"
+    },
+    "psx_material_atlas/godot_materials/mat_interior_fiberglass.tres": {
+      "sha256": "b4ce189598cc3358d7ed526871bea919b019b632250539c0cb63b1520834de8a",
+      "size": 420,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.758168Z"
+    },
+    "psx_material_atlas/godot_materials/mat_interior_grimy_glass.tres": {
+      "sha256": "1049a2640e64bfa9185b65625bd42a21c17f34f2dbb51b20df79f27fe87e7a55",
+      "size": 422,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.758268Z"
+    },
+    "psx_material_atlas/godot_materials/mat_interior_quilted_tarp.tres": {
+      "sha256": "6bfe9e42b3c53d52c0abf7632acee77d9f12a53b3372a86fd6c00c0b825c5d8d",
+      "size": 416,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.758359Z"
+    },
+    "psx_material_atlas/godot_materials/mat_interior_rubber_mat.tres": {
+      "sha256": "c9e4d3cf2d89615e85d3f70a97e33844dcde3e60dfdb9c241a97f8c7a4874c53",
+      "size": 414,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.758448Z"
+    },
+    "psx_material_atlas/godot_materials/mat_liminal_floor.tres": {
+      "sha256": "6fc0ef1198cc74c60cfca85155c8d98a674da854b03a6947f7c165452225a488",
+      "size": 457,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.758539Z"
+    },
+    "psx_material_atlas/godot_materials/mat_lunar_alien_ore.tres": {
+      "sha256": "7ac102a3744d98de53d37c8df41a16dedeb60cc95641016bcf38b092f4c51de0",
+      "size": 427,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.758627Z"
+    },
+    "psx_material_atlas/godot_materials/mat_lunar_basalt_rock.tres": {
+      "sha256": "15329b095be6fd9853353ea0d04cf1f3332fce2535aa498f9b0c7c8d006401e9",
+      "size": 430,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.758715Z"
+    },
+    "psx_material_atlas/godot_materials/mat_lunar_ice_crystal.tres": {
+      "sha256": "ec29f69cd3bb6b2b0025c2b01ede175681edc65dc8f81d4d0acccb74eaf5583a",
+      "size": 431,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.758806Z"
+    },
+    "psx_material_atlas/godot_materials/mat_lunar_regolith_dust.tres": {
+      "sha256": "fecd3a50a3d7d57c706a4d8b318075d8882cced63f3ad8473a064c5dbb2d8075",
+      "size": 415,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.758894Z"
+    },
+    "psx_material_atlas/godot_materials/mat_mech_metal_chassis.tres": {
+      "sha256": "c267ea2e454b748b24bbb2ef82be4444c5b23cb4679f03a071311cf076130913",
+      "size": 431,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.758989Z"
+    },
+    "psx_material_atlas/godot_materials/mat_metal_rusted.tres": {
+      "sha256": "8300d8ec4452cb51b798aa7ec3eaf92eab27e277035a423ee688ab8ad7487fab",
+      "size": 412,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.759079Z"
+    },
+    "psx_material_atlas/godot_materials/mat_stone_dungeon.tres": {
+      "sha256": "0102a464bab3bfc4e910cb7f2e63d1a790e91f4df380682f4da05611746f6a32",
+      "size": 414,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.759188Z"
+    },
+    "psx_material_atlas/godot_materials/mat_tech_panel_hazard.tres": {
+      "sha256": "88e5ae51b73bd7d46d3e81bb64e89436ac510504953328dea9273645b2a7d0a3",
+      "size": 432,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.759279Z"
+    },
+    "psx_material_atlas/godot_materials/mat_wet_brutalist_floor.tres": {
+      "sha256": "6525f7478509fe548389dd7afddaaa85f5e5abcf6dfae355f925a5b4a61cb257",
+      "size": 463,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.759377Z"
+    },
+    "psx_material_atlas/godot_materials/mat_wood_decaying.tres": {
+      "sha256": "fc4a418afc7f530ba26b4cece62e596f7777a2d03ed38bcd775d02e3cdc5100b",
+      "size": 411,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.759477Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_apparatus_barrel_toxic.png": {
+      "sha256": "43f496b6f9a2fce7a32457e8eb8697768770f81375ef4a6126e9171eae0f43cc",
+      "size": 22226,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.759831Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_apparatus_cable_glossy_black.png": {
+      "sha256": "441bc0f8fbef1266224d0f6f7b3820992979bb5ca0e427f214737663ca1f63ee",
+      "size": 27332,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.760325Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_apparatus_cables_bundle.png": {
+      "sha256": "b10c991c0046fcdfb2fd49f92ab1606a74cdd756660eeb149f534e8a1a34baf5",
+      "size": 24382,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.760758Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_apparatus_crt_phosphor.png": {
+      "sha256": "1e1cc4b534c684a65375b3f162f7fbbae5c73b29f182af3ef050f560733921fd",
+      "size": 15730,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.761217Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_apparatus_pcb_circuit.png": {
+      "sha256": "8433009a721d9918cae0cfe623f8cbe7371df6b4ce33f050a70eeb4af2d205dd",
+      "size": 23891,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.761752Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_carbon_blade_weave.png": {
+      "sha256": "3110c9393a7705855347113c0ba7462699d2469a6edc5c43890aba6a2f501f19",
+      "size": 25976,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.762227Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_concrete_brutalist_megalith.png": {
+      "sha256": "b39dfc5ae0007d0293285898141112f896670dc29fb33259c9f02df1a748efd1",
+      "size": 77327,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.763275Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_concrete_cracked.png": {
+      "sha256": "2382359c45012f62bf1ab5b345ab7cccae9d9d159af44252c59725f88888ddd5",
+      "size": 26577,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.763829Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_concrete_raw_monolith.png": {
+      "sha256": "80d31d213af94055e55c89051d8f0bf109b47e447d71f2d7dea63b735c644dc2",
+      "size": 91748,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.764824Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_concrete_votv_monolith.png": {
+      "sha256": "d5036d7b495734e5ee298f1df9f9749bf889761d4ac4d401277c3b8a7aabfae8",
+      "size": 73258,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.765547Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_drone_hull_armor.png": {
+      "sha256": "3bf5e9a8eca5d91553041876c4b4ad36372d497c9e487c22f416afd1209b96c4",
+      "size": 18564,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.765953Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_facility_grate_mesh.png": {
+      "sha256": "9fead99a82765de1f66eda20c5e19f9b15b70e6d52f994b8e1e3225d0a8bdfeb",
+      "size": 25126,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.766361Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_facility_metal_diamond.png": {
+      "sha256": "2ccd1bfdfc8c86a650aaa11c35276646b2626c8a51a16728003e2e972d785c42",
+      "size": 28691,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.766792Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_facility_vent_duct.png": {
+      "sha256": "079435b9b1ebef35c13c9ab733b4ef1e2ae0d1e98a885840376798d612ede550",
+      "size": 16670,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.767170Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_facility_wall_panel.png": {
+      "sha256": "88eeab020ea650e7e2d7f77d638fe496581cad24154d09b326c1e901918f364e",
+      "size": 20157,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.767606Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_interior_fiberglass.png": {
+      "sha256": "1086706c736c24c3486c144dd8296f495b35599f0382e4d181527dc0cef7edcf",
+      "size": 24575,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.768133Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_interior_grimy_glass.png": {
+      "sha256": "3a7b5d2eb1b601534cbeb1a490f0a75ba3fadafb69587cd2480501849e960d85",
+      "size": 21316,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.768673Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_interior_quilted_tarp.png": {
+      "sha256": "d0e2e1ea0108e4ef718a2a1021b8086e41fd2a5fa2373aae62bc79a913da7cdf",
+      "size": 24174,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.769136Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_interior_rubber_mat.png": {
+      "sha256": "381f9f5f181ebd6519df5457bd046248c8310ad20ab5614c53b72cffe10fb673",
+      "size": 27268,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.769676Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_lunar_alien_ore.png": {
+      "sha256": "5f524b1155d6087f1c6502a787ea0697027bf2913285fcb42f4a7ec870bc9159",
+      "size": 28491,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.770186Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_lunar_basalt_rock.png": {
+      "sha256": "ca9941ea1ddee836e8bed8e18fae32beb1d6a2405f8989b1a8446bfc5a5b6499",
+      "size": 25377,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.770678Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_lunar_ice_crystal.png": {
+      "sha256": "f4b8e434d97f96ee1bddb69d09a4ceea4ff624b2a881bc749e4e74d4a50bab93",
+      "size": 26732,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.771035Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_lunar_regolith_dust.png": {
+      "sha256": "7e70e1eb154e94de7bea38a5e301f866abe841f19ab8eea00679882c6e681508",
+      "size": 22098,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.771561Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_mech_metal_chassis.png": {
+      "sha256": "ea87a38f92f48640cf268a00babf5f0c8273713ba8c2a80802f0108ffc22abf2",
+      "size": 20265,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.771921Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_metal_rusted.png": {
+      "sha256": "7aee02d48c3f0285d7493cee3589bd96ac0717295e24c17e6df62f3230394a42",
+      "size": 23224,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.772468Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_stone_dungeon.png": {
+      "sha256": "44d05674e294b4cd78827c47c2afb7f7cae02c2a8fba2c826f514ca440246618",
+      "size": 24264,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.772872Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_tech_panel_hazard.png": {
+      "sha256": "d8c90d0e26c2e2338fd6af5c2399b3ea3143bf5510b4fb5798d76e3b6d0eba92",
+      "size": 15938,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.773358Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_wet_brutalist_floor.png": {
+      "sha256": "a3d5a7aa1b7f990d626bb8c13ed6c77f73c2aea73c83b6f0d20f859caa9d53b8",
+      "size": 90681,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.774472Z"
+    },
+    "psx_material_atlas/individual_tiles/tile_wood_decaying.png": {
+      "sha256": "46cafba54dd679d71deb04b462276f592e244230d5eb01dcd2aa6ee68b01adb0",
+      "size": 21382,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.774930Z"
+    },
+    "psx_material_atlas/liminal_audit_screenshot.png": {
+      "sha256": "28fd7d7cbda8509b550639af75f36b14651766db2267cbe7fdae2da513a54b0a",
+      "size": 430549,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.778192Z"
+    },
+    "psx_material_atlas/raw_brutalist_concrete.png": {
+      "sha256": "6f09b8aaefe8bbd0d8570c327488b60b24bf1f26ae5f9d63c4cc28d6a821e468",
+      "size": 267344,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.780831Z"
+    },
+    "psx_material_atlas/raw_gen/Seamless_tileable_PBR_albedo_t_2026-09-30T06-26-28.png": {
+      "sha256": "11ad50699aaf6f3d3f4d1396f200c5b8d092a7025d9f1ebe5c4a012aaacfcb0f",
+      "size": 1564388,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.791794Z"
+    },
+    "psx_material_atlas/raw_grid_apparatus.png": {
+      "sha256": "62ebf6dc595afc22cd260a867119108eef595ea7f961017715201b7c8d767aa6",
+      "size": 253784,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.793921Z"
+    },
+    "psx_material_atlas/raw_grid_environment.png": {
+      "sha256": "97fa55cde16400ead40848110ae92448a733cda6c21177534eac94b52a8ccef4",
+      "size": 321118,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.796606Z"
+    },
+    "psx_material_atlas/raw_grid_facility.png": {
+      "sha256": "ce655f2a2cd4476dfefd9f03ebf26516d65bdc77f5cb3283e3ee67e376d11731",
+      "size": 333209,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.799501Z"
+    },
+    "psx_material_atlas/raw_grid_interior.png": {
+      "sha256": "5e4d20aeb62ddc3ea653dbc12b6d91d667ea6ae9a578347e921f6ede7fba2c77",
+      "size": 404016,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.802780Z"
+    },
+    "psx_material_atlas/raw_grid_lunar.png": {
+      "sha256": "d5aa321e7e4803d9caa33a753bfb83a57a63b0e5f0b3f71ee31619a78f7a7df7",
+      "size": 359314,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.805685Z"
+    },
+    "psx_material_atlas/raw_grid_tech.png": {
+      "sha256": "26cc8588fdd51ef17f1c5d8e7eed4dbb3de6f9b04856783532f626c8bb127255",
+      "size": 278880,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.808112Z"
+    },
+    "psx_material_atlas/raw_monolith_concrete.png": {
+      "sha256": "0581e2e16642d3c54fc7a238e796fc821511d6fedf716c3b45f38369ebb332d2",
+      "size": 285278,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.810772Z"
+    },
+    "psx_material_atlas/raw_wet_floor.png": {
+      "sha256": "4375c0a755d01b3810acdebb0e181b0c4c59d5296bd04087972957fae4c80c38",
+      "size": 351135,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.813941Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_apparatus_barrel_toxic.png": {
+      "sha256": "60f59ed74d9d9f1ade8b4669d0288258ae55546a62af93f7d1fc1dd3f218e1be",
+      "size": 72711,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.814986Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_apparatus_cable_glossy_black.png": {
+      "sha256": "4eabbb6cba7f2be8e1aa54df4f947c0dd721670f1bdf3dc634f3cf0023e3962d",
+      "size": 98124,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.816196Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_apparatus_cables_bundle.png": {
+      "sha256": "cad597ac4ba2f9b1bdda435f10d8db8ca08859fba54b179bd49d7982d39d3061",
+      "size": 80536,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.817306Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_apparatus_crt_phosphor.png": {
+      "sha256": "12f0c6c4401ebe3c901c55a2031cf3d81c700017f2f6b422fb096a2fedb475d9",
+      "size": 53252,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.818138Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_apparatus_pcb_circuit.png": {
+      "sha256": "93a5fbb67a64f17ea404c594b9a1ee5a5b74ff9e51780fa153343c2aadcc2671",
+      "size": 79429,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.819166Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_carbon_blade_weave.png": {
+      "sha256": "89973e992cd2ee7397d03ec9302a20b2a22ba08e62fcda178b106b83e2461140",
+      "size": 86971,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.820243Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_cardboard_box.png": {
+      "sha256": "5832e679316a0d2afb270da3b619b4053aa847b8c7575ee9a883f7fd631c8c70",
+      "size": 390516,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.823577Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_concrete_brutalist_megalith.png": {
+      "sha256": "a9f4aaf12f649c93ca6b5755e9b0b3b5e91c064aa89692d58b00cb167da3c54e",
+      "size": 263596,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.825976Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_concrete_cracked.png": {
+      "sha256": "dfd8a87f9323e75e5411c6b015a2bd2006e476f58330a6755ce24f5ab42983b3",
+      "size": 88300,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.827094Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_concrete_raw_monolith.png": {
+      "sha256": "7109f8e7cd7b79d82bbc00968cdcc269608bfd27e8d8c63991660195ff538a34",
+      "size": 316243,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.829364Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_concrete_votv_monolith.png": {
+      "sha256": "dd7557d4b9b786ca16b38b73ca7a8c3c303bcddbc640d76dc5387715ebe4a509",
+      "size": 253098,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.831491Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_data_tape.png": {
+      "sha256": "d06dae374839ef8e527ca5b8f5537cd5729307ce440ed5cce142183c3b535797",
+      "size": 752284,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.836751Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_digital_clock_face.png": {
+      "sha256": "e1820204425dac3d73a92b6d762e80a600d55a55dd7fea55eaa78b4f8edb0514",
+      "size": 678460,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.841766Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_drone_hull_armor.png": {
+      "sha256": "d085044b5be99d0f0d9adc5ca7f75a560b1c6896a6c7a9d8625d8a0f70c11444",
+      "size": 61812,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.842576Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_facility_grate_mesh.png": {
+      "sha256": "768e3ee789cf6d96a9b4b91c076ce47b0459698a9187cedb4fe6aa8a0521b90d",
+      "size": 85801,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.843655Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_facility_metal_diamond.png": {
+      "sha256": "7908ae87bf6ea7a0dd3cad627a7386297fd51e9e356dd2f711e9bc03f7565d25",
+      "size": 93758,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.844626Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_facility_vent_duct.png": {
+      "sha256": "e4f16b825a45e4f00798b634c5f34cc15c687401a98e5b974b0059d57805d41b",
+      "size": 56010,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.845322Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_facility_wall_panel.png": {
+      "sha256": "ca3d52184980a12ad54ab2c2d6bb51fbdadcb536952067a97e62539b468a880b",
+      "size": 67164,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.846136Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_interior_fiberglass.png": {
+      "sha256": "d65832d079dc9aea2ec7647cad750432d2c51ef21e13d88c952b3b8e0df7157a",
+      "size": 81500,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.847119Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_interior_grimy_glass.png": {
+      "sha256": "a9b9168bf704320a6f1a80a61a2a85c763a8f5c046e2f5c66089e97614f85e31",
+      "size": 71246,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.847913Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_interior_quilted_tarp.png": {
+      "sha256": "2c36080f074a98b89258d37d50e30d63faa75c2f2551b6e1e60196640473bc2e",
+      "size": 80858,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.848797Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_interior_rubber_mat.png": {
+      "sha256": "8ad4f453a4dbe1d83e91a435197dde950d3a5a35c42fb08fdfab268e49877fd2",
+      "size": 89911,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.849759Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_kitchen_checkered.png": {
+      "sha256": "09ff6530874b1f4656a6f4b3d48b4cfedcb6370f6044930e3c0abb0a4e20a352",
+      "size": 1533283,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.859844Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_lunar_alien_ore.png": {
+      "sha256": "8e7115ce4ac11975e42d9f7ab1a7ac903ddb9a1975603e88c26fd83bbda55933",
+      "size": 94094,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.860961Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_lunar_basalt_rock.png": {
+      "sha256": "7be4b2ee4e446170396ac5055438a75e4a32d5a48217732c6bf521d54fddba8f",
+      "size": 84991,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.862105Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_lunar_ice_crystal.png": {
+      "sha256": "7522a031e78820e22d93c351a7311709300fae9c1adb565a61fa4b797464e9a0",
+      "size": 89069,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.863111Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_lunar_regolith_dust.png": {
+      "sha256": "20134e164d31328909fe690fcf68958cec2744490b7e293e7f6ea7de97f42911",
+      "size": 73867,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.863986Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_mech_metal_chassis.png": {
+      "sha256": "2c5d0caed9cd71633a4c70d99ed7a4d15893527ff7b0f1a9f27055b695d6f2f9",
+      "size": 66715,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.864710Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_metal_rusted.png": {
+      "sha256": "51c5d6608636dd5dd7ff9fb804f8a56af153d134f695016a70f1782d13e89f49",
+      "size": 76441,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.865820Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_plastic_blue.png": {
+      "sha256": "359e4f05ad90c45dfab074a43f51567bc1f29dd485fe2e97e0a0cc25a1145bfd",
+      "size": 355589,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.868849Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_plastic_green.png": {
+      "sha256": "31ee875ceba02b5a70c49c444cba12dff841c28c0622654d370e90a248ad8e1b",
+      "size": 973025,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.874500Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_snack_foil.png": {
+      "sha256": "e68eba4ee031ab04ca51a8a2fd24d8afe546f59559b0958707b8cb00a7451825",
+      "size": 408855,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.878064Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_stone_dungeon.png": {
+      "sha256": "e347c1378c8d20464faf296fc2d8080952cad7ce3f38b2767b39205793c2ca74",
+      "size": 80905,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.879072Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_tech_panel_hazard.png": {
+      "sha256": "a15d3bdefec89e46d41a606a0193a58ebba90b8acc523aebebd632f1c3332ff3",
+      "size": 52797,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.879857Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_ufo_poster.png": {
+      "sha256": "57077536f6ea3ed370e0be8516bb8fb4ce973026c88905f536c582162a1242b8",
+      "size": 1615010,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.889928Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_wet_brutalist_floor.png": {
+      "sha256": "edefa809ce6774081b7c42e6451a1d0a8c7f8b59edd8f7fc3b70965f566e37a2",
+      "size": 309537,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.892635Z"
+    },
+    "psx_material_atlas/seam_audit_previews/audit_3x3_tile_wood_decaying.png": {
+      "sha256": "244c70d09c3f1d219f481c956855b0fd6bb8632f9cdf02ddeda3f3b44d1880c5",
+      "size": 70306,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.893613Z"
+    },
+    "scenes/ui_tab_inventory_concept.png": {
+      "sha256": "b73be2ee2936950c9112ce9a2425d6dd22d8e788f83339fdc13205bb6da45287",
+      "size": 770723,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.899528Z"
+    },
+    "textures/atlases/atlas_psx_materials_512.png": {
+      "sha256": "d5317affa93164d516317c4f466e5482f20f15870bf43d66348f4f39ab1ee5b8",
+      "size": 224095,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.901949Z"
+    },
+    "textures/atlases/atlas_psx_primary_512.png": {
+      "sha256": "aa6823aedad94fdba66eee0f233236f7b2ce37586cf0462393929cc9eb8479a9",
+      "size": 131763,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.903354Z"
+    },
+    "textures/materials/mat_concrete_128.png": {
+      "sha256": "6c3f4a74f40cb3f96d8e11b1524744bead45535d0414fad4309b53e66e73a3e0",
+      "size": 28569,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.903890Z"
+    },
+    "textures/materials/mat_fabric_128.png": {
+      "sha256": "bcdd928823374a9bb2168c9ff78ac429d949b8b82ea0c851912c525f2f9f2367",
+      "size": 26751,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.904370Z"
+    },
+    "textures/materials/mat_metal_128.png": {
+      "sha256": "0a7df0b3f736e35574f80f55e9b93c5c6de3bca670453942bd0cd4b6dc7615f3",
+      "size": 25043,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.904995Z"
+    },
+    "textures/materials/mat_stone_128.png": {
+      "sha256": "47fec276e0c39aca52ae9f71dd630223d4d5f11204d2167e8fcc444d17593be6",
+      "size": 24135,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.905452Z"
+    },
+    "textures/materials/mat_wood_128.png": {
+      "sha256": "dfbd276e258c01fedbdda1af826ec1ad53d46f682ca6ee155eb8e833d94a9aca",
+      "size": 17689,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.905930Z"
+    },
+    "textures/props/hospital_screen/curtain_fabric_albedo.png": {
+      "sha256": "fb50e613353c9acd2446da01799986b960f777cc63131aad19bc672ad1304437",
+      "size": 1156353,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.914100Z"
+    },
+    "textures/props/hospital_screen/curtain_fabric_metallic.png": {
+      "sha256": "b3705b030a0d2e1069af8f7346eb5f26c5db94b8949637dbda3797a85aa1c50d",
+      "size": 3152,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.914513Z"
+    },
+    "textures/props/hospital_screen/curtain_fabric_normal.png": {
+      "sha256": "a79fd21556178dd5f8c5dd44f684b87295820be8af84a579aaab379177b40715",
+      "size": 828257,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.920536Z"
+    },
+    "textures/props/hospital_screen/curtain_fabric_raw.png": {
+      "sha256": "f5df208c3ccd7fb2b7063d3f128496ba345cd89185ff7975a031ae98e400d030",
+      "size": 858487,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.925822Z"
+    },
+    "textures/props/hospital_screen/curtain_fabric_roughness.png": {
+      "sha256": "6727a54fff3ed38ffa680ff354d41ba1863e1fc430b9e082c513400bf5984c36",
+      "size": 3171,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.926128Z"
+    },
+    "textures/props/hospital_screen/frame_metal_albedo.png": {
+      "sha256": "51705be44f79085bcbc4c898634f310bbd2a528e1957da4e02843c84f66583b3",
+      "size": 283424,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.928731Z"
+    },
+    "textures/props/hospital_screen/frame_metal_metallic.png": {
+      "sha256": "16466584745a3fdd6fa31275261059df38f78e02e9afe44cc37ba491890c09f0",
+      "size": 19746,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.929269Z"
+    },
+    "textures/props/hospital_screen/frame_metal_normal.png": {
+      "sha256": "eb0fb14dff7c905512ec7dcb9b829a71a9175407bcd023e84f053506585cf896",
+      "size": 325315,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.931997Z"
+    },
+    "textures/props/hospital_screen/frame_metal_roughness.png": {
+      "sha256": "62cad08631f7ab5d1eec47bc54d1da4b8da0c0c74cb36e752723f97d0f372354",
+      "size": 6231,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.932375Z"
+    },
+    "textures/props/locker_body_albedo_raw.png": {
+      "sha256": "dbe5870109d03d1410d5c485e5923683998fbdb0c6a78c630a0ecdd7aefcc300",
+      "size": 179026,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.934208Z"
+    },
+    "textures/props/locker_front_albedo_raw.png": {
+      "sha256": "764379e069fd3ba7490531abce91cd73941ba48f94ec373203de0ba281833b8e",
+      "size": 131897,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.935691Z"
+    },
+    "textures/props/metal_locker/locker_body_albedo.png": {
+      "sha256": "b8fdf9e3fda603ec8a683bd2c968ad1b0357597b281805dc02387f960235d1f4",
+      "size": 1427551,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.944702Z"
+    },
+    "textures/props/metal_locker/locker_body_metallic.png": {
+      "sha256": "f0fb5f48e58b811ef3773cbd6b741c66f850816874c6aeb013b0ff8a818adb31",
+      "size": 4857,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.945208Z"
+    },
+    "textures/props/metal_locker/locker_body_normal.png": {
+      "sha256": "35858d67511a078b85d299d55a0552a5be9251d9137041edf2f1899afa8ae00e",
+      "size": 922941,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.952021Z"
+    },
+    "textures/props/metal_locker/locker_body_roughness.png": {
+      "sha256": "82226c9249edfb9bc2e7cf5e16948f30772f8383a9b791c3c689b2e881b850ea",
+      "size": 4997,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.952596Z"
+    },
+    "textures/props/metal_locker/locker_door_albedo.png": {
+      "sha256": "2aceef0b48e78bfb80fe899db8c09c961c0be6ac0fca16eb5a6414db9b20eef9",
+      "size": 1174070,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.961031Z"
+    },
+    "textures/props/metal_locker/locker_door_metallic.png": {
+      "sha256": "c7c2a8e34d89ee2955b0beb1e3f892777e1bfacdfc48c118e7d236f6d770e865",
+      "size": 25253,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.961674Z"
+    },
+    "textures/props/metal_locker/locker_door_normal.png": {
+      "sha256": "d90cbd9da43aad2727ac0e100319b68dc2020f0d55f2f6b2a1df0c5ff45d484c",
+      "size": 757328,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.966845Z"
+    },
+    "textures/props/metal_locker/locker_door_roughness.png": {
+      "sha256": "92ede3700acb4899d8d7687d92408313b43b866aab62ba39ef43de175a2747df",
+      "size": 25241,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.967460Z"
+    },
+    "textures/props/metal_locker/locker_interior_albedo.png": {
+      "sha256": "be3ccc12e183f902791c98327e8c207d88f10b1a8099c9f1c44e747b6105c2de",
+      "size": 1240420,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.975232Z"
+    },
+    "textures/props/test_squeezed.png": {
+      "sha256": "56b3660c6195a893b055905ef516650a0cf5908eb6bb554a300fe052df86eb94",
+      "size": 412708,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.978408Z"
+    },
+    "textures/temp/raw_concrete.png": {
+      "sha256": "6c7250ca08329a589e660ac49729f187b5a36555356d081f486fc8c76939dcc3",
+      "size": 435165,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.982088Z"
+    },
+    "textures/temp/raw_fabric.png": {
+      "sha256": "c115047e75ac9cc6e88a47cec510b1f1facc7f968a37858b57f7451cace7ccd6",
+      "size": 417387,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.985928Z"
+    },
+    "textures/temp/raw_stone.png": {
+      "sha256": "6c6a9e382284336dcf0ea19733d676ba2345e48b8367a9eb5f06c45237663c51",
+      "size": 298731,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.988381Z"
+    },
+    "textures/temp/raw_wood.png": {
+      "sha256": "45ef362bfc8c20af8d768fbdb266be992e4cf2858a680a1c5da9f68712f6057c",
+      "size": 223296,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.990469Z"
+    },
+    "textures/test_metal.png": {
+      "sha256": "bf962d75dee0012c1d2fdd32a4a143a0a8dae375cd562a1357e29eb6d6d5e259",
+      "size": 247737,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.993007Z"
+    },
+    "textures/trash/trash_complex_albedo.png": {
+      "sha256": "52257f4b494e94723152eeecde4d7a3d07aadd903d204fb0b03ad393771f6a05",
+      "size": 958600,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:30.999802Z"
+    },
+    "textures/trash/trash_complex_atlas_raw.png": {
+      "sha256": "5a5984600f333db856b4b4e893d0d2aeb2e41ad3be509631fecf9f74882becc5",
+      "size": 257100,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.002319Z"
+    },
+    "textures/trash/trash_complex_normal.png": {
+      "sha256": "41989fcefbf0820ccd6bde4eded6eba2be829896d8c3ac2e143ab2f2a01bd3b0",
+      "size": 1286046,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.010470Z"
+    },
+    "textures/trash/trash_simple_albedo.png": {
+      "sha256": "304853a51ff561088dc29941bf9233d3b0301fc9b43b83bece665ff843aaf5f6",
+      "size": 995543,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.016767Z"
+    },
+    "textures/trash/trash_simple_atlas_raw.png": {
+      "sha256": "853102a4ca8543934b453f3f736ce7787eb5d72c9ae677d2bca67aa6d4b1aee7",
+      "size": 295332,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.019822Z"
+    },
+    "textures/trash/trash_simple_normal.png": {
+      "sha256": "6d3eab601bd001d66e19c83e2b482f2c46474445e7a76f0db1975dcca2a9962b",
+      "size": 1267662,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.028440Z"
+    },
+    "ui/desktop_pc/bliss_wallpaper.png": {
+      "sha256": "edc57495759a9d81e05825189ac707f3f38e0f215c1932f19823c0bda16ee40b",
+      "size": 579010,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.032641Z"
+    },
+    "ui/desktop_pc/screenshot_desktop_xp.png": {
+      "sha256": "cc3874f474cd16c875c6b01bb28e3eb6e3f74f73f0c565926bce8da528b8394f",
+      "size": 1120767,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.040838Z"
+    },
+    "декали/images/ChatGPT Image 28 сент. 2026 г., 13_19_19.png": {
+      "sha256": "3f232b7880970c82509e1ff15c77354930babf1d507dcafe108a7abe85ec5edb",
+      "size": 3314946,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.059293Z"
+    },
+    "декали/постеры/готовые_декали/01_постер_vantec_lunar_systems.png": {
+      "sha256": "cf25fba68d9cf8554c0dbd9615729bdb9e688d11556f853322f1d18fbd0961cf",
+      "size": 343591,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.062810Z"
+    },
+    "декали/постеры/готовые_декали/01_постер_vantec_lunar_systems.tres": {
+      "sha256": "17cf2eb30d8c01aa4d780541757f78ea3be08e054af6ef0f272e462ece288528",
+      "size": 382,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.062951Z"
+    },
+    "декали/постеры/готовые_декали/01_постер_vantec_lunar_systems_hd.png": {
+      "sha256": "d0416adbe71866cf9ec585f05c3e1cec2196514afa4b5f9ef2b402329cd9ad9f",
+      "size": 1056575,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.070848Z"
+    },
+    "декали/постеры/готовые_декали/02_постер_explore_the_unknown.png": {
+      "sha256": "67ca1b1784f8ad48acaccea140b6270cd20b7354264785c3a9e8431f15a0e926",
+      "size": 349532,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.073861Z"
+    },
+    "декали/постеры/готовые_декали/02_постер_explore_the_unknown.tres": {
+      "sha256": "b51c5185bc9997dd6e36b859ddafb91135f227b937b4c82e89945cee919ec54b",
+      "size": 381,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.074030Z"
+    },
+    "декали/постеры/готовые_декали/02_постер_explore_the_unknown_hd.png": {
+      "sha256": "db5942ab356891af06ccb99609dd3e4e5a012643e82745da89975f50cfcb7c50",
+      "size": 1073337,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.081962Z"
+    },
+    "декали/постеры/готовые_декали/03_постер_resources_for_a_longer_tomorrow.png": {
+      "sha256": "3d9c7faec63aed0102b7884f439ecbd9d8b1bc418f072635f0fa2b8809e37785",
+      "size": 346342,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.084876Z"
+    },
+    "декали/постеры/готовые_декали/03_постер_resources_for_a_longer_tomorrow.tres": {
+      "sha256": "4892f67a603398b897c9cfdc04b855859b3968d8df668b098f61507f971d1fd8",
+      "size": 393,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.085056Z"
+    },
+    "декали/постеры/готовые_декали/03_постер_resources_for_a_longer_tomorrow_hd.png": {
+      "sha256": "31bd5e8c606f2de42e123abd6cbc92041556a33654d44ac711e5a04f43bd29cd",
+      "size": 1053407,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.091632Z"
+    },
+    "декали/постеры/готовые_декали/04_постер_knowledge_drives_progress.png": {
+      "sha256": "7a858e054794a32ca6aeac913aaa3f5aa6cead101fcf10b74a2e503921a6d56b",
+      "size": 320626,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.094228Z"
+    },
+    "декали/постеры/готовые_декали/04_постер_knowledge_drives_progress.tres": {
+      "sha256": "fe68174d85136c7f9284da3be8304938dc5811bb963709d61d9c90d7087ced56",
+      "size": 387,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.094377Z"
+    },
+    "декали/постеры/готовые_декали/04_постер_knowledge_drives_progress_hd.png": {
+      "sha256": "23510a5cacc2c1a4a3b01fe6d68fafa4077abc4c11f53dbbeb29be82cc66e001",
+      "size": 969493,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.101186Z"
+    },
+    "декали/постеры/готовые_декали/05_постер_your_safety_our_responsibility.png": {
+      "sha256": "e1ee83eceeb02c5c10b83b54b809dd3c428fcbae7ec189841f6b97eee0639147",
+      "size": 328602,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.103884Z"
+    },
+    "декали/постеры/готовые_декали/05_постер_your_safety_our_responsibility.tres": {
+      "sha256": "a50bfd6e4c3a295da76467513469a3a055d72ee114bcf593a568c4f38fcbcfaf",
+      "size": 392,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.104020Z"
+    },
+    "декали/постеры/готовые_декали/05_постер_your_safety_our_responsibility_hd.png": {
+      "sha256": "31e0124d78fdff1dcffcac0a47b90e373eb64a66fee2ba309aeb6719c7e0e465",
+      "size": 986520,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.110880Z"
+    },
+    "декали/постеры/готовые_декали/06_постер_build_preserve_advance.png": {
+      "sha256": "d6d9f2d4326adb34a41b25172050fb73d3ca38e141858bc47d09d9d546389587",
+      "size": 348586,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.113545Z"
+    },
+    "декали/постеры/готовые_декали/06_постер_build_preserve_advance.tres": {
+      "sha256": "261b2f846bc7ab24b7c5957c628ed77b9cf06b66177b22ac39cde632153a6ea1",
+      "size": 384,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.113689Z"
+    },
+    "декали/постеры/готовые_декали/06_постер_build_preserve_advance_hd.png": {
+      "sha256": "6e7bfca52cb0a27acdf5126a9c34e709bf4e5f74afe3d2d91f7641289e01eecc",
+      "size": 1062437,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.120393Z"
+    },
+    "декали/постеры/готовые_декали/07_постер_humanity_further.png": {
+      "sha256": "f6719994118432ce6e8df2f27ee0f6655356767e8b45f9a2c048d161a408b2f5",
+      "size": 311780,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.122804Z"
+    },
+    "декали/постеры/готовые_декали/07_постер_humanity_further.tres": {
+      "sha256": "2cc4ccdda42c31179352a87bae31eb26c8e8822131e7f4781ac6dadde15efb6b",
+      "size": 378,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.122920Z"
+    },
+    "декали/постеры/готовые_декали/07_постер_humanity_further_hd.png": {
+      "sha256": "01d492b6920468ead8e9ecf7350619fffc0b82eef557331bf578130d94de113a",
+      "size": 939835,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.128278Z"
+    },
+    "декали/постеры/готовые_декали/08_постер_a_cleaner_tomorrow.png": {
+      "sha256": "e9c2305e958f80250a14e926e281373568b8c1c7dc0512c98ce6e7abec7973d7",
+      "size": 328159,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.130820Z"
+    },
+    "декали/постеры/готовые_декали/08_постер_a_cleaner_tomorrow.tres": {
+      "sha256": "8d0cea290fba61ccc0d8ddf4009a90c2366c075857f190570eb2b2d72abc41da",
+      "size": 380,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.130942Z"
+    },
+    "декали/постеры/готовые_декали/08_постер_a_cleaner_tomorrow_hd.png": {
+      "sha256": "c547d2c309b8c8c8282b50bfc6987f886227145396c7bcaf5646f8303162df77",
+      "size": 992543,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.137405Z"
+    },
+    "декали/постеры/готовые_декали/09_постер_united_efforts_lasting_progress.png": {
+      "sha256": "bba8135f5789099416f2fbe076ea2df1ceb339ce395f671fbdbb9dec22dbc358",
+      "size": 344841,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.140237Z"
+    },
+    "декали/постеры/готовые_декали/09_постер_united_efforts_lasting_progress.tres": {
+      "sha256": "76cebe55bf8d9b7282dbe42aa14f44d1534e71794b77ed4242480eb83545f9b0",
+      "size": 393,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.140401Z"
+    },
+    "декали/постеры/готовые_декали/09_постер_united_efforts_lasting_progress_hd.png": {
+      "sha256": "d26aab7846d26eaed0c6a3e85463b31ae139e7873a7ffa8b7ae180a515efa118",
+      "size": 1061295,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.147280Z"
+    },
+    "скрины/Снимок экрана (114).png": {
+      "sha256": "8e1be40642ae9781cd0ead792f8a488319cade5d89e02d0aec7b84d56bbc1f41",
+      "size": 1271117,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.155134Z"
+    },
+    "items/digital_clock/digital_clock_in_hand.gd": {
+      "sha256": "f2923e638482d55ff2c2cb35ed1fa15625745514c53bd42bef54eb0e741e6074",
+      "size": 1409,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.155463Z"
+    },
+    "items/drill/drill_canister_in_hand.gd": {
+      "sha256": "23848d6078407bb1c1c22c4b0637d5351ed8ac84c884d5365a45f5e74ed57d53",
+      "size": 1154,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.155851Z"
+    },
+    "items/drill/drill_in_hand.gd": {
+      "sha256": "dbf24202e24512e340246e622ad732ad129e2df4a3adc90ffcac77c751ca686e",
+      "size": 12630,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.156234Z"
+    },
+    "items/floppy/floppy_disk_in_hand.gd": {
+      "sha256": "5dd626ab96c203ab60590882445782591165d2dff76dace79f2c64d0af653dc2",
+      "size": 2192,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.156612Z"
+    },
+    "items/floppy/floppy_disk_pickup.gd": {
+      "sha256": "d7d9c5473f032d860b3f292894f8581620b11466d7df75d687fcd05419525d0f",
+      "size": 2069,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.156979Z"
+    },
+    "items/geology_scanner/geology_scanner_in_hand.gd": {
+      "sha256": "b57e167dad28ec0d7696e92f7a1a632fabdaa2191fd085a87b04e1b1daf7b797",
+      "size": 5566,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.157381Z"
+    },
+    "items/hydroponics/lunar_lettuce_in_hand.gd": {
+      "sha256": "905a5266f2c368e65574bda80ed67bcea604c29c385cb6db4bcfbbf0fb414216",
+      "size": 1788,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.157724Z"
+    },
+    "items/navigator/navigator_in_hand.gd": {
+      "sha256": "ce0f509dab1f16da2f4edc4a68b17778cb5540afdcf0698ad125303819091a92",
+      "size": 3053,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.158022Z"
+    },
+    "items/placeable/arc_reactor_kit_in_hand.gd": {
+      "sha256": "3c3917befca8ed4d39217dafd30558a20075b458327adc68043a82c2de231c82",
+      "size": 700,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.158340Z"
+    },
+    "items/placeable/solar_panel_kit_in_hand.gd": {
+      "sha256": "c9f17cf260c46561e1df0014ff4b235a223136485789c04ea992697d0f8e1848",
+      "size": 5032,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.158638Z"
+    },
+    "items/wire_spool/wire_spool_in_hand.gd": {
+      "sha256": "e32077f15c4d5de0eb047d51e918e149b1e2f50da067b4d7f0ccc7f3ea39246d",
+      "size": 8927,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.159993Z"
+    },
+    "items/world_pickup_base.gd": {
+      "sha256": "4a78cb58424628d3ebb88f234d670e8b52d6e53eafd09ac77603a41c846bad8b",
+      "size": 6356,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.160372Z"
+    },
+    "maps/liminal_megalophobia/liminal_generator.gd": {
+      "sha256": "602498de645eac89f454bc68c9d0bd823a525ff5fa834665bf28af1bf7ac8d68",
+      "size": 5991,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.160719Z"
+    },
+    "maps/tutor/props/book_prop.gd": {
+      "sha256": "4d39a4261d82dbc5806d2d264e3eaf4edb24cc172ff62047b1e4fccc6b87fb7c",
+      "size": 1945,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.161043Z"
+    },
+    "maps/tutor/props/bookcase.gd": {
+      "sha256": "4fdde9949c5bd71069863bed9c811d0d19e21da23582da6f858685f333995efb",
+      "size": 2343,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.161387Z"
+    },
+    "maps/tutor/props/mesh_builder.gd": {
+      "sha256": "22a1a88e80380665ed3769061cfb62895b805a4657b6b3bd03be140613206c1b",
+      "size": 699,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.161491Z"
+    },
+    "maps/tutor/props/safety_rail.gd": {
+      "sha256": "7a30f48826107839913ef87663da312cdebbf7d9260cd66582d95efa61dc07ae",
+      "size": 887,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.161817Z"
+    },
+    "maps/tutor/props/worktable.gd": {
+      "sha256": "dbd01ae23efb2a9d45c76c2e368e860bc78a3313d453d4b81f0beb81b323c8ca",
+      "size": 2695,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.162131Z"
+    },
+    "maps/tutor/tutor_dressing.gd": {
+      "sha256": "fe567af2586d10982484973e0f2fa046c87ccef963a5bcca4b53a215744294f7",
+      "size": 3369,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.162464Z"
+    },
+    "maps/tutor/tutor_level.gd": {
+      "sha256": "156e1f4bca9540a6edb2265df5510e1520bbaba4744bdd056d3260b0bdbe97b6",
+      "size": 5054,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.162839Z"
+    },
+    "maps/tutor/tutor_lighting.gd": {
+      "sha256": "ea816389f31bdb9503512ffe2b7af0b3d0da0c6f62a5b5cecdd9f281f46bc55b",
+      "size": 1706,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.163171Z"
+    },
+    "maps/tutor/water/tutor_pool.gd": {
+      "sha256": "fa22fdc6a413d625a7f42f7b5505bc1988f75b15981855a528d63d3ba2dc4b23",
+      "size": 6857,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.163538Z"
+    },
+    "mods/maps/liminal_megalophobia/cmd_liminal.gd": {
+      "sha256": "712b41703cf75810b62ea9296b3871eb324e5ce0cfd4080cfe56f898b7f82206",
+      "size": 359,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.163647Z"
+    },
+    "mods/maps/liminal_megalophobia/liminal_generator_mod.gd": {
+      "sha256": "c8ad8f9b8f111e1c7622ca9516956399e97212a48a25317ac26cc8c65f4a3d0f",
+      "size": 9070,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.164120Z"
+    },
+    "mods/maps/liminal_megalophobia/liminal_map.gd": {
+      "sha256": "7e9b8ceae51083523563b77cba64c855eab0bc1d3e9744b0bb0e423b44c20d98",
+      "size": 3785,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.164479Z"
+    },
+    "mods/maps/test-map-map/cmd_testmap.gd": {
+      "sha256": "c501bc752420c3b232acf4b8fe7752cbdbdbc882dade06579b0a8930076be99d",
+      "size": 1105,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.164812Z"
+    },
+    "mods/maps/test-map-map/plane_testikular_map.gd": {
+      "sha256": "eb7e8bfa6243ef19de4417f9f7b57b7baeb5f179ddca2b6b1823794e0f380bcb",
+      "size": 2299,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.165142Z"
+    },
+    "prefabs/base/base_fixture.gd": {
+      "sha256": "db34472317d2b7fc15bcc03e68e2fbfeac4075b4a26ade8c6c229de80f959a73",
+      "size": 8894,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.169625Z"
+    },
+    "prefabs/base/food_dispenser.gd": {
+      "sha256": "16b2113349698aec2677b43e5345c3b70db8a4b60cef0673d6f0ccc11546c9d6",
+      "size": 4948,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.169989Z"
+    },
+    "prefabs/base/oxygen_fill_station.gd": {
+      "sha256": "318f9205c82aed79e9b370d481d950749998fb62c2e82e2ee83739d02663b01c",
+      "size": 5173,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.170302Z"
+    },
+    "prefabs/base/oxygen_generator.gd": {
+      "sha256": "522a9341cc689d2d1cd10e554d308c5bb782e62bd76b0261a424948c76518d73",
+      "size": 2539,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.170663Z"
+    },
+    "prefabs/base/stove_cooker.gd": {
+      "sha256": "7a755d03749badbbbba8ec82add7ac15ac4fddc3562fc1eb80cbcad4d46f9599",
+      "size": 10394,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.171136Z"
+    },
+    "prefabs/entities/cockroach/cockroach.gd": {
+      "sha256": "9475619fe3c832e381069362df86155a00dce1c08d9785a615a0c1c26a24662a",
+      "size": 14248,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.171621Z"
+    },
+    "prefabs/entities/cockroach/cockroach_ik.gd": {
+      "sha256": "70549045e6130dcbee25f10fd53dbeea84f5907a35e2160fbcca9d352b413d8e",
+      "size": 13593,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.172174Z"
+    },
+    "prefabs/entities/cockroach/test_cockroach_qa.gd": {
+      "sha256": "b53efa5718b292277319562b76db0d216f25a12880a2ecb57d830a8ff2757821",
+      "size": 5372,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.172583Z"
+    },
+    "prefabs/entities/cockroach/test_roach_run.gd": {
+      "sha256": "fe48ffe5e60dd0c6d2264956b2805f42297b6010244bd43eef8eeae20b385f60",
+      "size": 310,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.172707Z"
+    },
+    "prefabs/entities/companion/companion.gd": {
+      "sha256": "d54bce13a877343eedaf3ea42f4bdabeb65ba2c1e5c3fd7dea191c7be3bdba10",
+      "size": 9951,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.173180Z"
+    },
+    "prefabs/entities/companion/test_companion_qa.gd": {
+      "sha256": "7067bba3eff2c5e0396822ad1125b07a075b2cb643be9cc08168541deb7d3696",
+      "size": 2895,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.173531Z"
+    },
+    "prefabs/entities/spider_bot/components/spider_ai_follow.gd": {
+      "sha256": "96df739583587a03cc0534ec41bea5af9e62235bcc218b36bc9cd92006653f3d",
+      "size": 9880,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.173944Z"
+    },
+    "prefabs/entities/spider_bot/components/spider_audio.gd": {
+      "sha256": "9f0807d29d27763bed16cbb52a1f957e67bc982e7021bceb8a6cc76347a24442",
+      "size": 1935,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.174312Z"
+    },
+    "prefabs/entities/spider_bot/components/spider_cargo_bay.gd": {
+      "sha256": "6d094f620d20248f937f12bbee98a5ad1d1ce437994865078f9cc36ed2738f06",
+      "size": 3312,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.174667Z"
+    },
+    "prefabs/entities/spider_bot/components/spider_ik_solver.gd": {
+      "sha256": "66ad669a1f95ba4991b72858c394143a3e99929b46f8cc86b57c423cf4cbd5c6",
+      "size": 2158,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.175019Z"
+    },
+    "prefabs/entities/spider_bot/components/spider_leg_stepper.gd": {
+      "sha256": "97c656481bceed2cda50b5113735258679d047788a1dcdf3f5dd934f44d7956a",
+      "size": 6552,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.175398Z"
+    },
+    "prefabs/entities/spider_bot/components/spider_locomotion.gd": {
+      "sha256": "c65b9e6bbdc357bd4ac098c89211159beb583bc5218c22c3c3ed3e1cc70db27b",
+      "size": 3252,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.175664Z"
+    },
+    "prefabs/entities/spider_bot/spider_bot.gd": {
+      "sha256": "bd59d00b767909cb75f8c78976cac3f93af4e3f9182e52551f8687a5f6ae19dd",
+      "size": 7227,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.176007Z"
+    },
+    "prefabs/entities/spider_bot/spider_bot_ik.gd": {
+      "sha256": "b111c55efce9f6e9e77214c52acd026f161707b5868f2e6a22419ad62a0d4854",
+      "size": 9774,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.176420Z"
+    },
+    "prefabs/entities/spider_bot/test_spider_bot_qa.gd": {
+      "sha256": "0f6b4520d994fba71227e9178451244a7d8fc83ed5444c165bf0cd7cdd59a175",
+      "size": 5230,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.176754Z"
+    },
+    "prefabs/furniture/bed.gd": {
+      "sha256": "32e15b637ed2d85b54033717d209d1340d9005c3e87389d3e60af7ea1c6a0e3f",
+      "size": 9766,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.177131Z"
+    },
+    "prefabs/furniture/digital_clock.gd": {
+      "sha256": "ff02f2e4977b2d3f2f5b991f2f4128762ddaccd3217416b8977a039cf752af8b",
+      "size": 2711,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.177801Z"
+    },
+    "prefabs/furniture/locker_smoke_test.gd": {
+      "sha256": "8442f7868dc77e14374db4af257811474973bb3638eb03ac198252505d48f261",
+      "size": 1009,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.178206Z"
+    },
+    "prefabs/furniture/wall_calendar.gd": {
+      "sha256": "da5d00bf2dfb7c4d7ff5973a006ce1f47f799603b934b3e953e9fb430492f458",
+      "size": 6409,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.178579Z"
+    },
+    "prefabs/gear/ore_cart.gd": {
+      "sha256": "6f73d60b21ddae299beb98d534f5f366470352eae9de92de73f1476e0bca200e",
+      "size": 1950,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.178959Z"
+    },
+    "prefabs/hydroponics/hydroponics_smoke_test.gd": {
+      "sha256": "105919ed791ead2c46aa5f33ac964723cf57445a9a82702d20c9f6b89ecfc707",
+      "size": 2881,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.179326Z"
+    },
+    "prefabs/hydroponics/hydroponics_tray.gd": {
+      "sha256": "7be5b9ca3319766f0436f2cca2e7545683be2115521b67cf39c6694d16251f1b",
+      "size": 13871,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.179718Z"
+    },
+    "prefabs/interactive/breaker_box.gd": {
+      "sha256": "7771c01d04db3ee0f8509f1c3b73a98bb83936f17ae469bb65e5934c35a8e41d",
+      "size": 1834,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.180093Z"
+    },
+    "prefabs/interactive/charging_station.gd": {
+      "sha256": "f3ca960dcdd8fa93f029cf447814ca31715350af5fd6c656b29382cfa5bd1db5",
+      "size": 3532,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.180493Z"
+    },
+    "prefabs/interactive/command_terminal.gd": {
+      "sha256": "c1521739dfc10b4f4684681791382e99906afcbff6e75a9bae039bca0659a974",
+      "size": 10320,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.180988Z"
+    },
+    "prefabs/interactive/crafting_printer/blueprint_rack.gd": {
+      "sha256": "2eaebc31c2d6aa435b8ccf1d31d013c6f3cfe9440c6fade8f432140bad5f7f2b",
+      "size": 2077,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.181294Z"
+    },
+    "prefabs/interactive/crafting_printer/crafting_printer.gd": {
+      "sha256": "d0294afd9d3715c751afb166d233b895a65e6db104b94e3037efd8b057144977",
+      "size": 12548,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.181736Z"
+    },
+    "prefabs/interactive/desktop_pc/player_desktop_pc.gd": {
+      "sha256": "2fe203f316092c660f108770a4e74543d7d5c8205c67974b16f8c2bf32c868dd",
+      "size": 8545,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.182165Z"
+    },
+    "prefabs/interactive/disk_drive_slot.gd": {
+      "sha256": "10684076f1dbd914f9815ef636f25f1bedfe49b0787b3cdeae5a8ea74c1b16a3",
+      "size": 13982,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.182685Z"
+    },
+    "prefabs/interactive/firmware_dock.gd": {
+      "sha256": "2c2e8c00968c71aaafe591e40619db2edab9ee39d6ebc654a4c19aa0e1cc01cb",
+      "size": 7431,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.183080Z"
+    },
+    "prefabs/interactive/material_refinery.gd": {
+      "sha256": "cf65250b9abf6ee6e548b5445487c52c5abcd659acc6a4aa1a0d0787b1a9665a",
+      "size": 22187,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.183624Z"
+    },
+    "prefabs/interactive/mission_terminal.gd": {
+      "sha256": "6ca1f3351ac0665d7a9238cd96a989850e18ddb9f247e867a6e0ee00d4c67acc",
+      "size": 3644,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.183998Z"
+    },
+    "prefabs/interactive/portable_disk_drive.gd": {
+      "sha256": "491943afa98e55b8347670f12e8d59e0aba533b0d733d9e40594cff5ac43e630",
+      "size": 8214,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.184447Z"
+    },
+    "prefabs/interactive/rotary_knob_3d.gd": {
+      "sha256": "8455618b9c0fc59cdf4d6e563be0592254ba56ee3c5baf901f6902c28af6dfa0",
+      "size": 3205,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.184844Z"
+    },
+    "prefabs/interactive/sample_analyzer.gd": {
+      "sha256": "32645438dfb7dd7acd3710425d22005b4c8c884d530e02356da69cfb584eaa16",
+      "size": 24677,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.185568Z"
+    },
+    "prefabs/interactive/satellite_dish.gd": {
+      "sha256": "b654e3e72678b17b66c2ec8eaadfb53399f774fe8f2005f6417e523ce9c2ea71",
+      "size": 2516,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.185978Z"
+    },
+    "prefabs/interactive/scanner_apparatus/scanner_apparatus.gd": {
+      "sha256": "9ec09ce9167bf7422b17b331b2cc27a95a7572d7262dd488e8044eb2ab337e5f",
+      "size": 10694,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.186302Z"
+    },
+    "prefabs/items/wire_reel_pickup.gd": {
+      "sha256": "95d31d983e70f731d0e6ed83bbc8b42bc07e03e49801fb606852456b87f1ef98",
+      "size": 2420,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.186585Z"
+    },
+    "prefabs/mining/mining_ore_deposit.gd": {
+      "sha256": "f674ab20b34955c0afc93f4254347c2f6c79021066e210e7c43821c1313f5a79",
+      "size": 9038,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.187072Z"
+    },
+    "prefabs/power/dev_arc_reactor/arc_reactor.gd": {
+      "sha256": "b99ffce9ff7e03ac0baf85d4b225c94b1ff96c95dbb760bb31f573089f0f357c",
+      "size": 1080,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.187695Z"
+    },
+    "prefabs/wooden_crate/tests/capture_previews.gd": {
+      "sha256": "8e8c68fcf1a389303c95f5a01642ef2421bea0b427424ca9556270cf3f3f6596",
+      "size": 3078,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.188420Z"
+    },
+    "prefabs/wooden_crate/tests/crate_smoke.gd": {
+      "sha256": "314299d786650df1a20dffa74ecb4a84c5655fa04bd30f21cfcc213002051062",
+      "size": 3751,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.188794Z"
+    },
+    "prefabs/wooden_crate/tests/network_smoke.gd": {
+      "sha256": "7784769fdf08ee3bf06c09a43ce9632edcc31bb4ec1994bead53f4077e02af4d",
+      "size": 2291,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.189098Z"
+    },
+    "scenes/expedition_test_map.gd": {
+      "sha256": "c0d1ea75b211fff3a90d0ac37b82bfedf4b89b1115bb1023cc5b463da96a7a06",
+      "size": 2325,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.189419Z"
+    },
+    "scripts/audio/impact_sound_director.gd": {
+      "sha256": "919486c8f13b07edb246e079242385ab28694d6ea36cb62940bfed31f0e17f2e",
+      "size": 9665,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.190235Z"
+    },
+    "scripts/capture_runner.gd": {
+      "sha256": "59cfbd2d3705635133354f84c3ba747bb85bfd8c6f31cc1bc0b1fe78af7523e3",
+      "size": 762,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.190602Z"
+    },
+    "scripts/console/commands/cmd_earth.gd": {
+      "sha256": "8b78146f05a4d1cd55c90fbcd62a629e47c02aeff3ecb605182e454eb07fb13f",
+      "size": 2770,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.191051Z"
+    },
+    "scripts/console/commands/cmd_power.gd": {
+      "sha256": "e8c6cf2a5cf089305546c87901936c98a5aa604cc9bb0ce0afe875ef4fba451e",
+      "size": 2589,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.191404Z"
+    },
+    "scripts/crafting/crafting_recipe_registry.gd": {
+      "sha256": "d07a2067c1c1fc9bb22ee51aeb079b725cc11f3faaaaf7c0251d9aadd8873da6",
+      "size": 5306,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.192561Z"
+    },
+    "scripts/crafting/firmware_registry.gd": {
+      "sha256": "3420ca4cad00b16c07473beabf2ee5f0baf1356ee860c3775eed492a85f4386a",
+      "size": 2785,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.192883Z"
+    },
+    "scripts/electrical/dev_arc_reactor.gd": {
+      "sha256": "a417f879790cf4cbc772d02961efdd89c4d2852cfa66cb00b0ef6173c3f0dbac",
+      "size": 4256,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.193184Z"
+    },
+    "scripts/electrical/power_battery.gd": {
+      "sha256": "49a1821cbdd6d9fbeca3b7ccf7950f932377753c2ed498c11d3622fd290885a6",
+      "size": 4094,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.193468Z"
+    },
+    "scripts/electrical/power_consumer.gd": {
+      "sha256": "abc4809a3fc6fda8e9f4ca0f959610b933723bdac135f3e3a264986813e88e86",
+      "size": 2694,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.193688Z"
+    },
+    "scripts/electrical/power_device.gd": {
+      "sha256": "c7a6664eb8cd767aaa4f98b092006497608e7402eed91a8a5e48b8f7bd0d8e08",
+      "size": 2880,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.193913Z"
+    },
+    "scripts/electrical/power_generator.gd": {
+      "sha256": "9f927d9acb8a6c2133d0728fdae7d549a4f9fbdf5d016938a5aeb128eef18d80",
+      "size": 7721,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.194217Z"
+    },
+    "scripts/electrical/power_grid_manager.gd": {
+      "sha256": "95fd0bea47fe26046c4eeb88948ea5586968eb29a729c08e92e1a30c765b62a1",
+      "size": 7000,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.194522Z"
+    },
+    "scripts/electrical/power_socket.gd": {
+      "sha256": "e73cd67c40ae578bb83f415b914af2714519df2f15ccec0efe7df115310f9077",
+      "size": 6525,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.194845Z"
+    },
+    "scripts/electrical/power_switch.gd": {
+      "sha256": "ba9e03f76fef46f8d713b1ba12c95467b6862190606fa9559dbf866717391a6c",
+      "size": 3129,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.195130Z"
+    },
+    "scripts/electrical/procedural_wire.gd": {
+      "sha256": "4f53914ff757ac53d67e2360ae51881b19b09484c6a8f261cd8d7c856217bcca",
+      "size": 13305,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.195534Z"
+    },
+    "scripts/electrical/wire_spool_tool.gd": {
+      "sha256": "2f85911c1156aa516819e2e94e1bed943dc9c861c1de692a536b40b574779fce",
+      "size": 5327,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.195842Z"
+    },
+    "scripts/hydroponics/plant_definitions.gd": {
+      "sha256": "7d5241d9266e6625d83eba6ae735d51f57b739fded8f97cfc7afcc44e3893c00",
+      "size": 1309,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.196852Z"
+    },
+    "scripts/interaction/interactable.gd": {
+      "sha256": "8788fbaf303fedb71ce985c59cc4b52430a499579b99dbab2af07d8d9ad61b1b",
+      "size": 5391,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.197149Z"
+    },
+    "scripts/inventory/inventory_item_data.gd": {
+      "sha256": "89c2eea6e81ae194e6d144345707c988433f112af779aba63b606a13dd22dc61",
+      "size": 1929,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.197828Z"
+    },
+    "scripts/inventory/item_registry.gd": {
+      "sha256": "c2abc139dd2fc16f441473dd5c90259a5880230db66147086a6b7b6ada77043e",
+      "size": 22907,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.198225Z"
+    },
+    "scripts/inventory/player_inventory.gd": {
+      "sha256": "d43b1ada472e1b24ba3ab66373735629e072e10d1aaa1bf1aa3b24ebc1b75ff0",
+      "size": 12326,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.198653Z"
+    },
+    "scripts/main_game.gd": {
+      "sha256": "9642e35c2bd80cf277352075891cb4adfa88764e2de13bfeea5a79ae062ad058",
+      "size": 10189,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.199143Z"
+    },
+    "scripts/qa/capture_liminal_screen.gd": {
+      "sha256": "1e2fac52ca751ff4acc719100e668b7793180db15eab9bc0536763eaf1f463bd",
+      "size": 544,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.199749Z"
+    },
+    "scripts/qa/capture_runner.gd": {
+      "sha256": "3f219ab400fac6479c294f528978ee169469a0bea1f7f0978bad13c77d799ce7",
+      "size": 618,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.199859Z"
+    },
+    "scripts/qa/capture_trash_audit.gd": {
+      "sha256": "73d0e997d1ad0977442b710623584cae48ecab10b0abf8aebd836d397e6584f4",
+      "size": 3868,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.200197Z"
+    },
+    "scripts/qa/capture_tutorial.gd": {
+      "sha256": "aefeaf01319b207a27b88065ddf6c1fffd47c51e22e1cc4886dc35d67de5d016",
+      "size": 1749,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.200552Z"
+    },
+    "scripts/qa/capture_tutorial_jump.gd": {
+      "sha256": "84a4dd073e3cbebaad9d647c1fe7985c9b1e8a009c61205c3b1bd9609cf6959b",
+      "size": 2019,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.200892Z"
+    },
+    "scripts/qa/diag_player.gd": {
+      "sha256": "c3a69c1b9f4a397f0722b3e1a5535181238b79be7951e08b7996f5b838022c84",
+      "size": 1052,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.201262Z"
+    },
+    "scripts/qa/find_culprit.gd": {
+      "sha256": "1b03f0d21cd9a1fb20dc60a0a29d1b55d6d171b4e81d07ef964278269eedd592",
+      "size": 787,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.201571Z"
+    },
+    "scripts/qa/inspect_bodies.gd": {
+      "sha256": "6775c47cb4a7f7c3c4c92ccfb4ddee4acfe7869d8257520c0b68bf7d2780e988",
+      "size": 853,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.201883Z"
+    },
+    "scripts/qa/inspect_collision.gd": {
+      "sha256": "3bcec98f5a93597166d23f70b7713d3c43901bd498b32ed397beccc9083a1b78",
+      "size": 1066,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.202250Z"
+    },
+    "scripts/qa/inspect_wav.gd": {
+      "sha256": "0d30efe61e3431964591ec538128bde144f4f669b20694e1bf31d1545260acfa",
+      "size": 306,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.202406Z"
+    },
+    "scripts/qa/test_audio_and_grab_rotation.gd": {
+      "sha256": "c9ee42cb4b6a0d257f0015521730ff3aa780768428c9d3d047423ef13fb64b6f",
+      "size": 6011,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.202762Z"
+    },
+    "scripts/qa/test_base_loop.gd": {
+      "sha256": "ad8e6b2150c86cfd6f9c0f538a9d83eb9a2f4a3838d342ec8240ad65bfbb8699",
+      "size": 20138,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.203284Z"
+    },
+    "scripts/qa/test_disk_drive_slot.gd": {
+      "sha256": "24146f9e1a409b04486a5600dfd24df07117c0bf0ffb3f5772c50b1a10dae4d2",
+      "size": 3351,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.203601Z"
+    },
+    "scripts/qa/test_drone.gd": {
+      "sha256": "c2c0e7c31c3c8f3d472bd230300fa7efdd4b1286c65afb533b3ff549a8d9b6e8",
+      "size": 14289,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.204010Z"
+    },
+    "scripts/qa/test_floppy_floor_drop.gd": {
+      "sha256": "4d9aec96ede24d94bfbca22c291793b67f4f6aea8595025fcbad9dc0f1487b75",
+      "size": 1555,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.204374Z"
+    },
+    "scripts/qa/test_floppy_in_hand_and_drop.gd": {
+      "sha256": "df415b21384f7e6f460c3829aa1b7bd20524fc32e1de05cb94bced669c6944dc",
+      "size": 3034,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.204698Z"
+    },
+    "scripts/qa/test_game_loop_full_cycle.gd": {
+      "sha256": "19cb75e192fb46399aac4d6258e7c0abb91f7deee5b37ddc4c8439c534740dd9",
+      "size": 7746,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.205003Z"
+    },
+    "scripts/qa/test_hotbar.gd": {
+      "sha256": "3d95f4e5e9fd6eec4c9f50c707d4194396cc121995d9735dd27501d29e6de9d1",
+      "size": 8063,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.205357Z"
+    },
+    "scripts/qa/test_instantiate_screen.gd": {
+      "sha256": "e5c2290e3f8dbb95457103f50ba69dee78be8c90729de75cd627d06c32d2a038",
+      "size": 792,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.205704Z"
+    },
+    "scripts/qa/test_intro_tutorial.gd": {
+      "sha256": "e6c3beadcaadfecc6d184b757e7d0f5dfd1af89ab5e67a4e1b9135f72ff28eb6",
+      "size": 8989,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.206111Z"
+    },
+    "scripts/qa/test_inventory_systems_smoke.gd": {
+      "sha256": "6a18eb421a0cae6bba2eea4aeb3d188c2e3067892a4e857988701975ece2f844",
+      "size": 4574,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.206407Z"
+    },
+    "scripts/qa/test_kpk.gd": {
+      "sha256": "afa16987338234b325f2ea0ef9123d0da33ad66c873b9cd4a243b03167edb8b8",
+      "size": 7155,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.206760Z"
+    },
+    "scripts/qa/test_locomotion.gd": {
+      "sha256": "4a0dc66d94e760f77afac1076be87d41adcb7d0a5b39d697c020e6c7443a4c4b",
+      "size": 4888,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.207169Z"
+    },
+    "scripts/qa/test_map_texture_pixelizer.gd": {
+      "sha256": "1b9f04c456e816bb20b6f3d0bda77192574d2f46075adbe69c805be989e428ba",
+      "size": 3140,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.207483Z"
+    },
+    "scripts/qa/test_mining.gd": {
+      "sha256": "e5d6a07596c100c4dc6393a5a962060e74763f32108ee8fee24da3864d18dac4",
+      "size": 5655,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.207908Z"
+    },
+    "scripts/qa/test_mining_deposit_flow.gd": {
+      "sha256": "3b3058634685cccd1e4602e681c6a4f4771233c521a12294f90037269802d1ab",
+      "size": 4493,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.208347Z"
+    },
+    "scripts/qa/test_terminal_floppy_refinery.gd": {
+      "sha256": "d4e5ad25c8ff0650d83a1e2b88e3f1f2e4a353f059ba1a90ec8099c0f851f188",
+      "size": 3756,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.208745Z"
+    },
+    "scripts/qa/test_trash_prop.gd": {
+      "sha256": "90747ac3f7b97fed0f775e1ba3d83cb5b74c78e04a0f49c58c173794fdd88f3c",
+      "size": 3305,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.209135Z"
+    },
+    "scripts/qa/test_tutorial.gd": {
+      "sha256": "050a1656eb7090440f8a721d6b5ab16e7809242ce1423f6e2954c94e99eee6c3",
+      "size": 8387,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.209494Z"
+    },
+    "scripts/qa/test_walk.gd": {
+      "sha256": "6c548df481fa5d9d6dc293536bea98f861cc74178b412d6fe1eb14875ecdb210",
+      "size": 748,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.209870Z"
+    },
+    "scripts/qa/test_walk_sim.gd": {
+      "sha256": "562f55b0c7fa6b18e45e92c20cbf9ab9d274f2c5e28a3c945733f9059ded2cdc",
+      "size": 769,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.210230Z"
+    },
+    "scripts/qa/trace_physics.gd": {
+      "sha256": "ee41439a1f5b2c7e3b40135be84f82bdfc680ffea366c35e26e89ece7df0f548",
+      "size": 1555,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.210599Z"
+    },
+    "scripts/qa/verify_rain_loop.gd": {
+      "sha256": "f8e2b744ef4ddc70a024835420cbfd3225127749d19af5945be3b0ab665ca40b",
+      "size": 748,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.210982Z"
+    },
+    "scripts/save_system/save_data.gd": {
+      "sha256": "868b444dd01848292d8ef3682aa57f2b0addd2e6490660e50791d3b633ea3003",
+      "size": 5178,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.212048Z"
+    },
+    "scripts/settings/graphics_profile.gd": {
+      "sha256": "250a7929211a6a54c1115b6512c1b8539b61d4e784f8f6e8c03f0b34d3aef5e3",
+      "size": 1084,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.212457Z"
+    },
+    "scripts/settings/intended_graphics.gd": {
+      "sha256": "ce226f7000351b85b8f0b72c9e83dcf22fc7a79e050b564a7725f63857ba185b",
+      "size": 2788,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.212881Z"
+    },
+    "scripts/survival/survival_vitals.gd": {
+      "sha256": "f3303ad1dad700a7db4662efac1ccaddf3a2b8018cc270bf28aec82852468bea",
+      "size": 10579,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.213308Z"
+    },
+    "scripts/time/game_calendar.gd": {
+      "sha256": "dfc9ca6619628281650f4afa74b9b66bc77ea43bf3798ed17a5e0183395ff880",
+      "size": 5229,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.213725Z"
+    },
+    "scripts/time/game_clock.gd": {
+      "sha256": "4a6feb4aa1693f86e9fe058a6e71b06ec60d6344ebd1cdd736c89a55e1a575df",
+      "size": 3661,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.214031Z"
+    },
+    "scripts/time/time_service.gd": {
+      "sha256": "cf2f810fc5bca383d2e31b7fc6f68e0ececfffb0206989185df359894b6c4ae3",
+      "size": 9073,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.214463Z"
+    },
+    "scripts/world/base_power_bootstrap.gd": {
+      "sha256": "4df0ad6de7ea373431222ef6072856ef3d1c26f3f22279af64dd9aa7bb7e5b9e",
+      "size": 2054,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.214854Z"
+    },
+    "scripts/world/expedition_floppy_spawner.gd": {
+      "sha256": "937fef9678583212dbb8d7fba1e691f96e1375f5085aa1c785491337c0a170d8",
+      "size": 2636,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.215253Z"
+    },
+    "scripts/world/food_defs.gd": {
+      "sha256": "e98c324b5cabe51829a629ef02a156a5f38fe5c070e78e8e9a9fc8062ae3cb52",
+      "size": 1992,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.215602Z"
+    },
+    "scripts/world/game_loop_manager.gd": {
+      "sha256": "dc92014c3244193c0da509059c894dd376b22d48a098194f1c210070298620a1",
+      "size": 42407,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.216246Z"
+    },
+    "scripts/world/intro_sequence.gd": {
+      "sha256": "becfc657e103c343a3ca74840c2d41572b2a66a98bc84307c2b510f14958dc5e",
+      "size": 5027,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.216656Z"
+    },
+    "scripts/world/material_database.gd": {
+      "sha256": "8b1945b3b9f9b4340570fe91d17fec4dee18b2bdff8939354df756d6a2106ef4",
+      "size": 2311,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.217038Z"
+    },
+    "scripts/world/scan_notes_store.gd": {
+      "sha256": "f158b5975dc0b50230fb09987cf55e89db03e3522e3eb625d0b02c75b16b5d08",
+      "size": 604,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.217146Z"
+    },
+    "scripts/world/starter_deposit_spawner.gd": {
+      "sha256": "be1d77255d7038ec214c6fcc251b5df28680034b684e98ba1da0839d42bea786",
+      "size": 3822,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.217441Z"
+    },
+    "scripts/world/sun_cycle_controller.gd": {
+      "sha256": "9b2ce6ae573b9eb9d0516bab4e50cd2e9a2a23541aa35074fbeed10af58c8259",
+      "size": 4031,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.217733Z"
+    },
+    "ui/ar_overlay/ar_overlay.gd": {
+      "sha256": "6f0bf34c1eec2a93c1373f7ed8924fd5120461a016a8391ccca7381706e7ec8b",
+      "size": 3835,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.218105Z"
+    },
+    "ui/desktop_pc/apps/app_cad.gd": {
+      "sha256": "8eca0bfe3cfdf53a81e276820019571d7c20f0489a81eccc5f65a3065112c547",
+      "size": 3511,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.218477Z"
+    },
+    "ui/desktop_pc/apps/app_drive.gd": {
+      "sha256": "2162a1c650f11c3c3b68fd26cedf78ffd00766f6b69c8fe36459f9951cc7ca28",
+      "size": 2084,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.218807Z"
+    },
+    "ui/desktop_pc/apps/app_explorer.gd": {
+      "sha256": "5494fed10f5d7ba39a18db25904568d385b23d962ba32edc228736b208377ea4",
+      "size": 16356,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.219372Z"
+    },
+    "ui/desktop_pc/apps/app_system_properties.gd": {
+      "sha256": "7a4cc4a305b59641375732ac2a0f11b2b19226eede32a6de8593126a40122219",
+      "size": 649,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.219491Z"
+    },
+    "ui/desktop_pc/apps/modular/app_benchmark.gd": {
+      "sha256": "7c524404f3371dce00fbe1f76c5764a2bdbe313c477b4dcca068f0bfdd7dcecc",
+      "size": 2267,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.219846Z"
+    },
+    "ui/desktop_pc/apps/modular/app_calculator.gd": {
+      "sha256": "5434d2af03a4f2cbdcf745570ea027edf9ac33d7d461224fc38178cee067989e",
+      "size": 2360,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.220185Z"
+    },
+    "ui/desktop_pc/apps/modular/app_cctv.gd": {
+      "sha256": "9062a39596e9d1734ba4155dfdae401ff406f762aafaff929d4e16ad6bf7c10b",
+      "size": 3268,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.220528Z"
+    },
+    "ui/desktop_pc/apps/modular/app_dish_rotator.gd": {
+      "sha256": "96b0957c1fec862293e3cf51fa089aa00c8f303566713e478604f9d630232b53",
+      "size": 2775,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.220846Z"
+    },
+    "ui/desktop_pc/apps/modular/app_firmware.gd": {
+      "sha256": "133e64edeca3e79d6bfa0b8a89aee74fe1650c4f03ed3f0c93f8ae2fd62bc497",
+      "size": 5432,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.221148Z"
+    },
+    "ui/desktop_pc/apps/modular/app_geology_db.gd": {
+      "sha256": "1f7b06ed26425bd686819a516c07e8cc2d169ca8dc8597a8b7c6cdc7575b101e",
+      "size": 2838,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.221420Z"
+    },
+    "ui/desktop_pc/apps/modular/app_hack_game.gd": {
+      "sha256": "4e33a196f6af6e7c4494e90c0a896e33e4c7522dfea88ba104f57b5d7c0ab6d3",
+      "size": 2727,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.221704Z"
+    },
+    "ui/desktop_pc/apps/modular/app_lander_calc.gd": {
+      "sha256": "c5fc24272fd3fa3604adb868aeb575aa296a980b3cfe3b94c3a3b2bdb075d57e",
+      "size": 2716,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.221989Z"
+    },
+    "ui/desktop_pc/apps/modular/app_lunar_radio.gd": {
+      "sha256": "febd0a80d47e506274f9cd6033756436e042eefe8f45fd8f322c95f0de0e87fb",
+      "size": 2545,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.222287Z"
+    },
+    "ui/desktop_pc/apps/modular/app_media_player.gd": {
+      "sha256": "f5bc0512d64a57199225662cd7afc2f0a6afa96f365ffc2ba97e88cf49a27d72",
+      "size": 3801,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.222560Z"
+    },
+    "ui/desktop_pc/apps/modular/app_minesweeper.gd": {
+      "sha256": "06929c733ca224d34b8b93eaffd71ace1cf1a25fe5654751ad048a41b3fad86e",
+      "size": 3628,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.222888Z"
+    },
+    "ui/desktop_pc/apps/modular/app_modular_base.gd": {
+      "sha256": "fcb7b2049582ed3265f5362fbd8172de757970d1b7b767a9fd99e688e983744f",
+      "size": 745,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.223230Z"
+    },
+    "ui/desktop_pc/apps/modular/app_notepad.gd": {
+      "sha256": "b7d36c0abdecd59d611559185162d5bb62419ec40611d628ae9c6eff7cb82ed5",
+      "size": 2002,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.223504Z"
+    },
+    "ui/desktop_pc/apps/modular/app_o2_monitor.gd": {
+      "sha256": "89fc7b8a357409940a302a32aac7bc90de7900db034f0f15d2498c360921c294",
+      "size": 2044,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.223784Z"
+    },
+    "ui/desktop_pc/apps/modular/app_paint.gd": {
+      "sha256": "ae41333fba184407a967f5c95978840e1396899ab1e161a11ce7d16e1880ae5a",
+      "size": 3268,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.224139Z"
+    },
+    "ui/desktop_pc/apps/modular/app_reactor_diag.gd": {
+      "sha256": "3e123c67fc97a3792e790d86407628f32be711961204c3008f9b0ad4cb199569",
+      "size": 2970,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.224483Z"
+    },
+    "ui/desktop_pc/apps/modular/app_solitaire.gd": {
+      "sha256": "c6bdab87ba25493488a450d341fe03cc5bfe88ecdc97bb239bb5d20c78300d4f",
+      "size": 2885,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.224770Z"
+    },
+    "ui/desktop_pc/apps/modular/app_spacesuit_diag.gd": {
+      "sha256": "b07e321a2ca6004eb5283343ab7a1a766badc2794a896e4adb445078f16b36b8",
+      "size": 2294,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.225150Z"
+    },
+    "ui/desktop_pc/apps/modular/app_spectrometer.gd": {
+      "sha256": "56e769aa3e1a32ddc08dae15e44b7a26a97c266040ad1706bdc9c622ca404003",
+      "size": 2963,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.225459Z"
+    },
+    "ui/desktop_pc/apps/modular/app_task_manager.gd": {
+      "sha256": "289583d3200691df6b3c3418ea56040dabb7551f1edfe237a6286555186ca5bf",
+      "size": 2376,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.225744Z"
+    },
+    "ui/desktop_pc/apps/modular/app_telecom.gd": {
+      "sha256": "02909965a1ca29abce7c2e115cc6afbfb8385a33ee0afc7ffbe0e8800929debe",
+      "size": 2183,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.226012Z"
+    },
+    "ui/desktop_pc/apps/modular/app_tictactoe.gd": {
+      "sha256": "818de66422c5b44960e9dd6e45f9c5620db29359421d9db68c424eefd16dc8dc",
+      "size": 4019,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.226339Z"
+    },
+    "ui/desktop_pc/system/desktop_app_registry.gd": {
+      "sha256": "1becc98525caf4fae911eaa79b7f7a9957180d17fcd53977016dda33af9cb701",
+      "size": 11574,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.226722Z"
+    },
+    "ui/desktop_pc/system/desktop_fullscreen_ui.gd": {
+      "sha256": "5afbd4079e9d673771ae785f441f117c1c3a13c28de86a31cab19acc3310e56b",
+      "size": 1986,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.226994Z"
+    },
+    "ui/desktop_pc/system/desktop_os.gd": {
+      "sha256": "816cc932f0fb37bb9b75a45c831fd876e789efe0f81fe1e3a86a23b844af10b3",
+      "size": 11538,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.227393Z"
+    },
+    "ui/desktop_pc/system/desktop_theme.gd": {
+      "sha256": "4d8b00d73690c49c74b4bef22702678be75e523698298fc4e68c6ef166c9a752",
+      "size": 1221,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.227707Z"
+    },
+    "ui/desktop_pc/system/desktop_window.gd": {
+      "sha256": "f903efbb18dd3d465f00090e6960bdb127f12bb4035d710bf0ef28bdcf9e42a4",
+      "size": 2142,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.228017Z"
+    },
+    "ui/desktop_pc/system/win_xp_theme.gd": {
+      "sha256": "449bc37911910225ad0c793cbaf5942fe6d2f686530acbab1e725674b771e4bd",
+      "size": 4024,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.228301Z"
+    },
+    "ui/hud/hotbar.gd": {
+      "sha256": "2d81ec8eb91eba063240a6417deea0c74de447c2bc81a6f63fe83edf5e8af4df",
+      "size": 3902,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.228596Z"
+    },
+    "ui/hud/task_marker.gd": {
+      "sha256": "9a31404585a4c541163042e756a3c5b923341bbe2fc28f00c57dc52331d8386e",
+      "size": 4227,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.228965Z"
+    },
+    "ui/inventory/item_icons.gd": {
+      "sha256": "0f289fb6f42199349095c4c7cd63391f3801cdfc4e77f1904fa9b6182c67995f",
+      "size": 1209,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.229350Z"
+    },
+    "ui/inventory/tab_menu.gd": {
+      "sha256": "5f69e1223bde4b2b1c810677f5584c8d66c0fafc4cfb56904ce994094afb4734",
+      "size": 39286,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.229933Z"
+    },
+    "ui/terminal/terminal_console_ui.gd": {
+      "sha256": "66c594b0e139b96744a081538d7c6f66e144eaeee1e864b1c07ba0ef6e2d7e2c",
+      "size": 24554,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.230439Z"
+    },
+    "стартовые асеты/ui_vgui_template/ui/templates/options_dialog/options_dialog.gd": {
+      "sha256": "aee178a10066f545d8f23c96df1fa2448f6055f3c025d60d1dddd92222c62cc0",
+      "size": 5767,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.230810Z"
+    },
+    "items/ar_glasses/ar_glasses_pickup.tscn": {
+      "sha256": "4e65887c51bf07e6a49ba2599a7f2f049327ec803c84f95e44b81a1d2d2b83f0",
+      "size": 770,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.231089Z"
+    },
+    "items/components/circuit_board_pickup.tscn": {
+      "sha256": "d7674d6b3fea6567bac5a10977c746b636f94f1cbd6207080dd0fae0193b6738",
+      "size": 1318,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.231422Z"
+    },
+    "items/components/copper_coil_pickup.tscn": {
+      "sha256": "32f5247e820e9ce017a1fb8fbb715d22bba8f75440382d8008a0c3b9313fd63f",
+      "size": 1606,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.231627Z"
+    },
+    "items/consumables/mre_ration_pickup.tscn": {
+      "sha256": "4cb4759f2bf0e8ca769d88699a24f62c15207632f3e3a26625991caa80a88255",
+      "size": 802,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.231959Z"
+    },
+    "items/consumables/water_pouch_pickup.tscn": {
+      "sha256": "c65e6c613fa315405a59c1c1b92d56b5eec0cf6943087346389d3536af2433a4",
+      "size": 803,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.232167Z"
+    },
+    "items/digital_clock/digital_clock_in_hand.tscn": {
+      "sha256": "345c74f927896f6405a93c8ede66d5e5ac2588fa6f1cd0b033d0dd1a588cc57d",
+      "size": 2228,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.232432Z"
+    },
+    "items/drill/drill_canister_in_hand.tscn": {
+      "sha256": "746c66130b2aebd5d00269d6165d5ce58c92b03892a1d354ecfe909f64d9d63b",
+      "size": 1272,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.232719Z"
+    },
+    "items/drill/drill_canister_pickup.tscn": {
+      "sha256": "7ff8051f7239c0669e8c6c5a9eac871cb7aff24c1bb28bf52b79118cbd3ff424",
+      "size": 881,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.232925Z"
+    },
+    "items/energy/power_cell_pickup.tscn": {
+      "sha256": "e0c73027d0b897f99716cccc23b4edfc6ccf69b432ad023e39a7eda0a87c7cf8",
+      "size": 931,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.233282Z"
+    },
+    "items/floppy/floppy_disk_in_hand.tscn": {
+      "sha256": "473ecee7f8dfaa69aef752c2efb318b12e62d2d71298ff1e46beb8fc27e647f2",
+      "size": 892,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.233573Z"
+    },
+    "items/floppy/floppy_disk_pickup.tscn": {
+      "sha256": "0b1f59ad9400f45939d775ef6d51a0d2ebcaef886dbd8d8358ab6cbdad25ef07",
+      "size": 1687,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.233853Z"
+    },
+    "items/food/food_bar_pickup.tscn": {
+      "sha256": "4d49228e775d47a8a3367686005bf0bff9cdd6f07fb9530d5f479006c48d96e8",
+      "size": 750,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.234222Z"
+    },
+    "items/food/food_burnt_pickup.tscn": {
+      "sha256": "0d3848ec8464d6be856f9139a396a927f8a98f66807c1e628bc42eef0f88616f",
+      "size": 753,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.234592Z"
+    },
+    "items/food/food_canned_hot_pickup.tscn": {
+      "sha256": "c69d0728f96b123708e6a4a7eabf9faef2faa23951e5c552b0e8a5fad46978cd",
+      "size": 807,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.235250Z"
+    },
+    "items/food/food_canned_pickup.tscn": {
+      "sha256": "dda645dc1862c4184c7470e2e80c777ddb4be455cff67d91ecc4d816158bbc31",
+      "size": 803,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.235548Z"
+    },
+    "items/food/food_paste_pickup.tscn": {
+      "sha256": "e0ac4b97180467f6cd45cabedb8b6258b24106d40635383857a3ac3175a89626",
+      "size": 805,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.235839Z"
+    },
+    "items/food/food_porridge_hot_pickup.tscn": {
+      "sha256": "48ef0ea66688eaaf0480b8a2f37fdf2c4f6fca44cece6943a92f7b0ef5d90b55",
+      "size": 768,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.236135Z"
+    },
+    "items/food/food_porridge_pickup.tscn": {
+      "sha256": "8a80287033ffc42e7aa1f47a0441c59161d51c37cdca53b567acff74871ca891",
+      "size": 762,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.236516Z"
+    },
+    "items/food/frying_pan_pickup.tscn": {
+      "sha256": "0298e2d29f5546d674d7c9b6288807dca9619ec7799b2c8dbc6d84494e5ba7c0",
+      "size": 1058,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.236837Z"
+    },
+    "items/gear/backpack_pickup.tscn": {
+      "sha256": "1fdb8579326cb7d45dcec503335a5bda0f6c4b6cbc4efbe424ee71cb94cc3986",
+      "size": 749,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.237107Z"
+    },
+    "items/geology_scanner/geology_scanner_in_hand.tscn": {
+      "sha256": "ae5970bb535f491a4022a24bcb620e62953c846e34b347bac20936609a1433d6",
+      "size": 1522,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.237377Z"
+    },
+    "items/geology_scanner/geology_scanner_pickup.tscn": {
+      "sha256": "3a5f67a1a870521c071d4ad31f6711e4285b02e2fce4c6c8026181907de1ff3e",
+      "size": 815,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.237659Z"
+    },
+    "items/hydroponics/lunar_lettuce_in_hand.tscn": {
+      "sha256": "e407dd3fe91d84e7a078ed2eb67ffcddb15468d04abb4226e4c027641cfa4032",
+      "size": 1287,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.237917Z"
+    },
+    "items/hydroponics/lunar_lettuce_pickup.tscn": {
+      "sha256": "d40d429e4cb936a5a8c0fd1f18c665fb0c14fec826c822442a1371dac74fb026",
+      "size": 1381,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.238183Z"
+    },
+    "items/hydroponics/seed_packet_in_hand.tscn": {
+      "sha256": "71e1d774fdfeb5072dadb3866e4c060c6cd0dd2eca38a69feafb9caf4a5de974",
+      "size": 1297,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.238397Z"
+    },
+    "items/hydroponics/seed_packet_pickup.tscn": {
+      "sha256": "35c809681b30983fd2de7155968d6d64ed6cfd89a5f60e3f6dcc1453f328ece0",
+      "size": 1282,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.238600Z"
+    },
+    "items/medical/stim_injector_pickup.tscn": {
+      "sha256": "fc167d2b8d7448daffbeeacc101958f5096afa66181f159c9d3104388fc5a918",
+      "size": 878,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.238809Z"
+    },
+    "items/minerals/alien_crystal_pickup.tscn": {
+      "sha256": "3f10142d037af6e60a47292ed8b4359a52066c351c91811dd34f41a104988b32",
+      "size": 807,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.239149Z"
+    },
+    "items/minerals/ice_shard_pickup.tscn": {
+      "sha256": "08e309bf3db0fb054b79c2e5630815e15aff6960f19a474511a526ba9f4297c3",
+      "size": 752,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.239517Z"
+    },
+    "items/minerals/lunar_ice_pickup.tscn": {
+      "sha256": "2e1261a8a7a9149fa25336f68c9d0d45ec2c55d8e3127217c1e32c3393aa4a8a",
+      "size": 795,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.239808Z"
+    },
+    "items/minerals/regolith_dust_pickup.tscn": {
+      "sha256": "7dc82b5449fb473ffecbb25cf23d165bb1c11dd84d067442c1e9f941affbc94e",
+      "size": 805,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.240037Z"
+    },
+    "items/minerals/titanium_ore_pickup.tscn": {
+      "sha256": "b00bdd3f58bbc02c8b857ee6000fd3498d08962c07855203b9e1a97d13c23474",
+      "size": 802,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.240253Z"
+    },
+    "items/minerals/titanium_shard_pickup.tscn": {
+      "sha256": "383727492dc624976d7ff45ff1761108bdb175e0cc9dfa445821a6e17dc2d982",
+      "size": 763,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.240584Z"
+    },
+    "items/navigator/navigator_in_hand.tscn": {
+      "sha256": "02c930c149ed87c64da20c44dc00f7bca9b2349a30bce678d8a2a49985766ce4",
+      "size": 1319,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.240928Z"
+    },
+    "items/navigator/navigator_pickup.tscn": {
+      "sha256": "416a8b80be31382bad1d2052b073d082e5cca20e0ccd4b18c176e5cca62e8a8a",
+      "size": 1111,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.241165Z"
+    },
+    "items/placeable/arc_reactor_kit_in_hand.tscn": {
+      "sha256": "f8d1eace56a05e4f6d439d02266be0ffda8bea9dcf837c9a9689f51b5701d0ca",
+      "size": 1450,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.241438Z"
+    },
+    "items/placeable/arc_reactor_kit_pickup.tscn": {
+      "sha256": "e3a1f7af556099b01a17a654c2cb4a27d55acc677db861d9d0812b56b0e07abd",
+      "size": 1500,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.241648Z"
+    },
+    "items/placeable/solar_panel_kit_in_hand.tscn": {
+      "sha256": "288c3cc16d36ca4f5881f326d201610ea661411189f6115d6ec984995ff22896",
+      "size": 1399,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.241904Z"
+    },
+    "items/placeable/solar_panel_kit_pickup.tscn": {
+      "sha256": "ea356b2c7a776e5fce34caea32d0d2a4d67da1c985d9a3f341c78233901d628b",
+      "size": 1596,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.242109Z"
+    },
+    "items/refined/iron_nugget_pickup.tscn": {
+      "sha256": "2f868ce96fd9c643fa93fafdc8edb1ec2bbf572a7090409c8d1f8efb22c459fc",
+      "size": 916,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.242473Z"
+    },
+    "items/refined/isotope_cube_pickup.tscn": {
+      "sha256": "4c427541b0f4139f4763b10597e445c9202c38f013330e329d6e229e72a4bac8",
+      "size": 917,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.242758Z"
+    },
+    "items/refined/silicon_cube_pickup.tscn": {
+      "sha256": "ecd4a2ce5b6b01e6bc6d0bec413f88349b1f1ab0834dbf68739af0a7070e5930",
+      "size": 919,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.243058Z"
+    },
+    "items/refined/titanium_ingot_pickup.tscn": {
+      "sha256": "1ecc5c1aab1b0a1e9906899526ba817908c5bebfd57cba906b0473ece2b572bf",
+      "size": 929,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.243282Z"
+    },
+    "items/spacesuit/co2_filter_pickup.tscn": {
+      "sha256": "064450d4c9fb3a406134b7e1d736f9714d8e89ac367d225fccf901816425c132",
+      "size": 865,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.243550Z"
+    },
+    "items/spacesuit/o2_tank_pickup.tscn": {
+      "sha256": "29b17f44efdc1a986851cee94692b4e65408b18bd30d044324d740896214340c",
+      "size": 1212,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.243818Z"
+    },
+    "items/wire_spool/wire_spool_in_hand.tscn": {
+      "sha256": "c5f13c530c17a969ffc4663a49f75317a924506324c4c4a8c94cfa3bb1566986",
+      "size": 2860,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.244168Z"
+    },
+    "maps/liminal_megalophobia/liminal_megalophobia.tscn": {
+      "sha256": "2203f9a6cf9f892a1445a5c5c82fa1e53e9713da9485e8a5ebeb6c09df6dbdef",
+      "size": 1787,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.245562Z"
+    },
+    "maps/tutor/tutor.tscn": {
+      "sha256": "91f0dd0f6ecadece0401b50de70d75e7ee031dad3882bfd5635ef3a98d224cac",
+      "size": 23362,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.245945Z"
+    },
+    "materials/votv_bunker/votv_postprocess_layer.tscn": {
+      "sha256": "9e03899295e9d7f931fb94199d8b822f45b0aee776f7a5a3152797707c175b21",
+      "size": 408,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.246055Z"
+    },
+    "mods/maps/liminal_megalophobia/liminal_map.tscn": {
+      "sha256": "462762af8f13821a226115ad9ed7cf7ca49752e29768df15b29a20295abe8ed3",
+      "size": 3429,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.246389Z"
+    },
+    "mods/maps/test-map-map/plane_testikular.tscn": {
+      "sha256": "e871d500818c6db9bdceef02738cf26544127e11f160902ff9eb6fb0335ba673",
+      "size": 39140,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.247059Z"
+    },
+    "prefabs/base/food_dispenser.tscn": {
+      "sha256": "da3991cb0e8900a90052ee7931df249023388cc0c95dd0c8a424de20facacb18",
+      "size": 8047,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.247382Z"
+    },
+    "prefabs/base/oxygen_fill_station.tscn": {
+      "sha256": "87e050c811727d1e6215a6bed922289094b29c647fd4ed70ad2452d7998c4f71",
+      "size": 3329,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.247722Z"
+    },
+    "prefabs/base/oxygen_generator.tscn": {
+      "sha256": "a3c15abbd9ff0291be9bd8ea925659ccf78e405eb295cff5431f59c236c14879",
+      "size": 3615,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.248069Z"
+    },
+    "prefabs/base/shower.tscn": {
+      "sha256": "edfac01976cb4104aab7226fd2a0ed1ba3c706ed76a14dcb78017a461eaacfbc",
+      "size": 3621,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.248372Z"
+    },
+    "prefabs/base/sink.tscn": {
+      "sha256": "6857d86a92369090cd48b5af9527110d61349faebff387137817a41f95ae0bb2",
+      "size": 2785,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.248686Z"
+    },
+    "prefabs/base/stove_cooker.tscn": {
+      "sha256": "0f7c1c265b53280c4e6a10a524aa4b8d57df921eaf0cb4b20a042143c4c162c9",
+      "size": 6536,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.249067Z"
+    },
+    "prefabs/base/toilet.tscn": {
+      "sha256": "0c1ceef3b52c0105db08452f9eff6ebefb0d0318bd38a071a4d8cf09ead9caef",
+      "size": 2806,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.249458Z"
+    },
+    "prefabs/base/water_tap.tscn": {
+      "sha256": "00452bc9eb97ab62c3d326a3c67c9272d2816343e30fd4677bff7836aef35cc9",
+      "size": 2803,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.249825Z"
+    },
+    "prefabs/cockroach/cockroach.tscn": {
+      "sha256": "14dc0ae3634a323cf92ad36643d7bffac94b2317e21acc407d108a2187788ddd",
+      "size": 1981,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.250236Z"
+    },
+    "prefabs/electrical/power_generator.tscn": {
+      "sha256": "990903a47e6658b97661f5609786d92bd7233fde5a040f6adee242998a674158",
+      "size": 3013,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.250588Z"
+    },
+    "prefabs/electrical/power_switch.tscn": {
+      "sha256": "7d8a2519a029ee44cb75e9eb091e7628b5bb73c44dc08996b251767fec63309d",
+      "size": 2744,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.250863Z"
+    },
+    "prefabs/entities/cockroach/cockroach.tscn": {
+      "sha256": "8adf70365cbe6bebac39dc176639efa4ea1104d7e889a583663c101d3b77e3f6",
+      "size": 1985,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.251255Z"
+    },
+    "prefabs/entities/companion/companion.tscn": {
+      "sha256": "5f2b15c6aa19ff1f8d2e9d65c43e1889adee67d10b9faee8adbabba4ab178210",
+      "size": 2642,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.251640Z"
+    },
+    "prefabs/entities/spider_bot/spider_bot.tscn": {
+      "sha256": "809f25040a4da96e1caf9b452846a38dbbe2ff596434f39d707d8e85b7139e09",
+      "size": 3330,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.251985Z"
+    },
+    "prefabs/entities/spider_bot/spider_bot_test_scene.tscn": {
+      "sha256": "5ee5d541865241afabedd223ba27a30512078154a78929ceb23e62b84842fb48",
+      "size": 2020,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.252367Z"
+    },
+    "prefabs/furniture/bed.tscn": {
+      "sha256": "cb1a2e0700a40a83fb5c24b1476e11dca41ee70d3af4f6b55340577484d81716",
+      "size": 3336,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.252635Z"
+    },
+    "prefabs/furniture/digital_clock.tscn": {
+      "sha256": "81c70729de2c08aa7017befc85ce223f3860f8ebd9fcc45843c78a7209494030",
+      "size": 2686,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.252962Z"
+    },
+    "prefabs/furniture/wall_calendar.tscn": {
+      "sha256": "b116183c475342404da621e2b1e7a5b32e1a30033a386a2859d00b5b0e9da79b",
+      "size": 3097,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.253301Z"
+    },
+    "prefabs/gear/ore_cart.tscn": {
+      "sha256": "c3a2c7d67bb57d81bc80dea3af869332a61de9ff4fe60493fd288d8c5cc391e7",
+      "size": 4945,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.253643Z"
+    },
+    "prefabs/glowing_lamp_box.tscn": {
+      "sha256": "bea13c88e53df96cb2cd4c8f1b0f36e9f87b6a5a644cd83e638785b0c5f4a543",
+      "size": 4006,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.253974Z"
+    },
+    "prefabs/hydroponics/hydroponics_tray.tscn": {
+      "sha256": "bc229a64f12dfc440b6b2c921edce75b0214c84d026affa2ffd3b4428533f61c",
+      "size": 6060,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.254284Z"
+    },
+    "prefabs/interactive/breaker_box.tscn": {
+      "sha256": "22d56c4e46782744bcb424e185ab7c06e139d4cae9c01d17a8215dd9f553ba47",
+      "size": 1595,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.254558Z"
+    },
+    "prefabs/interactive/charging_station.tscn": {
+      "sha256": "fcedcae0ee26dd57bb2134f81ee0c773bfa6aaba6e5d781470e117b6e1067174",
+      "size": 2697,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.254831Z"
+    },
+    "prefabs/interactive/command_terminal.tscn": {
+      "sha256": "1fbcd4109e5f8997c2c1f753307a01989f3e5b7dc17c1c4ecd163e6d1c5fed0d",
+      "size": 2546,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.255158Z"
+    },
+    "prefabs/interactive/crafting_printer/blueprint_rack.tscn": {
+      "sha256": "ed7af8e51ded34322254b4bde8a200a2fde1938ff1db53163abfba0366a20ca2",
+      "size": 2600,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.255440Z"
+    },
+    "prefabs/interactive/crafting_printer/crafting_printer.tscn": {
+      "sha256": "f96e9aa2d665b9e32f5e35713f8fae7cfd36d26aff965f6204eedb23c0a2d722",
+      "size": 8383,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.255846Z"
+    },
+    "prefabs/interactive/desktop_pc/player_desktop_pc.tscn": {
+      "sha256": "66b1d00f2b5080d1f76a728bf1e1fb827e444b8483973ae0f566c2796af677e3",
+      "size": 4814,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.256176Z"
+    },
+    "prefabs/interactive/disk_drive_slot.tscn": {
+      "sha256": "4c47fca6f4ba307d514b58ee07562c6d55beafb6915708824dc49fc1838de464",
+      "size": 3030,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.256508Z"
+    },
+    "prefabs/interactive/firmware_dock.tscn": {
+      "sha256": "0310d2a08f496f9b382392c240f05ad9e7607aaf9ac19e5a777e3243b3c03714",
+      "size": 4035,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.256793Z"
+    },
+    "prefabs/interactive/material_refinery.tscn": {
+      "sha256": "6c33a2a62cc8b3fa80e19efb1e1558b6629537033de4532f4ef79ef4861cbe48",
+      "size": 7827,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.257162Z"
+    },
+    "prefabs/interactive/mission_terminal.tscn": {
+      "sha256": "4a0b0604b304f02553aa19fee0e69156e1c4314ce70f3d38da911d9059f8390b",
+      "size": 2062,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.257433Z"
+    },
+    "prefabs/interactive/portable_disk_drive.tscn": {
+      "sha256": "5af668d610bdbe2a4eef3761810a92c447cfe71a9460c172df4deae8413e745c",
+      "size": 3006,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.257709Z"
+    },
+    "prefabs/interactive/rotary_knob_3d.tscn": {
+      "sha256": "b27a6c18fa70fa65eb0966479746e19180b5114c59fccf8c586a57cf0056f3c4",
+      "size": 2033,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.257997Z"
+    },
+    "prefabs/interactive/sample_analyzer.tscn": {
+      "sha256": "fabc8b9fba1a639fecb752eafd61bf48b72c287cd46340a6ab2ec654c0e6acdd",
+      "size": 10657,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.258401Z"
+    },
+    "prefabs/interactive/satellite_dish.tscn": {
+      "sha256": "2a229f923e508f9c81e8a68f6496b4f68e6a4170fe165ca2440fac3025a9a66f",
+      "size": 2290,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.258673Z"
+    },
+    "prefabs/interactive/scanner_apparatus/scanner_apparatus.tscn": {
+      "sha256": "a78fd844e7ac22d3fdf732f8efea0952f888b2f1f58a89aa8bae63ca24b93f89",
+      "size": 13531,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.259022Z"
+    },
+    "prefabs/items/wire_reel.tscn": {
+      "sha256": "0c381ab2eef95feb7e94f6680966ebc5d2b8217d7d3814d1419fb0bbbe2f3891",
+      "size": 3062,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.259316Z"
+    },
+    "prefabs/mining/mining_ore_deposit.tscn": {
+      "sha256": "ce7faeb7c31b962af678ac1f3f3dbad8c0d1c0c893ef48e2918aa487e13029cc",
+      "size": 1422,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.259587Z"
+    },
+    "prefabs/power/battery_bank.tscn": {
+      "sha256": "fd2cb4f9333d6211cb821346adc7da6fea1f68b8eda67c10534966ec1f44f2df",
+      "size": 3169,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.260187Z"
+    },
+    "prefabs/power/dev_arc_reactor.tscn": {
+      "sha256": "b607d07f04e0f0299613f5acef3f7dd00d4c3a6e2a6116b5f19592efff403ad0",
+      "size": 6052,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.260546Z"
+    },
+    "prefabs/power/dev_arc_reactor/arc_reactor.tscn": {
+      "sha256": "cc76b479442d0e82f2a7f6281446541c876f9ff4a94d33060a6ddc38e99a502c",
+      "size": 4192,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.260891Z"
+    },
+    "prefabs/power/hydrogen_generator.tscn": {
+      "sha256": "6d98ade4f02db6c0a7562582700911bf30b9a75ed48699b3dfcb614d205440d2",
+      "size": 2785,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.261157Z"
+    },
+    "prefabs/power/solar_panel.tscn": {
+      "sha256": "8fd03741c1c037ccab287ed7662b6e6d258cf1570434dd5ac7fefbc4243dd634",
+      "size": 2998,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.261369Z"
+    },
+    "prefabs/wire/power_junction.tscn": {
+      "sha256": "a938dd0741d389ce87fc06690fbaf834dbda4012ea8b4698e206a0498959af3d",
+      "size": 1626,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.261641Z"
+    },
+    "prefabs/wire/procedural_wire.tscn": {
+      "sha256": "3e8840e9740cd4b1eb5a228c114d4da855efa25a8c1bb55d93b4da2a1b36a9da",
+      "size": 627,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.261738Z"
+    },
+    "prefabs/wire/wire_socket.tscn": {
+      "sha256": "1b87b624feb5d31c00c047114a0ed86b58099dd8191cb9b3e873cb7cd38b2aba",
+      "size": 2703,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.262009Z"
+    },
+    "scenes/capture_scene.tscn": {
+      "sha256": "84829746329be90478cea7a33d89778cea192c3155cf21324dc564d348616673",
+      "size": 202,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.262146Z"
+    },
+    "scenes/expedition_test_map.tscn": {
+      "sha256": "78070f1287303ddfb5ce88012634c8b3028edd36415e35ed6df64b110cf86a0c",
+      "size": 25335,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.262707Z"
+    },
+    "ui/desktop_pc/apps/app_cad.tscn": {
+      "sha256": "f2691811e59ac77b0e1873bb218559768e0a2cfafe21855fd98e63844bf7dad2",
+      "size": 5179,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.263942Z"
+    },
+    "ui/desktop_pc/apps/app_drive.tscn": {
+      "sha256": "e9ddb27c7e18c44d236bc44e7331fc36f02f60c69ff082bf4933af5f9bd85e37",
+      "size": 3808,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.264218Z"
+    },
+    "ui/desktop_pc/apps/app_explorer.tscn": {
+      "sha256": "29f7381a729253e88d100a8ca150e58312641d7025b97ff9b4a957fcdb8febcd",
+      "size": 8785,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.264577Z"
+    },
+    "ui/desktop_pc/apps/app_system_properties.tscn": {
+      "sha256": "a2bddc1ad8e48db7fe78ce664d1186922f0d822db3cad783b3f3d829fa6fc31a",
+      "size": 5065,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.264938Z"
+    },
+    "ui/desktop_pc/system/desktop_fullscreen_ui.tscn": {
+      "sha256": "05adc9caac7cfccf4e5d6c9a399fe938194e0683cf9270e83b14dbd23e5b838f",
+      "size": 4563,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.265305Z"
+    },
+    "ui/desktop_pc/system/desktop_os.tscn": {
+      "sha256": "b4cf10d941487952dcbe16c9ea021f64d656e1108494f2dfde05ccbc9bafc609",
+      "size": 15307,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.265799Z"
+    },
+    "ui/desktop_pc/system/desktop_window.tscn": {
+      "sha256": "bff1a639f85f670a88e7e5972f2cff24e688ef675b4ddee60dfb731bb8df6181",
+      "size": 3971,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.266090Z"
+    },
+    "ui/inventory/tab_menu.tscn": {
+      "sha256": "d4f6b04e04367de38e5a3ff8a8adb6a55b85a3231326a7aa6ef34c5976727aa0",
+      "size": 40298,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.266634Z"
+    },
+    "ui/terminal/terminal_console_ui.tscn": {
+      "sha256": "7ab9e128c3bcda2d1207bf01ce7ad06242e650bdba66ef7bbdc508eddb9ec4e6",
+      "size": 3914,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.266910Z"
+    },
+    "декали/постеры/декал_меши_пластины/01_постер_vantec_lunar_systems.tscn": {
+      "sha256": "7731f3fb7400ec2ada51157b511c9084ee0b8bc1079b36f0690b56658d149616",
+      "size": 406,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.267035Z"
+    },
+    "декали/постеры/декал_меши_пластины/02_постер_explore_the_unknown.tscn": {
+      "sha256": "76fab91809ef648f57180f5f5e919d7df891ae130a1a8bbeddebef34d84fa5d9",
+      "size": 404,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.267131Z"
+    },
+    "декали/постеры/декал_меши_пластины/03_постер_resources_for_a_longer_tomorrow.tscn": {
+      "sha256": "b8caf696202a80c60f275c33e3b63643b98b8c5e4c91ffaa5d0fc29b5ad08337",
+      "size": 428,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.267226Z"
+    },
+    "декали/постеры/декал_меши_пластины/04_постер_knowledge_drives_progress.tscn": {
+      "sha256": "9a11577f1ac85e3aeb3051f896545dc5db464dc81bd468f46b35af41dc86c305",
+      "size": 416,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.267318Z"
+    },
+    "декали/постеры/декал_меши_пластины/05_постер_your_safety_our_responsibility.tscn": {
+      "sha256": "ddbcc2d1453ef1f37456402910ad27d03024243d2758167c5174d0769e77b5a5",
+      "size": 426,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.267408Z"
+    },
+    "декали/постеры/декал_меши_пластины/06_постер_build_preserve_advance.tscn": {
+      "sha256": "6a044392a4dd940122037bb36488651a0470f0f78d3cfa2d14d8d60b78a0a6f3",
+      "size": 410,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.267500Z"
+    },
+    "декали/постеры/декал_меши_пластины/07_постер_humanity_further.tscn": {
+      "sha256": "6c4d29a5b75010c45aed9ae0a48ac6237fbb553a52c8a0dae9a192b9841f2a67",
+      "size": 398,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.267599Z"
+    },
+    "декали/постеры/декал_меши_пластины/08_постер_a_cleaner_tomorrow.tscn": {
+      "sha256": "87c914cc4593e597b8abaa24a636d684f15b3abfdcff6e22a05b727a0de257b2",
+      "size": 402,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.267725Z"
+    },
+    "декали/постеры/декал_меши_пластины/09_постер_united_efforts_lasting_progress.tscn": {
+      "sha256": "450860aacd03ee0bdd502f52262e8f3c04e913ccd59283d3e179d21fb0c38244",
+      "size": 428,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.267838Z"
+    },
+    "декали/постеры/декал_проекторы/01_постер_vantec_lunar_systems.tscn": {
+      "sha256": "2da38a3312dee2ae75b60353e12d1286dd2138507de9bbe6743ed3931da598e3",
+      "size": 534,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.267951Z"
+    },
+    "декали/постеры/декал_проекторы/02_постер_explore_the_unknown.tscn": {
+      "sha256": "91829a1dc6008e303fd068222c4ce0ff354d83a42b2e6dd50101a8e29d688781",
+      "size": 532,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.268058Z"
+    },
+    "декали/постеры/декал_проекторы/03_постер_resources_for_a_longer_tomorrow.tscn": {
+      "sha256": "1793752cb503f78349bf50834d0afe1d359cc76bd8bfcf6baa64fec73f5ccf17",
+      "size": 556,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.268229Z"
+    },
+    "декали/постеры/декал_проекторы/04_постер_knowledge_drives_progress.tscn": {
+      "sha256": "20d8c096aa46e836eb092ee9169fafa1d06e82283e69745923e1bc2fb9c5a15c",
+      "size": 544,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.268386Z"
+    },
+    "декали/постеры/декал_проекторы/05_постер_your_safety_our_responsibility.tscn": {
+      "sha256": "a1fcc62de0ce4caf44d8ba6c3ab38be8e65c200abfe5ef91d3dc21c1de2f9697",
+      "size": 554,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.268520Z"
+    },
+    "декали/постеры/декал_проекторы/06_постер_build_preserve_advance.tscn": {
+      "sha256": "5a54dd4f46e5a127dc6218c3684ceed07ad0e4cdca4ae5f3131486a4c2502a86",
+      "size": 538,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.268635Z"
+    },
+    "декали/постеры/декал_проекторы/07_постер_humanity_further.tscn": {
+      "sha256": "84294910bca83f0f8c56a20fa7437896d826eb5145d2954ab5c982c26b667a79",
+      "size": 526,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.268752Z"
+    },
+    "декали/постеры/декал_проекторы/08_постер_a_cleaner_tomorrow.tscn": {
+      "sha256": "b5eb1ad84a6305462bafcdca00f1cfb23ab129b9c5d17acc4dd36c43928b1d36",
+      "size": 530,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.268848Z"
+    },
+    "декали/постеры/декал_проекторы/09_постер_united_efforts_lasting_progress.tscn": {
+      "sha256": "f4b6ed56f5e173b0a1aaf0394cd35c8458e90baa1559e4665a0a457609d16ba4",
+      "size": 556,
+      "version": "0.1.6.5",
+      "updated_at": "2026-10-05T11:18:31.268953Z"
     }
   }
 }
